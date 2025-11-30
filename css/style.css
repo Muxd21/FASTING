@@ -15,6 +15,24 @@
     --font-main: 'Tajawal', sans-serif;
     --font-display: 'Outfit', sans-serif;
     --nav-height: 70px;
+    --nav-bg: rgba(255, 255, 255, 0.95);
+    --input-bg: white;
+    --input-border: #e5e7eb;
+    --timer-card-bg: linear-gradient(145deg, #ffffff, #f0fdf4);
+}
+
+[data-theme="dark"] {
+    --bg-color: #111827;
+    --text-main: #f9fafb;
+    --text-muted: #9ca3af;
+    --card-bg: rgba(31, 41, 55, 0.8);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --nav-bg: rgba(31, 41, 55, 0.95);
+    --input-bg: #374151;
+    --input-border: #4b5563;
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+    --timer-card-bg: linear-gradient(145deg, #1f2937, #064e3b);
 }
 
 * {
@@ -32,8 +50,10 @@ body {
     overflow-x: hidden;
     min-height: 100vh;
     /* Subtle background pattern */
-    background-image: radial-gradient(#e5e7eb 1px, transparent 1px);
+    background-image: radial-gradient(var(--text-muted) 1px, transparent 1px);
     background-size: 20px 20px;
+    opacity: 1;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .app-container {
@@ -75,7 +95,7 @@ h3 {
     left: 0;
     right: 0;
     height: var(--nav-height);
-    background: rgba(255, 255, 255, 0.95);
+    background: var(--nav-bg);
     backdrop-filter: blur(10px);
     display: flex;
     justify-content: space-around;
@@ -188,7 +208,7 @@ h3 {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    background: linear-gradient(145deg, #ffffff, #f0fdf4);
+    background: var(--timer-card-bg);
 }
 
 .timer-circle-container {
@@ -294,6 +314,11 @@ h3 {
     border-color: #fcd34d;
 }
 
+[data-theme="dark"] .daily-insight {
+    background: linear-gradient(135deg, #451a03 0%, #1f2937 100%);
+    border-color: #78350f;
+}
+
 .insight-header {
     display: flex;
     align-items: center;
@@ -323,6 +348,10 @@ h3 {
     background: rgba(0, 0, 0, 0.05);
     padding: 12px;
     border-radius: 50%;
+}
+
+[data-theme="dark"] .stat-card i {
+    background: rgba(255, 255, 255, 0.1);
 }
 
 .stat-value {
@@ -384,6 +413,10 @@ h3 {
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
+[data-theme="dark"] .history-item {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
 .history-item:last-child {
     border-bottom: none;
 }
@@ -399,7 +432,7 @@ h3 {
 
 /* News Feed */
 .news-card {
-    background: white;
+    background: var(--card-bg);
     border-radius: 16px;
     overflow: hidden;
     box-shadow: var(--shadow-sm);
@@ -455,11 +488,12 @@ h3 {
 .input-group select {
     width: 100%;
     padding: 12px;
-    border: 1px solid #e5e7eb;
+    border: 1px solid var(--input-border);
     border-radius: 12px;
     font-family: var(--font-main);
     font-size: 1rem;
-    background: white;
+    background: var(--input-bg);
+    color: var(--text-main);
 }
 
 /* Utilities */

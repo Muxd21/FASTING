@@ -12,6 +12,7 @@ const els = {
     pages: document.querySelectorAll('.page'),
     timerDisplay: document.getElementById('timer-display'),
     timerStatus: document.getElementById('timer-status-text'),
+    timerGoalText: document.getElementById('timer-goal-text'),
     progressCircle: document.querySelector('.progress-ring__circle'),
     mainBtn: document.getElementById('main-action-btn'),
     fastingDetails: document.getElementById('fasting-details'),
@@ -28,6 +29,7 @@ const els = {
     // Settings
     settingName: document.getElementById('setting-name'),
     settingGoal: document.getElementById('setting-goal'),
+    settingTheme: document.getElementById('setting-theme'),
     saveSettingsBtn: document.getElementById('save-settings-btn'),
     clearDataBtn: document.getElementById('clear-data-btn'),
     // News
@@ -82,6 +84,15 @@ function loadUserData() {
 
     const settings = Storage.getSettings();
     els.settingGoal.value = settings.goalHours;
+    els.settingTheme.value = settings.theme || 'light';
+
+    // Apply settings immediately
+    els.timerGoalText.textContent = `الهدف: ${settings.goalHours} ساعة`;
+    applyTheme(settings.theme || 'light');
+}
+
+function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
 }
 
 // --- Fasting Logic ---
@@ -307,11 +318,15 @@ function setupSettings() {
     els.saveSettingsBtn.addEventListener('click', () => {
         const name = els.settingName.value;
         const goal = parseInt(els.settingGoal.value);
+        const theme = els.settingTheme.value;
 
         Storage.saveUserProfile({ ...Storage.getUserProfile(), name });
-        Storage.saveSettings({ ...Storage.getSettings(), goalHours: goal });
+        Storage.saveSettings({ ...Storage.getSettings(), goalHours: goal, theme: theme });
 
         els.userName.textContent = name;
+        els.timerGoalText.textContent = `الهدف: ${goal} ساعة`;
+        applyTheme(theme);
+
         showToast('تم حفظ الإعدادات');
     });
 
