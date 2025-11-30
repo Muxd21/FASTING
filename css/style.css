@@ -282,13 +282,21 @@ h3 {
 
 .btn-secondary {
     background: var(--text-main);
-    color: white;
+    color: var(--bg-color);
+    /* Invert colors for contrast */
     border: none;
     padding: 12px 24px;
     border-radius: 12px;
     font-weight: 600;
     width: 100%;
     cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+[data-theme="dark"] .btn-secondary {
+    background: var(--primary-color);
+    /* Use primary color in dark mode for better visibility */
+    color: white;
 }
 
 .btn-outline {
