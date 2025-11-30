@@ -411,6 +411,22 @@ function setupSettings() {
             location.reload();
         }
     });
+
+    // Logout button (if exists)
+    const logoutBtn = document.getElementById('logout-btn');
+    if (logoutBtn) {
+        logoutBtn.addEventListener('click', async () => {
+            if (confirm('هل تريد تسجيل الخروج؟')) {
+                try {
+                    await fastDB.logout();
+                    window.location.href = 'login.html';
+                } catch (error) {
+                    console.error('Logout error:', error);
+                    showToast('حدث خطأ أثناء تسجيل الخروج');
+                }
+            }
+        });
+    }
 }
 
 // --- Utilities ---
