@@ -101,9 +101,6 @@ class FastDB {
      * Login user
      */
     async login(emailOrUsername, password) {
-        const transaction = this.db.transaction(['users'], 'readonly');
-        const store = transaction.objectStore('users');
-
         // Try to find by email first
         let user = await this.getUserByEmail(emailOrUsername);
 
@@ -196,11 +193,12 @@ class FastDB {
     }
 
     async updateLastLogin(userId) {
-        const transaction = this.db.transaction(['users'], 'readwrite');
-        const store = transaction.objectStore('users');
-
+        // Get user first, THEN create transaction
         const user = await this.getUserById(userId);
         user.lastLogin = Date.now();
+
+        const transaction = this.db.transaction(['users'], 'readwrite');
+        const store = transaction.objectStore('users');
 
         return new Promise((resolve, reject) => {
             const request = store.put(user);
