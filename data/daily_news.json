@@ -1,7 +1,20 @@
 {
-  "updated_at": "2025-12-13T06:29:00.361453",
+  "updated_at": "2025-12-14T06:28:44.563106",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "سوريا وما يثار حول إطلاق عملة رقمية جديدة.. البنك المركزي يرد",
+      "description": "عقّب المصرف السوري المركزي على ما يثار من إصداره عملة رقمية جديدة، مؤكدا على أن ذلك شائعات لا صحة لها.",
+      "url": "https://arabic.cnn.com/middle-east/article/2025/12/13/syria-new-digital-currency-central-bank-response-statement",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1280,h_672,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/13/images/317541.jpg",
+      "publishedAt": "2025-12-13T06:24:01Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/05/07/1088622631_0:0:3072:1728_2072x0_60_0_0_dcc69eda731dc97514018b4e028e2c70.jpg.webp",
       "publishedAt": "2025-12-03T11:32:43Z",
       "content": "https://sarabic.ae/20251203/--------------1107771782.html\r\nhttps://cdn.img.sarabic.ae/img/07e8/05/07/1088622631_0:0:3072:1728_1920x0_80_0_0_2cf162f5cfcf0ff44e69574024c5a8b7.jpg.webp\r\n \" \". \" \". \" / 2… [+423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "محمد صلاح",
-      "title": "غذاء لا غنى عنه للنساء.. 5 أفكار مبدعة للاستمتاع بتناول البروكلي",
-      "description": "البروكلي ليس مجرد طبق جانبي، بل هو كنز لصحة المرأة؛ فهو غني بمركبات تُفيد كل شيء، من الهرمونات إلى البشرة المتألقة؛ والتغلب على حب الشباب، إلى المحافظة على صحة القلب.",
-      "url": "https://www.aljazeera.net/family/2025/12/3/%d8%ba%d8%b0%d8%a7%d8%a1-%d9%84%d8%a7-%d8%ba%d9%86%d9%89-%d8%b9%d9%86%d9%87-%d9%84%d9%84%d9%86%d8%b3%d8%a7%d8%a1-5-%d8%a3%d9%81%d9%83%d8%a7%d8%b1-%d9%85%d8%a8%d8%af%d8%b9%d8%a9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2014/05/450f0d62-f6ab-4e23-b4df-394d91047c08.jpeg?resize=1200%2C675",
-      "publishedAt": "2025-12-03T09:44:36Z",
-      "content": "( )\r\n\" .\r\n 25 55 \". \" \".\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2.. </li></ul>end of list\r\n 8 :\r\n : \" \".\r\n \" \" 2018 \" \".\r\n 46% .\r\n 77% \"\" 2006 .\r\n \"\" .\r\n 40%. 2024 .\r\n .\r\n 168 42% … [+121 chars]"
     }
   ]
 }
