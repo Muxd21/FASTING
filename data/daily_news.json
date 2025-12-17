@@ -1,7 +1,20 @@
 {
-  "updated_at": "2025-12-16T06:32:33.057875",
+  "updated_at": "2025-12-17T06:32:08.828797",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "من هم \"الحشاشون\" وما صحة الروايات التاريخية عنهم؟",
+      "description": "في 15 ديسمبر/ كانون الأول من عام 1256 استولى هولاكو خان قائد المغول على المعقل الرئيسي لطائفة النزاريين في ألموت، فدمر قلعتهم وقضى على وجودهم في بلاد فارس، فما قصتهم؟",
+      "url": "https://www.bbc.com/arabic/articles/cvgrrkm1lrwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/4d43/live/4c20af70-d763-11f0-b252-db9838d38426.jpg",
+      "publishedAt": "2025-12-15T11:08:44Z",
+      "content": "Getty Images\r\n15 / 1256 \"\" .\r\n .\r\n 1167 13 \" \".\r\n .\r\n .\r\n\"\" assassin .\r\n \"\" .\r\nGetty Images\r\n.\r\n1090 .\r\n .\r\n .\r\n .\r\n .\r\n \" \" .\r\n \" \" 30 .\r\n \" \" \"\" .\r\n .\r\nGetty Images\r\n.\r\n .\r\n \"\" 1092 .\r\n 1192.\r\n \"\" … [+244 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/2aff8c36-f55b-4b4b-9be4-29edc77d9bc2",
       "publishedAt": "2025-12-08T09:10:00Z",
       "content": ", Dec. 08, 2025 (GLOBE NEWSWIRE) --   Earth Rover Program\"soilsmology \" - . Bezos Earth Fund . .\r\n 99 . 75 . . Earth Rover Program \"\" . - .\r\n . 10 . .\r\n. ( MEMS) 1,000 2023 10 . . - - .\" \r\nEarth Rove… [+612 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "وزيرة الأمن الداخلي الأمريكية تؤكد صحة تقرير CNN حول زيادة عدد \"الدول المحظورة\"",
-      "description": "أكدت وزيرة الأمن الداخلي الأمريكية كريستي نويم أن إدارة الرئيس دونالد ترامب تخطط لزيادة قائمة الدول التي يشملها حظر السفر إلى الولايات المتحدة.",
-      "url": "https://arabic.cnn.com/world/article/2025/12/05/noem-confirms-cnn-reporting-that-the-list-of-countries-on-homeland-securitys-travel-ban-list-will",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/05/images/316827.jpg",
-      "publishedAt": "2025-12-05T02:29:51Z",
-      "content": ""
     }
   ]
 }
