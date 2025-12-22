@@ -1,7 +1,59 @@
 {
-  "updated_at": "2025-12-21T06:29:20.327743",
+  "updated_at": "2025-12-22T06:34:00.093670",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "أسوشيتد برس تطلق لوحة تحكم شاملة لمساعدة الصحفيين على التحقق من المعلومات",
+      "description": "أطلقت وكالة أسوشيتد برس أداة مدعومة بالذكاء الاصطناعي لمساعدة الصحفيين على التحقق من صحة النصوص والصور ومقاطع الفيديو في مكان واحد.",
+      "url": "https://www.aljazeera.net/media/2025/12/20/%d8%a3%d8%b3%d9%88%d8%b4%d9%8a%d8%aa%d8%af-%d8%a8%d8%b1%d8%b3-%d8%aa%d8%b7%d9%84%d9%82-%d9%84%d9%88%d8%ad%d8%a9-%d8%aa%d8%ad%d9%83%d9%85-%d8%b4%d8%a7%d9%85%d9%84%d8%a9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/apverify-2048x1536-1766240680.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2025-12-20T13:34:37Z",
+      "content": ".\r\n \" \" (AP Verify) .\r\nlist of 2 items<ul><li>list 1 of 2\" 8 \" </li><li>list 2 of 2</li></ul>end of list\r\n \" \" .\r\n .\r\n \" \" .\r\n : \" \" \" \" .\r\n .\r\n .\r\n \" \" .\r\n \" \" (Fact Check) \"Trint\" \"Graylark\" \"GPT Z… [+65 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "مصر تحسم الجدل حول لقاء السيسي ونتنياهو بعد صفقة الغاز",
+      "description": "حسمت مصر الجدل المثار بشأن ما تردد عن احتمال عقد لقاء بين الرئيس المصري عبد الفتاح السيسي، ورئيس الوزراء الإسرائيلي بنيامين نتنياهو، نافية صحة الأنباء المتداولة حول هذا الشأن.",
+      "url": "https://sarabic.ae/20251220/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%AD%D9%88%D9%84-%D9%84%D9%82%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%88%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A8%D8%B9%D8%AF-%D8%B5%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-1108379804.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/0a/0d/1105972445_0:0:3072:1728_2072x0_60_0_0_bd0c4cba2fe14453fc1c4e599d9ed496.jpg.webp",
+      "publishedAt": "2025-12-20T11:09:37Z",
+      "content": ": \" 112 ( 35 ) 58 ( 16 ) \"."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "هل تعتذر إسرائيل عن اتهام إيران بقتل أستاذ الطاقة النووية نونو لوريرو؟",
+      "description": "التحقيقات الأميركية تكشف عدم صحة الرواية الإسرائيلية بشأن مقتل أستاذ الطاقة النووية، نونو لوريرو، مؤكدة أن الجريمة لا تحمل أي صلة بإيران، بعد العثور على القاتل منتحرا.",
+      "url": "https://www.aljazeera.net/news/2025/12/20/%d9%87%d9%84-%d8%aa%d8%b9%d8%aa%d8%b0%d8%b1-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%b9%d9%86-%d8%a7%d8%aa%d9%87%d8%a7%d9%85-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%a8%d9%82%d8%aa%d9%84",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/Capture-1766228398.png?resize=1200%2C630",
+      "publishedAt": "2025-12-20T08:45:02Z",
+      "content": "-- .\r\n . 8 .\r\n .\r\n \"\" (2025/12/19) .\r\n :\r\n\" MIT . \".\r\n:\r\n\" MIT \".\r\n:\r\n\" MIT \".\r\n:\r\n\" \".\r\n:\r\n\" \".\r\n:\r\n\" : : : : MIT: \".\r\n."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "غروسي: الوكالة الدولية للطاقة الذرية تصر على الوصول للمنشآت النووية الإيرانية للتحقق من مزاعم طهران",
+      "description": "أكد المدير العام للوكالة الدولية للطاقة الذرية رافائيل غروسي، تمسّك الوكالة بضرورة \"السماح لمفتشيها بدخول المنشآت النووية الإيرانية، للتحقق من صحة تأكيدات طهران بشأن عدم أمان بعض المواقع وصعوبة الوصول إليها\"، وفق تعبيره.",
+      "url": "https://sarabic.ae/20251220/%D8%BA%D8%B1%D9%88%D8%B3%D9%8A-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B5%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%84%D9%85%D9%86%D8%B4%D8%A2%D8%AA-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-1108366492.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/06/02/1101217939_0:17:1014:587_2072x0_60_0_0_54c2689c81d65932777aa8177edb13fd.jpg.webp",
+      "publishedAt": "2025-12-20T07:37:33Z",
+      "content": "https://sarabic.ae/20251220/---------------1108366492.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/06/02/1101217939_0:17:1014:587_1920x0_80_0_0_9a56bb1b5578f4a038150c8bb55019dc.jpg.webp\r\n - . \"\" \" \" \" \"… [+563 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -79,58 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1280,h_672,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/13/images/317541.jpg",
       "publishedAt": "2025-12-13T06:24:01Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "صحة غزة: البرد يهدد حياة الأطفال وكبار السن بخيام القطاع",
-      "description": "حذّر مدير عام وزارة الصحة بقطاع غزة منير البرش، الخميس، من وفاة أطفال وكبار سن ومرضى جراء انخفاض درجات الحرارة داخل خيام النازحين التي غمرتها مياه الأمطار خلال المنخفض الجوي الذي يضرب القطاع.",
-      "url": "https://www.aljazeera.net/health/2025/12/11/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d8%af-%d9%8a%d9%87%d8%af%d8%af-%d8%ad%d9%8a%d8%a7%d8%a9-%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d9%88%d9%83%d8%a8%d8%a7%d8%b1",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/image-1765458605.jpg?resize=1920%2C1080&quality=80",
-      "publishedAt": "2025-12-11T12:06:00Z",
-      "content": ".\r\n 24 2500 .\r\n .\r\n .\r\n \" \".\r\n \" \".\r\n \" \".\r\n .\r\n .\r\n : \" \".\r\n / 93% 125 135 .\r\n 10 / .\r\n ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "صحة غزة: 100 ألف طفل دون الخامسة يواجهون خطر الموت بردا",
-      "description": "حذر المدير العام لوزارة الصحة في غزة الدكتور منير البرش من تداعيات المنخفض الجوي الجديد الذي يهدد آلاف العائلات النازحة في المخيمات، معتبرا أن المطر والبرد يتحولان إلى تهديد لحياة الفئات الهشة.",
-      "url": "https://www.aljazeera.net/news/2025/12/11/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-100-%d8%a3%d9%84%d9%81-%d8%b7%d9%81%d9%84-%d8%af%d9%88%d9%86-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d8%a9-%d9%8a%d9%88%d8%a7%d8%ac%d9%87%d9%88%d9%86",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/image-1765454561.jpg?resize=1920%2C1080&quality=80",
-      "publishedAt": "2025-12-11T11:27:04Z",
-      "content": ".\r\n .\r\n .\r\n (8 ) .\r\n 70% 312 710 .\r\n 102 9   .\r\n .\r\n () .\r\n \"\" .\r\n .\r\n 15 600 88 .\r\n 300 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "الالتزام بمواعيد ثابتة للنوم يخفض ضغط الدم",
-      "description": "وجدت دراسة حديثة أجريت في الولايات المتحدة أن الالتزام بمواعيد ثابتة للنوم كل ليلة يساعد في خفض ضغط الدم والحفاظ على صحة القلب.",
-      "url": "https://www.aljazeera.net/health/2025/12/9/%d8%a7%d9%84%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85-%d8%a8%d9%85%d9%88%d8%a7%d8%b9%d9%8a%d8%af-%d8%ab%d8%a7%d8%a8%d8%aa%d8%a9-%d9%84%d9%84%d9%86%d9%88%d9%85-%d9%8a%d8%ae%d9%81%d8%b6-%d8%b6%d8%ba%d8%b7",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2022/07/image-52.jpg?resize=1920%2C1080&quality=80",
-      "publishedAt": "2025-12-09T05:39:00Z",
-      "content": ".\r\n Oxford University Press 11 .\r\n 30 7 .\r\n () 4 () 3 24 .\r\n 5 4 5 10%.\r\n \" \" .\r\n ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "مصر توضح حقيقة رفع رسوم تأشيرة الدخول إلى البلاد",
-      "description": "أصدرت وزارة السياحة والآثار المصرية بيانًا، نفت فيه صحة ما تداولته بعض الصحف والمواقع الإلكترونية بشأن رفع رسوم تأشيرة دخول مصر من 25 دولارا إلى 45 دولارا، مؤكدة أن هذه الأنباء \"عارية تمامًا من الصحة\".",
-      "url": "https://sarabic.ae/20251208/%D9%85%D8%B5%D8%B1-%D8%AA%D9%88%D8%B6%D8%AD-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B1%D9%81%D8%B9-%D8%B1%D8%B3%D9%88%D9%85-%D8%AA%D8%A3%D8%B4%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-1107950886.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/101362/46/1013624660_0:0:3000:1688_2072x0_60_0_0_1be1eaddf0b1239db3746c1967a16afe.jpg.webp",
-      "publishedAt": "2025-12-08T18:16:44Z",
-      "content": "https://sarabic.ae/20251208/---------1107950886.html\r\nhttps://cdn.img.sarabic.ae/img/101362/46/1013624660_0:0:3000:1688_1920x0_80_0_0_c2433acb3f0c4c3ff886752298043e18.jpg.webp\r\nhttps://sarabic.ae/202… [+287 chars]"
     }
   ]
 }
