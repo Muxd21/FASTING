@@ -1,7 +1,33 @@
 {
-  "updated_at": "2025-12-26T06:31:30.076833",
+  "updated_at": "2025-12-27T06:29:55.214589",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "مصر ترد على ما أثير حول رسو سفينة أسلحة ومعدات عسكرية في ميناء بورسعيد",
+      "description": "نفت الهيئة العامة للمنطقة الاقتصادية لقناة السويس، في بيان لها الخميس، صحة ما جرى تداوله عبر وسائل التواصل الاجتماعي حول رسو سفينة تحمل على متنها معدات عسكرية وأسلحة في ميناء بورسعيد.",
+      "url": "https://arabic.cnn.com/middle-east/article/2025/12/25/egypt-military-equipment-ship-port-said",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1200,h_630,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/25/images/318792.jpg",
+      "publishedAt": "2025-12-25T15:59:19Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "كنوز الأطعمة الداكنة.. لماذا ينصح بها خبراء التغذية؟",
+      "description": "تظهر الأبحاث أن الأطعمة الغنية بالبوليفينولات مثل القهوة، الشوكولاتة الداكنة، التوت وزيت الزيتون تسهم في دعم صحة القلب عبر تحسين مرونة الأوعية الدموية، تقليل الالتهاب، وتنظيم الكوليسترول.",
+      "url": "https://www.aljazeera.net/lifestyle/2025/12/25/%d9%83%d9%86%d9%88%d8%b2-%d8%a7%d9%84%d8%a3%d8%b7%d8%b9%d9%85%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d9%83%d9%86%d8%a9-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d9%86%d8%b5%d8%ad-%d8%a8%d9%87%d8%a7",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/3co-berry-1766494314.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-12-25T13:23:13Z",
+      "content": "()\r\n. .\r\n . . .\r\n .\r\n \" \" 3100 10 . .\r\n (HDL) .\r\n - .\r\n .\r\n .\r\n ()\r\n:\r\n : .\r\n : . C .\r\n : LDL ( ) HDL ( ) .\r\n : . .\r\n :\r\n ()\r\n:\r\n .\r\n . .\r\n .\r\n ."
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/06/02/1101217939_0:17:1014:587_2072x0_60_0_0_54c2689c81d65932777aa8177edb13fd.jpg.webp",
       "publishedAt": "2025-12-20T07:37:33Z",
       "content": "https://sarabic.ae/20251220/---------------1108366492.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/06/02/1101217939_0:17:1014:587_1920x0_80_0_0_9a56bb1b5578f4a038150c8bb55019dc.jpg.webp\r\n - . \"\" \" \" \" \"… [+563 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "الشتاء خطر صامت.. نصائح أساسية لحماية قدم مرضى السكري",
-      "description": "يمثل فصل الشتاء تحديا إضافيا للأشخاص المصابين بمرض السكري، خاصة عندما يتعلق الأمر بالحفاظ على صحة القدمين. درجات الحرارة المنخفضة والرطوبة يمكن أن تزيد من مخاطر تقرحات القدم، العدوى وضعف التروية.",
-      "url": "https://www.aljazeera.net/health/2025/12/19/%d8%a7%d9%84%d8%b4%d8%aa%d8%a7%d8%a1-%d8%ae%d8%b7%d8%b1-%d8%b5%d8%a7%d9%85%d8%aa-%d9%86%d8%b5%d8%a7%d8%a6%d8%ad-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a9-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/67177-1766163407.jpg?resize=1200%2C630",
-      "publishedAt": "2025-12-19T14:25:04Z",
-      "content": "()\r\n. . .\r\n . .\r\n ( ) . .\r\n \"\" . .\r\n \"\" ()\r\n(ACFAS) .\r\n . .\r\n .\r\n ( ) .\r\n . ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "من هم \"الحشاشون\" وما صحة الروايات التاريخية عنهم؟",
-      "description": "في 15 ديسمبر/ كانون الأول من عام 1256 استولى هولاكو خان قائد المغول على المعقل الرئيسي لطائفة النزاريين في ألموت، فدمر قلعتهم وقضى على وجودهم في بلاد فارس، فما قصتهم؟",
-      "url": "https://www.bbc.com/arabic/articles/cvgrrkm1lrwo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/4d43/live/4c20af70-d763-11f0-b252-db9838d38426.jpg",
-      "publishedAt": "2025-12-15T11:08:44Z",
-      "content": "Getty Images\r\n15 / 1256 \"\" .\r\n .\r\n 1167 13 \" \".\r\n .\r\n .\r\n\"\" assassin .\r\n \"\" .\r\nGetty Images\r\n.\r\n1090 .\r\n .\r\n .\r\n .\r\n .\r\n \" \" .\r\n \" \" 30 .\r\n \" \" \"\" .\r\n .\r\nGetty Images\r\n.\r\n .\r\n \"\" 1092 .\r\n 1192.\r\n \"\" … [+244 chars]"
     }
   ]
 }
