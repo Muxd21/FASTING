@@ -1,7 +1,20 @@
 {
-  "updated_at": "2025-12-31T06:32:33.847442",
+  "updated_at": "2026-01-01T06:32:22.203033",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tech-wd.com"
+      },
+      "author": "فريق التحرير",
+      "title": "سامسونج تكشف عن ميزة “صحة الدماغ” لاكتشاف علامات الخرف المبكر عبر أجهزتها الذكية",
+      "description": "تستعد سامسونج لاستعراض ميزة صحية مبتكرة تُدعى Brain Health خلال معرض الإلكترونيات الاستهلاكية CES 2026 في لاس فيغاس الشهر المقبل. وتهدف الميزة الجديدة إلى رصد العلامات المبكرة لتدهور القدرات الإدراكية والخرف بالاعتماد على تحليل بيانات المستخدمين التي تجمعها ه…",
+      "url": "https://www.tech-wd.com/wd/2025/12/30/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d9%8a%d8%b2%d8%a9-%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d8%af%d9%85%d8%a7%d8%ba-%d9%84%d8%a7%d9%83%d8%aa%d8%b4/",
+      "urlToImage": "https://www.tech-wd.com/wd/wp-content/uploads/2025/12/samsung-smartwatch-health.jpg",
+      "publishedAt": "2025-12-30T10:03:23Z",
+      "content": "Brain Health CES 2026 .\r\n .\r\n Brain Health\r\n :\r\n .\r\n .\r\n &gt; \r\n“ ” Samsung Health ECG .\r\n .\r\n CES 2026 “The First Look” .\r\n ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/image-1766488122.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-12-23T08:34:14Z",
       "content": ".\r\n \" \" .\r\n .\r\n 72% .\r\n 4 40 .\r\n 320 .\r\n 19 989 18 500 3700 .\r\n 4300 / 2024 .\r\n 1156 \" \" .\r\n \" \" 3788 ."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "بيان من الجيش المصري بشأن ما أثارته وثائق منسوبة له حول منح ضباط امتيازات",
-      "description": "أصدر الجيش المصري بيانًا بشأن ما أثير عن منح امتيازات لضباط القوات المسلجة امتيازات، نافيًا صحة وثائق متداولة، قال إنها \"ادعاءات زائفة\".",
-      "url": "https://arabic.cnn.com/middle-east/article/2025/12/22/egypt-army-statement-documents-attributed-privileges",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_121,w_5992,h_3370,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/22/images/318427.jpg",
-      "publishedAt": "2025-12-21T20:27:44Z",
-      "content": ""
     }
   ]
 }
