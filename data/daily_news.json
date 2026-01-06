@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-01-05T06:37:56.589618",
+  "updated_at": "2026-01-06T06:33:29.571902",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "بعد فحص العينات.. صحة غزة تنفي تسجيل حالات إصابة بـ\"داء البريميات\"",
+      "description": "نفت وزارة الصحة في غزة، السبت، تسجيل أي حالات إصابة مؤكدة بمرض الليبتوسبيروزيس - المعروف بـ\"داء البريميات\" - في القطاع، مؤكدة أن جميع العينات التي خضعت للفحص جاءت نتائجها سلبية.",
+      "url": "https://www.aljazeera.net/health/2026/1/4/%d8%a8%d8%b9%d8%af-%d9%81%d8%ad%d8%b5-%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d8%aa-%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%aa%d9%86%d9%81%d9%8a-%d8%aa%d8%b3%d8%ac%d9%8a%d9%84",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/image-1767536633.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-01-04T14:14:07Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/04/shutterstock_2029232828-1745821354.jpg?resize=1920%2C1440",
       "publishedAt": "2025-12-29T10:07:57Z",
       "content": "()\r\n. \" \" .\r\n .\r\n . .\r\n. \" \" .\r\n \" \". \" \".\r\n \" \".\r\n \" \".\r\n . .\r\n : 75% .\r\n 12 .\r\n :\r\n \" \" \" \" .\r\n ."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "\"قفز من كوبري أكتوبر وانتحر\".. داخلية مصر ترد على ادعاءات خطف أجنبي بالقاهرة وتؤكد العثور على جثته",
-      "description": "عقّبت وزارة الداخلية المصري على ادعاءات متداولة حول حادثة اختطاف لرجل أجنبي في العاصمة، القاهرة، نافية صحة ذلك.",
-      "url": "https://arabic.cnn.com/middle-east/article/2025/12/28/egypt-moi-response-allegations-kiddnap-foreigner-suicide",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1280,h_672,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/28/images/318926.jpg",
-      "publishedAt": "2025-12-28T06:24:59Z",
-      "content": ""
     }
   ]
 }
