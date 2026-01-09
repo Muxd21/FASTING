@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-01-08T06:33:35.014487",
+  "updated_at": "2026-01-09T06:33:10.545646",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "السعودية تحذّر من استهلاك بعض منتجات حليب الأطفال لـ\"نستله\" بسبب مواد سامة",
+      "description": "أصدرت الهيئة العامة للغذاء والدواء في السعودية تحذيرًا بشأن استهلاك عدد من منتجات حليب أطفال من إنتاج شركة \"نستله\"، وذلك لاحتمالية تلوثها بسُم تفرزه بكتيريا \"باسيلس سيريوس\"، التي قد تشكل خطرًا على صحة الرضع.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/01/07/sfda-issues-warning-against-specific-nestle-infant-formula-products",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_1031,w_2200,h_1237,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/07/images/319895.jpg",
+      "publishedAt": "2026-01-07T07:39:50Z",
+      "content": "(CNN) -- \"\" \" \" .\r\n \"\":  \" \"NAN\" \"ALFAMINO\" - 26 \"S-26 GOLD\" - 26 \"S-26 ULTIMA\" \"\" (Cereulide) \" \" (Bacillus cereus) \".\r\n . \r\n .\r\n .\r\n . \r\n ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/01/images/319282.jpg",
       "publishedAt": "2026-01-01T02:21:47Z",
       "content": "(CNN) --   (CIA)  .\r\n  CNN  . .\r\n \" \" . \r\n : \" . \" \" \" \" \" : \" \".\r\n  . \" \" : \" \"\" \". \r\n \" \" \" \".  \r\n : \" : . ( ) . ( ) \" \". \".\r\n CNN .\r\n - - . \r\n .\r\n .\r\n \" \".\r\n 91 .\r\n .\r\n .\r\n ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "د. أسامة أبو الرُّب",
-      "title": "4 أمور انتبه لها للحفاظ على صحة المسالك البولية",
-      "description": "قد يكون فهم آلية عمل المسالك البولية والأعضاء التناسلية أمرا غامضا بعض الشيء. لكن هناك أمر واحد مؤكد، عندما لا تعمل هذه الأعضاء كما ينبغي، فقد يكون الأمر مؤلما وغير مريح، بل ومزعجا للغاية.",
-      "url": "https://www.aljazeera.net/health/2025/12/31/4-%d8%a3%d9%85%d9%88%d8%b1-%d8%a7%d9%86%d8%aa%d8%a8%d9%87-%d9%84%d9%87%d8%a7-%d9%84%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%84%d9%83",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2023/12/GettyImages-1218531906-1701841784.jpg?resize=1920%2C1440",
-      "publishedAt": "2025-12-31T14:38:10Z",
-      "content": ". .\r\n . 4 :\r\n . .\r\n ( ) .\r\n 12 ( 3 ) ( ) .\r\n( )\r\n. . .\r\n :\r\n .\r\n .\r\n( ) . .\r\n .\r\n :"
     }
   ]
 }
