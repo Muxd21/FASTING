@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-01-15T06:33:20.140296",
+  "updated_at": "2026-01-16T06:33:33.290698",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "احذر من نقص هذا الفيتامين.. أعراض صامتة تُهدّد صحة جسمك",
+      "description": "هل سمعت يومًا عن \"النياسين\"؟ يُعدّ أحد الفيتامينات الثمانية التابعة لمجموعة \"ب\"، ويلعب دورًا أساسيًا في تحويل الطعام إلى طاقة يستفيد منها جسم الإنسان في مختلف وظائفه الحيوية.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/01/14/niacin-health-benefits",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/29/images/319044.jpg",
+      "publishedAt": "2026-01-14T07:06:22Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/0b/07/1094576179_0:0:1920:1080_2072x0_60_0_0_d9faf4e98989c7c7888fb13b340219de.jpg.webp",
       "publishedAt": "2026-01-03T16:45:13Z",
       "content": "https://sarabic.ae/20260103/--------1108876434.html\r\nhttps://cdn.img.sarabic.ae/img/07e8/0b/07/1094576179_0:0:1920:1080_1920x0_80_0_0_81a4c402a7e7b7c60d857c365c834521.jpg.webp\r\nhttps://sarabic.ae/202… [+291 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "مصدر يمني يعلق على \"إغلاق مطار عدن\" و\"مذكرة سعودية\" بشأن رحلات جوية",
-      "description": "قال مصدر يمني مسؤول إنه لا صحة لإصدار الحكومة توجيهات بإغلاق مطار عدن أمام حركة الملاحة الجوية، حسبما أفادت وكالة الأنباء اليمنية الرسمية (سبأ).",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/01/01/yemeni-source-comments-aden-airport-closure-saudi-memo-flights",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_4958,h_2789,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/01/images/319344.jpg",
-      "publishedAt": "2026-01-01T18:37:49Z",
-      "content": ""
     }
   ]
 }
