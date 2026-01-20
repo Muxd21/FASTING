@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-01-19T06:37:34.969680",
+  "updated_at": "2026-01-20T06:35:40.493283",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "ناصر صادق",
+      "title": "هدف ملغي وركلة جزاء.. ما صحة قرارات حكم نهائي كأس أفريقيا؟",
+      "description": "نتناول بالتحليل أبرز الحالات التحكيمية التي كادت تتسبب في عدم اكتمال مباراة المغرب ضد السنغال بنهائي كأس أفريقيا.",
+      "url": "https://www.aljazeera.net/sport/2026/1/19/%d9%85%d8%a7-%d8%b5%d8%ad%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ad%d9%83%d9%85-%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/afp_696d52e0c9be-1768772320.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-01-18T19:18:04Z",
+      "content": "()\r\n2025 15 .\r\n 1- .\r\nlist of 2 itemsend of list\r\n (VAR).\r\n 12 ( ) .\r\n .\r\n .\r\n \"\" ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/203006-1767625154.jpg?resize=1200%2C630",
       "publishedAt": "2026-01-05T12:16:54Z",
       "content": "( )\r\n.\r\n - - 10 65 . \" \".\r\nlist of 2 itemsend of list\r\n \"\" .\r\n ( )\r\n. . 18.3% () 2025.\r\n . . .\r\n 2021 477 71% .\r\n 17.2 2030.\r\n ( )\r\n.\r\n .\r\n . .\r\n .\r\n \"\" 2025 . .\r\n ()\r\n.\r\n.\r\n .\r\n ( )\r\n\"\" . ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "بعد فحص العينات.. صحة غزة تنفي تسجيل حالات إصابة بـ\"داء البريميات\"",
-      "description": "نفت وزارة الصحة في غزة، السبت، تسجيل أي حالات إصابة مؤكدة بمرض الليبتوسبيروزيس - المعروف بـ\"داء البريميات\" - في القطاع، مؤكدة أن جميع العينات التي خضعت للفحص جاءت نتائجها سلبية.",
-      "url": "https://www.aljazeera.net/health/2026/1/4/%d8%a8%d8%b9%d8%af-%d9%81%d8%ad%d8%b5-%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d8%aa-%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%aa%d9%86%d9%81%d9%8a-%d8%aa%d8%b3%d8%ac%d9%8a%d9%84",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/image-1767536633.jpg?resize=1920%2C1080&quality=80",
-      "publishedAt": "2026-01-04T14:14:07Z",
-      "content": ""
     }
   ]
 }
