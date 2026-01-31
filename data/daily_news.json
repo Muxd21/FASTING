@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-01-30T06:48:13.045349",
+  "updated_at": "2026-01-31T06:37:49.751325",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "معرض CES.. ميزان ذكي يستخدم الذكاء الاصطناعي لمتابعة صحة الجسم والقلب",
+      "description": "معرض CES.. ميزان ذكي يستخدم الذكاء الاصطناعي لمتابعة صحة الجسم والقلب",
+      "url": "https://www.bbc.com/arabic/articles/ce3kepqn65po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/becd/live/bc6ed300-fd61-11f0-b7e1-afb6d0884c18.jpg",
+      "publishedAt": "2026-01-29T22:28:57Z",
+      "content": "CES Bodyscan 2 . \r\n . \r\n .\r\n 17.30 .\r\n : facebook.com/BBC4Tech\r\n : @BBC4Tech\r\n 4"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "\"هل يمكن أن تجعلنا الحبوب الذكية أكثر صحة؟\" - مقال في فاينانتشيال تايمز",
+      "description": "جولة متنوعة في الصحف البريطانية، تتطرق إلى ابتكار حبوب علاجية ذكية، وكذلك خوارزميات شركات التكنولوجيا وتأثيراتها على المستخدمين، وأخيراً زيارة رئيس الوزراء البريطاني إلى الصين.",
+      "url": "https://www.bbc.com/arabic/articles/c3veyd7w2dqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/a819/live/6e16a970-fd08-11f0-a348-87ce2b32c61c.png",
+      "publishedAt": "2026-01-29T12:47:45Z",
+      "content": "Getty Images\r\n.\r\n \" \" \" \" .\r\n \" \" 125 .\r\n .\r\n .\r\n.\r\n\" . \" .\r\n : \" \".\r\n\" \".\r\n .\r\n\" \" .\r\n \" \" (RFID) .\r\n .\r\n . .\r\n . 24 (RFID) .\r\n . .\r\n .\r\n .\r\n .\r\n .\r\n \" \" : \" \".\r\n . : \r\n .\r\n .\r\nGetty Images\r\n\"\" : \" … [+257 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/image-1769196766.jpg?resize=1200%2C630",
       "publishedAt": "2026-01-23T16:33:10Z",
       "content": ".\r\n 200 \" \" .\r\n 24 9 . \" \".\r\n \" \" 2025. 48 4900 4 315 .\r\n 616 \" \" .\r\n .\r\n 18 500 \" \" 1022 .\r\n 2400 57% .\r\n .\r\n 150%.\r\n / 2025 466 1294 .\r\n 41% \"\" 56 48 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "عبد القادر الباي",
-      "title": "ضباط النظام السوري السابق في لبنان... بين التحقيقات الأمنية والرسائل السياسية",
-      "description": "على مدى الأسابيع الماضية، تصدّر موضوع وجود ضباط ومسؤولين من النظام السوري السابق في لبنان اهتمام الإعلام والجمهور، وسط تساؤلات حول طبيعة وجودهم وأنشطتهم المحتملة، وما صاحب ذلك من دعوات واسعة للقبض عليهم وملاحقتهم. وفي هذا الإطار، باشرت الأجهزة الأمنية اللبنان…",
-      "url": "https://sarabic.ae/20260123/%D8%B6%D8%A8%D8%A7%D8%B7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-1109564041.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e7/0a/05/1081699162_0:160:3072:1888_2072x0_60_0_0_c3c3de2082cd92dcd98c4a6da269206e.jpg.webp",
-      "publishedAt": "2026-01-23T15:36:14Z",
-      "content": "https://sarabic.ae/20260123/-----------1109564041.html\r\nhttps://cdn.img.sarabic.ae/img/07e7/0a/05/1081699162_0:160:3072:1888_1920x0_80_0_0_be9315362d7982c547321b0316c7174c.jpg.webp\r\n \" \" \" \" \" \" \".\" … [+903 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "الضغوط المالية تهدد القلب.. والاعتراف بالخطر ضرورة",
-      "description": "تُثير دراسة جديدة تساؤلات حول تأثير الضغوط المالية على صحة القلب والأوعية الدموية. وتشرح الدكتورة ليانا وين ما يمكن للأفراد فعله لحماية قلوبهم.",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/01/23/stress-financial-cardiovascular-heart-wellness",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_208,w_1993,h_1121,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/18/images/320972.jpg",
-      "publishedAt": "2026-01-23T10:38:18Z",
-      "content": "(CNN) -- \"Mayo Clinic Proceedings\".\r\n .\r\n CNN . \r\n . .\r\nCNN: \r\n : 280 . \r\n \" \" .\r\n .\r\n   .\r\nCNN: \r\n: . \r\n .\r\n . .\r\n . \r\n .\r\nCNN: \r\n: . .\r\n . . \r\n .\r\nCNN: \r\n: . \r\n .\r\n . \r\n . .\r\nCNN: \r\n: . . .\r\nCNN: \r… [+51 chars]"
     }
   ]
 }
