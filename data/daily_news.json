@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-02-01T06:47:53.596128",
+  "updated_at": "2026-02-02T07:01:26.408027",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Swalif.net"
+      },
+      "author": "Ayman abdallah",
+      "title": "وكلاء الذكاء الاصطناعي تحت حماية OpenAI",
+      "description": "كشفت شركة OpenAI عن الآليات المتطورة التي تعتمدها لحماية وكلاء الذكاء الاصطناعي من الروابط الخبيثة وهجمات حقن الأوامر. وأوضحت الشركة في تقرير مفصل، أساليبها في “عزل الروابط” باستخدام متصفحات افتراضية، وتطبيق إجراءات صارمة للتحقق من صحة الروابط والبيانات المست…",
+      "url": "https://www.swalif.net/artificial-intelligence/%d9%88%d9%83%d9%84%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%aa%d8%ad%d8%aa-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-openai/",
+      "urlToImage": "https://www.swalif.net/swalifsite/wp-content/uploads/وكلاء-الذكاء-الاصطناعي-تحت-حماية-OpenAI-e1769914351706.webp",
+      "publishedAt": "2026-02-01T06:02:16Z",
+      "content": "OpenAI\r\nOpenAI .\r\n . OpenAI .\r\n .\r\n . .\r\nOpenAI . (Link Isolation) . (Sandboxed Browser).\r\n . ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "معرض CES.. تطبيق لفحص صحة الأسنان واللثة عبر الهاتف",
+      "description": "معرض CES.. تطبيق لفحص صحة الأسنان واللثة عبر الهاتف",
+      "url": "https://www.bbc.com/arabic/articles/czx1q2785ezo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/1542/live/ac891900-febf-11f0-9972-d3f265c101c6.jpg",
+      "publishedAt": "2026-01-31T16:13:31Z",
+      "content": "Dentomi . \r\n .\r\n 17.30 .\r\n : facebook.com/BBC4Tech\r\n : @BBC4Tech\r\n 4"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "محمد أبو قمر",
+      "title": "لماذا أقر الجيش الإسرائيلي الآن بقتل 70 ألفا في غزة؟",
+      "description": "باعترافه بإحصاءات وزارة الصحة الفلسطينية بأن إسرائيل قتلت خلال حربها على غزة فوق 70 ألف فلسطيني، يؤكد جيش الاحتلال صحة الرواية الفلسطينية التي دعا البعض لتوظيفها لمحاكمة الاحتلال وكشف أعداد المفقودين.",
+      "url": "https://www.aljazeera.net/politics/2026/1/31/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%a3%d9%82%d8%b1-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d8%a7%d9%84%d8%a2%d9%86-%d8%a8%d9%82%d8%aa%d9%84-70",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/afp_697dd5429d04-1769854274.jpg?resize=1200%2C675",
+      "publishedAt": "2026-01-31T13:50:54Z",
+      "content": "()\r\n- - - 70 7 / 2023.\r\n () .\r\n \"\". \" 11\" .\r\n .\r\n .\r\n .\r\n ()\r\n:\r\n .\r\n .\r\n 100 : 70 .\r\n .\r\n .\r\n 11 .\r\n / 2024 .\r\n .\r\n .\r\n 200 71 .\r\n 2021 7 / 2023 ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "‌‏الحرس الثوري الإيراني يصدر بيانا بشأن أنباء اغتيال قائد قوته البحرية",
+      "description": "أصدر الحرس الثوري الإيراني، اليوم السبت، بيانًا نفى فيه صحة الشائعات، التي تم تداولها اليوم بشأن اغتيال قائد القوة البحرية للحرس الثوري علي رضا تنكسيري، مؤكدًا أن \"هذه الأخبار لا أساس لها من الصحة\".",
+      "url": "https://sarabic.ae/20260131/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%82%D8%A7%D8%A6%D8%AF-%D9%82%D9%88%D8%AA%D9%87-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9---1109843539.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/01/0f/1109285875_28:0:1880:1042_2072x0_60_0_0_a960d82fe30dba54d4156993a05ba27b.jpg.webp",
+      "publishedAt": "2026-01-31T12:48:37Z",
+      "content": "https://sarabic.ae/20260131/-------------1109843539.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/01/0f/1109285875_28:0:1880:1042_1920x0_80_0_0_d576c8a5cb9c169b90a1b4c8d4685658.jpg.webp\r\n \" \" \" \". \" \" \" … [+420 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -79,58 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2022/12/GettyImages-522156604.jpg?resize=1920%2C1280&quality=80",
       "publishedAt": "2026-01-27T13:22:22Z",
       "content": ".\r\n \" \" The Lancet Planetary Health .\r\n .\r\n .\r\n .\r\n \" \" .\r\n 2.1 2016 4.5 2040 .\r\n 90% .\r\n .\r\n 2024 2025 .\r\n \" \" ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "ما لا تقوله عضلاتك.. 5 عادات بسيطة تحمي صحة الرجل النفسية",
-      "description": "\"القوي ليس من يصمت حتى ينهار، بل من يعرف متى يطلب المساندة\".. دراسات حديثة تعيد تعريف القوة لدى الرجال وتكشف عن 5 عادات بسيطة تحمي \"رأسك\" كما تحمي \"عضلاتك\".",
-      "url": "https://www.aljazeera.net/family/2026/1/26/%d9%85%d8%a7-%d9%84%d8%a7-%d8%aa%d9%82%d9%88%d9%84%d9%87-%d8%b9%d8%b6%d9%84%d8%a7%d8%aa%d9%83-5-%d8%b9%d8%a7%d8%af%d8%a7%d8%aa-%d8%a8%d8%b3%d9%8a%d8%b7%d8%a9-%d8%aa%d8%ad%d9%85%d9%8a",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2023/03/33.jpeg?resize=1920%2C1440",
-      "publishedAt": "2026-01-26T14:24:22Z",
-      "content": ".\r\n . .\r\nlist of 4 items<ul><li>list 1 of 4 .. </li><li>list 2 of 4 .. </li><li>list 3 of 4 .. </li><li>list 4 of 4 .. </li></ul>end of list\r\n  .\r\n - - \" \" .\r\n \" \" (Obesity Reviews) 2020 \" \" .\r\n :\r\n … [+234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "كاريك مدرب مانشستر يونايتد يثبت صحة توقعات رونالدو",
-      "description": "بعد تحقيق مانشستر يونايتد لفوزين كبيرين تحت قيادة مايكل كاريك على حساب مانشستر سيتي وأرسنال المتصدر يبدو أن نبوءة الأسطورة البرتغالية كريستيانو رونالدو قد تحققت بالفعل.",
-      "url": "https://www.aljazeera.net/sport/2026/1/26/%d9%86%d8%a8%d9%88%d8%a1%d8%a9-%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d9%83%d8%a7%d8%b1%d9%8a%d9%83-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/1356025268-1769441619.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-01-26T14:01:43Z",
-      "content": ".\r\n 13 / .\r\nlist of 2 items<ul><li>list 1 of 2 \"\" </li><li>list 2 of 2</li></ul>end of list\r\n (2-0) (2-3) .\r\n \" \" / 2021 .\r\n \" . . \".\r\n .\r\n 2021 2-0 1-1 3-2 .\r\n \" (Sky Sports): \" . . . \".\r\n : \" . . \"… [+34 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "الانتقالي الجنوبي ينفي صحة إعلان \"المجلس الوطني الجنوبي\" ويؤكد تماسكه المؤسسي",
-      "description": "أصدر المجلس الانتقالي الجنوبي في اليمن، اليوم الأحد، بيانا رسميا نفى فيه صحة ما تم تداوله عبر وسائل التواصل الاجتماعي حول تشكيل كيان يُسمى \"المجلس الوطني الجنوبي\".",
-      "url": "https://sarabic.ae/20260125/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%8A%D9%86%D9%81%D9%8A-%D8%B5%D8%AD%D8%A9-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%AA%D9%85%D8%A7%D8%B3%D9%83%D9%87-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D9%8A-1109616565.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/0c/15/1108439668_0:0:1600:900_2072x0_60_0_0_9b607ba9a92304cac5dfa3da531d3c97.jpg.webp",
-      "publishedAt": "2026-01-25T13:07:51Z",
-      "content": "https://sarabic.ae/20260125/-----------1109616565.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/0c/15/1108439668_0:0:1600:900_1920x0_80_0_0_e0f8b092bb685c37d9de3eaeeaea6f4e.jpg.webp\r\n \" \". \" \" \" \" . \" \" … [+429 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "تكلفة الفقر الباهظة.. الضغوط المالية تؤثّر على صحة قلبك وشبابه",
-      "description": "أظهرت دراسة جديدة نُشرت في مجلة \"Mayo Clinic Proceedings\" أنّ القلق بشأن المال والأمن الغذائي قد يُسرّع من شيخوخة القلب أكثر من عوامل الخطر التقليدية لأمراض القلب والأوعية الدموية.",
-      "url": "https://arabic.cnn.com/science-and-health/video/2026/01/24/v187836-money-problems-heart-cost",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/24/images/321514.jpg",
-      "publishedAt": "2026-01-24T10:19:58Z",
-      "content": "\"Mayo Clinic Proceedings\" ."
     }
   ]
 }
