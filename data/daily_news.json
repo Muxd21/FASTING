@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-02-16T07:02:16.997645",
+  "updated_at": "2026-02-17T06:58:20.007741",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "صحة فم جيدة أهم من ابتسامة جميلة..لهذا السبب يجب ألا تتجاهل ألم الأسنان",
+      "description": "يمكن لألم الفم أن ينعكس سلبًا على جودة الحياة، ويتسبب في مضاعفات صحية أخطر في المستقبل، ما يُعد مشكلة تؤثر في الكثير من الناس حول العالم. لكن الخبراء يشيرون إلى أن العديد من الأشخاص يقللون من شأن أعراضهم. توضح ماندي غايثر من CNN أسباب ضرورة عدم تجاهل ألم الأس…",
+      "url": "https://arabic.cnn.com/science-and-health/video/2026/02/16/v188348-why-you-shouldnt-ignore-tooth-pain-hm",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/03/images/322352.jpg",
+      "publishedAt": "2026-02-16T06:39:37Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "صحة غزة: بطء إجراءات معبر رفح يهدد حياة أكثر من 20 ألف مريض",
+      "description": "أبدت وزارة الصحة في غزة استياءها من تواصل إغلاق معبر رفح وتشغيله بصورة جزئية ومقيّدة، مشددة على ضرورة الإجلاء العاجل للمرضى والجرحى، وزيادة أعداد المسافرين بما يتناسب مع حجم الاحتياج الطبي المتراكم.",
+      "url": "https://www.aljazeera.net/news/2026/2/15/%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d8%a7%d9%84%d8%a2%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d8%b7%d9%8a%d8%a6%d8%a9-%d8%a8%d9%85%d8%b9%d8%a8%d8%b1-%d8%b1%d9%81%d8%ad",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/02/getty_69921bba97-1771183034.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-02-15T17:20:58Z",
+      "content": ": ()\r\n20 .\r\n - - .\r\n .\r\n \" \".\r\n .\r\n \" \" - - .\r\n - - .\r\n .\r\n 391 11 302 100 / .\r\n 693 2200 2 12 / 31% .\r\n .\r\n \" 20 \"."
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/102288/62/1022886220_0:321:3600:2346_2072x0_60_0_0_e9f739845d2ddc54329bce8e85f00837.jpg.webp",
       "publishedAt": "2026-02-11T13:17:32Z",
       "content": "71% : (36%) (29%) (19%) (19%) 105 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "حين تتحول الوحدة إلى مرض.. كيف تفتك العزلة بصحتنا دون أن ننتبه؟",
-      "description": "لم يعد تأثير الوحدة على الصحة مجرد انطباع شخصي أو ملاحظة عابرة، بل بات حقيقة تؤكدها أبحاث علمية متزايدة، فالدراسات تشير بوضوح إلى أن الأشخاص الذين يتمتعون بروابط اجتماعية قوية يكونون أكثر صحة.",
-      "url": "https://www.aljazeera.net/lifestyle/2026/2/9/%d8%ad%d9%8a%d9%86-%d8%aa%d8%b5%d8%a8%d8%ad-%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9-%d9%85%d8%b1%d8%b6%d8%a7-%d9%83%d9%8a%d9%81-%d9%8a%d8%af%d9%85%d8%b1-%d8%a7%d9%84%d8%b9%d8%b2%d9%84%d8%a9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/03/shutterstock_2292976519-1743021040.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-02-09T13:01:56Z",
-      "content": ".\r\n 604 30 (Psychological Bulletin) .\r\nlist of 2 items<ul><li>list 1 of 2</li><li>list 2 of 2 .. </li></ul>end of list\r\n .\r\n (BDP) \" \" .\r\n () .\r\n \" \" .\r\n \" \" ()\r\n\" + = \" 100 .\r\n .\r\n ( ARD) \"#__\" .\r\n … [+78 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "\"كنت أشعر بخجل\": كيف يؤثر كبر حجم الثديين على صحة المرأة النفسية والجسدية؟",
-      "description": "على الرغم من أن كبر حجم الثديين يُعد معياراً لجاذبية المرأة في العديد من المجتمعات، إلا أن ثمة صعوبات لما يسببه ذلك من تأثيرات سلبية على صحة المرأة وجودة حياتها.",
-      "url": "https://www.bbc.com/arabic/articles/cvg838pnmgmo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/8f17/live/2c7ebb80-0558-11f1-9972-d3f265c101c6.jpg",
-      "publishedAt": "2026-02-09T09:23:04Z",
-      "content": "UEFA/UEFA via Getty Images"
     }
   ]
 }
