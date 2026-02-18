@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-02-17T06:58:20.007741",
+  "updated_at": "2026-02-18T07:00:18.627168",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "دراسة: الامتناع عن تناول الطعام قبل النوم بـ 3 ساعات يعزز صحة القلب",
+      "description": "كشفت دراسة حديثة أن الامتناع عن تناول الطعام قبل النوم بثلاث ساعات على الأقل يُمثل قاعدة بسيطة وفعالة لتعزيز صحة القلب والأوعية الدموية.",
+      "url": "https://sarabic.ae/20260216/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D9%86%D8%A7%D8%B9-%D8%B9%D9%86-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%B7%D8%B9%D8%A7%D9%85-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%85-%D8%A8%D9%80-3-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8-1110427644.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e7/06/0d/1078062188_0:965:2048:2117_2072x0_60_0_0_55f7d0892681453d8ef16bdc384b623f.jpg.webp",
+      "publishedAt": "2026-02-16T16:03:29Z",
+      "content": "https://sarabic.ae/20260216/--------3-----1110427644.html\r\nhttps://cdn.img.sarabic.ae/img/07e7/06/0d/1078062188_0:965:2048:2117_1920x0_80_0_0_a94f987e81f557579d921bf39b2bad77.jpg.webp\r\n Arteriosclero… [+423 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/01/09/1109067494_0:133:2560:1573_2072x0_60_0_0_b1c637ce9a91e68a984d2334aae4d54c.jpg.webp",
       "publishedAt": "2026-02-12T07:24:43Z",
       "content": "Whenever Miriam Adelsons mouthpiece pushes a dramatic claim about Iran, its worth asking who it serves. Even the U.S. President has acknowledged where her primary loyalties lie.\r\nIn its latest piece,… [+148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "دراسة: أغلب أغذية الأطفال في الولايات المتحدة \"فائقة المعالجة\"",
-      "description": "كشفت دراسة حديثة أن نحو 71% من أغذية الأطفال المتوفرة في متاجر البقالة بالولايات المتحدة تُصنف ضمن فئة الأطعمة الفائقة المعالجة، ما يثير مخاوف جدية بشأن تأثيرها المحتمل على صحة الرضع والأطفال الصغار على المدى الطويل.",
-      "url": "https://sarabic.ae/20260211/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A3%D8%BA%D9%84%D8%A8-%D8%A3%D8%BA%D8%B0%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D8%A7%D8%A6%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9--1110254107.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/102288/62/1022886220_0:321:3600:2346_2072x0_60_0_0_e9f739845d2ddc54329bce8e85f00837.jpg.webp",
-      "publishedAt": "2026-02-11T13:17:32Z",
-      "content": "71% : (36%) (29%) (19%) (19%) 105 ."
     }
   ]
 }
