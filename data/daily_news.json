@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-02-25T07:01:22.299459",
+  "updated_at": "2026-02-26T06:59:08.579543",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "منها حرب بين مصر وإثيوبيا.. ما مدى صحة ادعاء ترامب بإنهاء 8 حروب خلال خطاب حالة الاتحاد؟",
+      "description": "كرّر ترامب ادعاءً كاذباً مألوفاً حول دوره في الشؤون الخارجية، قائلا: \"في الأشهر العشرة الأولى من ولايتي، أنهيت ثماني حروب\"، مع أن ترامب لعب دوراً في حل بعض النزاعات (مؤقتاً على الأقل)، إلا أن الرقم \"ثماني\" مبالغة واضحة",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/02/25/fact-check-trumps-claim-he-ended-eight-wars",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_5635,h_3169,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/25/images/324296.jpg",
+      "publishedAt": "2026-02-25T05:18:12Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "رشا عبيد",
+      "title": "أزمة الـ 38 درجة.. لماذا قد يتحول الحمام الدافئ إلى عدو يهدد نمو الجنين؟",
+      "description": "رغم أن الاستحمام يعد آمنا بشكل عام خلال الحمل، فإن بعض الممارسات غير السليمة قد تحمل مخاطر غير متوقعة على صحة الأم والجنين.",
+      "url": "https://www.aljazeera.net/family/2026/2/25/%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d9%80-38-%d8%af%d8%b1%d8%ac%d8%a9-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82%d8%af-%d9%8a%d8%aa%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%85",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/02/pexels-gabby-k-6620861-1771993157.jpg?resize=1200%2C630",
+      "publishedAt": "2026-02-25T01:31:30Z",
+      "content": ". .\r\n . .\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2 .. </li></ul>end of list\r\n 37 37.8 (98.6 100 ) . \" \" .\r\n 37.2 .\r\n \"\" 37.8 . .\r\n .\r\n ()\r\n. 37 (99 ) 10 .\r\n .\r\n () . .\r\n . \" \" . .\r… [+52 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": null,
+      "title": "ما صحة حديث النبي عن \"المهدي المنتظر\" وملاحم النهاية؟",
+      "description": "لا يخلو كتاب من كتب السنة من باب للفتن والملاحم، بيد أن الوقوف على حقيقة هذه الأمور يظل بحاجة لمنهجية منضبطة حتى لا يُفتن الناس أو يضلوا.",
+      "url": "https://www.aljazeera.net/video/shariah_and_life_during_ramadan/2026/2/24/%d9%85%d8%a7-%d8%b5%d8%ad%d8%a9-%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%84%d9%86%d8%a8%d9%8a-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%b8%d8%b1",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/02/image-1771885523.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-02-24T16:15:15Z",
+      "content": ".\r\n (2026/2/24) \"\" .\r\n \" \".\r\n \" \" - - .\r\n - - .\r\n - - .\r\n .\r\n \"\" - - \" \".\r\n \"\" \" \".\r\n : \" \".\r\n .\r\n .\r\n :.\r\n \"\" \" .\r\n .\r\n .\r\n .\r\n ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "تعليق رسمي بشأن تعرض جسر في العراق لـ\"التلوث إشعاعي\"",
+      "description": "أكدت الهيئة الوطنية للرقابة النووية، اليوم الثلاثاء، أن \"جسر الطوبجي خالٍ من أي تلوث إشعاعي يشكل خطرا\"، نافيةً صحة الشائعات المتداولة بهذا الشأن.",
+      "url": "https://sarabic.ae/20260224/%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%B1%D8%B3%D9%85%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AC%D8%B3%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%80%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB-%D8%A5%D8%B4%D8%B9%D8%A7%D8%B9%D9%8A--1110685094.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/06/01/1089411164_0:101:1080:709_2072x0_60_0_0_90fd07b62342b64f3134fc073f097db6.jpg.webp",
+      "publishedAt": "2026-02-24T10:22:34Z",
+      "content": "https://sarabic.ae/20260224/----------1110685094.html\r\nhttps://cdn.img.sarabic.ae/img/07e8/06/01/1089411164_0:101:1080:709_1920x0_80_0_0_6aba0977841c32c3870d3d2fc20abff4.jpg.webp\r\nhttps://sarabic.ae/… [+289 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -79,58 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/03/images/322352.jpg",
       "publishedAt": "2026-02-16T06:39:37Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "صحة غزة: بطء إجراءات معبر رفح يهدد حياة أكثر من 20 ألف مريض",
-      "description": "أبدت وزارة الصحة في غزة استياءها من تواصل إغلاق معبر رفح وتشغيله بصورة جزئية ومقيّدة، مشددة على ضرورة الإجلاء العاجل للمرضى والجرحى، وزيادة أعداد المسافرين بما يتناسب مع حجم الاحتياج الطبي المتراكم.",
-      "url": "https://www.aljazeera.net/news/2026/2/15/%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d8%a7%d9%84%d8%a2%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d8%b7%d9%8a%d8%a6%d8%a9-%d8%a8%d9%85%d8%b9%d8%a8%d8%b1-%d8%b1%d9%81%d8%ad",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/02/getty_69921bba97-1771183034.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-02-15T17:20:58Z",
-      "content": ": ()\r\n20 .\r\n - - .\r\n .\r\n \" \".\r\n .\r\n \" \" - - .\r\n - - .\r\n .\r\n 391 11 302 100 / .\r\n 693 2200 2 12 / 31% .\r\n .\r\n \" 20 \"."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "الثلاثي الذهبي: 8 أغذية \"شاملة\" تمنحك بشرة متوهجة وشعرا قويا وأظافر صلبة",
-      "description": "تعتمد صحة البشرة والشعر والأظافر على عناصر بناء مشتركة توفرها 8 أغذية ذهبية غنية بالبروتين والفيتامينات، إذ أن التغذية الداخلية هي الحل الأمثل لتعزيز قوة هذا الثلاثي",
-      "url": "https://www.aljazeera.net/women/2026/2/15/%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%8a-%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a-8-%d8%a3%d8%ba%d8%b0%d9%8a%d8%a9-%d8%b4%d8%a7%d9%85%d9%84%d8%a9-%d8%aa%d9%85%d9%86%d8%ad%d9%83",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/shutterstock_2265715249-1766590030.jpg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2026-02-15T02:00:00Z",
-      "content": ". . . \"\" .\r\n \" \" (Superfood) . 3 (Omega 3) .\r\n 3 . (E) .\r\n .\r\n ()\r\n.\r\n (C) (E) . .\r\n \"\" (Smoothie).\r\n .\r\n (Biotin) ( 7 (B7)) . .\r\n 7 .\r\n .\r\n (Beta Carotene) (A). .\r\n \" \" .\r\n ( )\r\n.\r\n (E). .\r\n .\r\n (C)… [+73 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "كيف يمكن للنوم مساعدة المراهقين على ممارسة الرياضة؟",
-      "description": "ليس سرّاً أنّ النوم والرياضة يلعبان دوراً بالغ الأهمية في صحة الإنسان. بالنسبة للمراهقين، يُمكن لكليهما المساعدة على النمو، وتطوير الدماغ والتمتّع بصحة نفسية جيدة، لا سيّما أن دراسة حديثة توصّلت إلى وجود صلة وثيقة بينهما.",
-      "url": "https://arabic.cnn.com/science-and-health/video/2026/02/14/v188910-teenagers-sleep-exercise",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/14/images/323286.jpg",
-      "publishedAt": "2026-02-14T13:23:51Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "ما الذي يفعله انتظار الحرب المستمرّ بأجسادنا؟",
-      "description": "كيف يؤثر ترقب حربٍ قد لا تقع في صحة الإنسان؟ وعندما تتحول مفردات مثل \"التصعيد\" إلى جزء من الخطاب اليومي، هل يبقى أثر القلق نفسياً فحسب، أم يتجاوز ذلك ليطال الجسد أيضاً؟",
-      "url": "https://www.bbc.com/arabic/articles/c9v0nx7kgrro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/7b53/live/1e00e8d0-08cd-11f1-9fa3-3f5df35dc033.jpg",
-      "publishedAt": "2026-02-14T09:25:55Z",
-      "content": "Getty Images\r\n\"\" \" \" .\r\nArticle Information\r\n .\r\n . \r\n . \r\n . \r\n \"\" \" \" \" \" .\r\n. . .\r\n : \" . \".\r\nGetty Images\r\n.\r\n\" \" \" \". \r\n. .\r\n . .\r\n : .\r\n : .\r\n : \r\n .\r\n \" \". : \" \".\r\n . : \" \".\r\nGetty Images\r\n\"\" … [+700 chars]"
     }
   ]
 }
