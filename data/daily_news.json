@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-03-01T06:44:12.374043",
+  "updated_at": "2026-03-02T06:57:09.267240",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "شاهد.. ضربة تهز فندقًا في دبي واندلاع نيران",
+      "description": "تُظهر مقاطع فيديو لحظة سقوط ما يبدو أنها طائرة مسيّرة نحو الأرض في منطقة نخلة جميرا الفاخرة بدبي، قبل أن يهز انفجارٌ فندق فيرمونت ويُشعل النيران فيه. وقد تحققت شبكة CNN من صحة مقاطع الفيديو المنشورة على مواقع التواصل الاجتماعي.",
+      "url": "https://arabic.cnn.com/middle-east/video/2026/02/28/v189688-strike-explodes-dubai-fairmont-hotel",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/28/images/324648.jpg",
+      "publishedAt": "2026-02-28T17:55:34Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "العودة إلى خطوط الهاتف الأرضية.. رنين يفرح الصغار والكبار",
+      "description": "هناك اعتفاد ببن الأهل مفاده أنّ إعادة الهواتف الأرضية إلى المنازل تفيد أطفالهم.. ما مدى صحة هذا الأمر؟",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/02/28/kids-using-landlines-wellness",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/25/images/324317.jpg",
+      "publishedAt": "2026-02-28T10:35:27Z",
+      "content": ""
+    },
     {
       "source": {
         "id": "cnn",
@@ -105,32 +131,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/3454/live/2cd7c6a0-0f8d-11f1-9120-a910fc22c6ac.jpg",
       "publishedAt": "2026-02-22T03:00:33Z",
       "content": "EPA\r\n.\r\n .\r\n . .\r\n \"\" / 2026.\r\n . .\r\n\" \" \" \" .\r\n .\r\n\" 2026\" .\r\n.\r\n \" 2026\" .\r\n . \r\n / / 2025 12 .\r\n .\r\nReuters\r\n.. 17.\r\n / 2026 \" \". \r\n \" \".\r\n .\r\n .\r\nReuters\r\n4 / 2025.\r\n.\r\n . \r\n .\r\n .\r\n .\r\n<ul><li><… [+471 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "دراسة: الامتناع عن تناول الطعام قبل النوم بـ 3 ساعات يعزز صحة القلب",
-      "description": "كشفت دراسة حديثة أن الامتناع عن تناول الطعام قبل النوم بثلاث ساعات على الأقل يُمثل قاعدة بسيطة وفعالة لتعزيز صحة القلب والأوعية الدموية.",
-      "url": "https://sarabic.ae/20260216/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D9%86%D8%A7%D8%B9-%D8%B9%D9%86-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%B7%D8%B9%D8%A7%D9%85-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%85-%D8%A8%D9%80-3-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8-1110427644.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e7/06/0d/1078062188_0:965:2048:2117_2072x0_60_0_0_55f7d0892681453d8ef16bdc384b623f.jpg.webp",
-      "publishedAt": "2026-02-16T16:03:29Z",
-      "content": "https://sarabic.ae/20260216/--------3-----1110427644.html\r\nhttps://cdn.img.sarabic.ae/img/07e7/06/0d/1078062188_0:965:2048:2117_1920x0_80_0_0_a94f987e81f557579d921bf39b2bad77.jpg.webp\r\n Arteriosclero… [+423 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "صحة فم جيدة أهم من ابتسامة جميلة..لهذا السبب يجب ألا تتجاهل ألم الأسنان",
-      "description": "يمكن لألم الفم أن ينعكس سلبًا على جودة الحياة، ويتسبب في مضاعفات صحية أخطر في المستقبل، ما يُعد مشكلة تؤثر في الكثير من الناس حول العالم. لكن الخبراء يشيرون إلى أن العديد من الأشخاص يقللون من شأن أعراضهم. توضح ماندي غايثر من CNN أسباب ضرورة عدم تجاهل ألم الأس…",
-      "url": "https://arabic.cnn.com/science-and-health/video/2026/02/16/v188348-why-you-shouldnt-ignore-tooth-pain-hm",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/03/images/322352.jpg",
-      "publishedAt": "2026-02-16T06:39:37Z",
-      "content": ""
     }
   ]
 }
