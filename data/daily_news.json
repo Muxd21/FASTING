@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-03-02T06:57:09.267240",
+  "updated_at": "2026-03-03T06:51:26.540741",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "لحظة استهداف المقاتلات الإسرائيلية مقرًا للجيش الإيراني في طهران",
+      "description": "تحققت شبكة CNN من صحة مقطع فيديو نشره سلاح الجو الإسرائيلي، يُظهر ما زعم أنه غارة جوية على مقر القوات المسلحة الإيرانية.",
+      "url": "https://arabic.cnn.com/middle-east/video/2026/03/01/v189752-israel-strike-tehran-armed-forces-headquarters-intldsk",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/01/images/324775.jpg",
+      "publishedAt": "2026-03-01T13:16:21Z",
+      "content": ""
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/c8bf/live/00fc0930-0f4a-11f1-801d-ed3cff6bf876.png",
       "publishedAt": "2026-02-22T05:49:58Z",
       "content": "Getty Images\r\nArticle Information\r\n .\r\n \"\".\r\n : \" . \".\r\n () .\r\n .\r\n\" \".\r\n . .\r\n . .\r\nGetty Images\r\n.\r\n .\r\n .\r\n .\r\n . \r\n .\r\n 6640 .\r\n .\r\n .\r\n . .\r\n . \r\n .\r\nGetty Images\r\n2024 100 90 .\r\n .\r\n . \r\n .\r\n .… [+647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "اشتباكات بين مؤيدين للسلطات ومعارضين في إيران، ولقاءات عسكرية بين طهران والرياض",
-      "description": "تحققت بي بي سي من صحة مقاطع مصورة  تُظهر طلاباً يسيرون في جامعة شريف للتكنولوجيا في طهران مع انطلاق الفصل الدراسي الجديد يوم السبت، فيما أُفيد بتنظيم مسيرة مشابهة في مدينة مشهد شمال شرق البلاد.",
-      "url": "https://www.bbc.com/arabic/articles/c70kx4kkvkpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/3454/live/2cd7c6a0-0f8d-11f1-9120-a910fc22c6ac.jpg",
-      "publishedAt": "2026-02-22T03:00:33Z",
-      "content": "EPA\r\n.\r\n .\r\n . .\r\n \"\" / 2026.\r\n . .\r\n\" \" \" \" .\r\n .\r\n\" 2026\" .\r\n.\r\n \" 2026\" .\r\n . \r\n / / 2025 12 .\r\n .\r\nReuters\r\n.. 17.\r\n / 2026 \" \". \r\n \" \".\r\n .\r\n .\r\nReuters\r\n4 / 2025.\r\n.\r\n . \r\n .\r\n .\r\n .\r\n<ul><li><… [+471 chars]"
     }
   ]
 }
