@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-03-03T06:51:26.540741",
+  "updated_at": "2026-03-04T06:45:18.568379",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "إسرائيل تنفي المزاعم الإيرانية بشأن مصير نتنياهو بعد هجوم صاروخي",
+      "description": "نفى مكتب رئيس الوزراء الإسرائيلي، بنيامين نتنياهو، صحة مزاعم إيرانية تحدثت عن عدم وضوح مصيره عقب هجوم صاروخي استهدف القدس، واصفا تلك الادعاءات بأنها \"أخبار كاذبة\".",
+      "url": "https://sarabic.ae/20260302/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%86%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B5%D9%8A%D8%B1-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-1110946158.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/02/1c/1110850998_0:0:3160:1779_2072x0_60_0_0_32d09e5916c666734ca5c8e47ef7e8cb.jpg.webp",
+      "publishedAt": "2026-03-02T13:24:28Z",
+      "content": "https://sarabic.ae/20260302/----------1110946158.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/02/1c/1110850998_0:0:3160:1779_1920x0_80_0_0_f973e6abccb9866102d92edda723e997.jpg.webp\r\n \" \". . \" 4\" . : \" \"… [+372 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.tech-wd.com/wd/wp-content/uploads/2026/02/Headphones.webp",
       "publishedAt": "2026-02-22T11:35:53Z",
       "content": "ToxFree Life for All 81 : .\r\n Bose Sennheiser “ ”.\r\n A 177 180 81 .\r\n .\r\n “ ” .\r\n “” .\r\n BPA .\r\n &gt; 4 3 2025"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "كيف تؤثر الأطعمة فائقة المعالجة على صحة الأمعاء؟",
-      "description": "تشير الأبحاث إلى أن الأطعمة فائقة المعالجة، قادرة على إحداث خلل وتغيير في الميكروبات الموجودة في أمعائنا، فكيف يحدث ذلك؟",
-      "url": "https://www.bbc.com/arabic/articles/cn5gkr7r0z3o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/c8bf/live/00fc0930-0f4a-11f1-801d-ed3cff6bf876.png",
-      "publishedAt": "2026-02-22T05:49:58Z",
-      "content": "Getty Images\r\nArticle Information\r\n .\r\n \"\".\r\n : \" . \".\r\n () .\r\n .\r\n\" \".\r\n . .\r\n . .\r\nGetty Images\r\n.\r\n .\r\n .\r\n .\r\n . \r\n .\r\n 6640 .\r\n .\r\n .\r\n . .\r\n . \r\n .\r\nGetty Images\r\n2024 100 90 .\r\n .\r\n . \r\n .\r\n .… [+647 chars]"
     }
   ]
 }
