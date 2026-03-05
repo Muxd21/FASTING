@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-03-04T06:45:18.568379",
+  "updated_at": "2026-03-05T06:51:24.660133",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "نادية مصطفى تنوه إلى أخبار \"مغلوطة\" حول صحة هاني شاكر",
+      "description": "نوهّت الفنانة المصرية ناديه مصطفى، الثلاثاء، إلى انتشار \"أخبار مغلوطة وغير دقيقة\"، حول تطورات الوضع الصحي لزميلها الفنّان هاني شاكر، إلى جانب تداول صورة له على فراش المرض، قالت إنّها \" مفبركة ومصنوعة بتقنيات الذكاء الاصطناعي\".",
+      "url": "https://arabic.cnn.com/entertainment/article/2026/03/04/nadia-mustafa-points-out-false-news-regarding-hani-shakers-health",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/03/images/325113.jpg",
+      "publishedAt": "2026-03-03T20:12:44Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "كيف تحافظ على بصرك في زمن الشاشات؟",
+      "description": "لحماية صحة عينيك، ارتدِ نظارات واقية في العمل والرياضة، وقلل التعرض الطويل للشاشات عبر أخذ فترات راحة منتظمة. حافظ على نظافة عينيك وعدساتك اللاصقة، وأجرِ فحوصات دورية للكشف المبكر عن الأمراض.",
+      "url": "https://www.aljazeera.net/health/2026/3/3/%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d8%a7%d9%81%d8%b8-%d8%b9%d9%84%d9%89-%d8%a8%d8%b5%d8%b1%d9%83-%d9%81%d9%8a-%d8%b2%d9%85%d9%86-%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a7%d8%aa",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2020/02/6e493307-e2d3-4a6c-b4a6-75837042ec9d.jpeg?resize=1200%2C630",
+      "publishedAt": "2026-03-03T13:20:00Z",
+      "content": ". .\r\n 3 (C) (E) .\r\n :\r\n ()\r\n- 50 - ( Glaucoma) .\r\n 150 . . 30 .\r\n .\r\n . .\r\n (Ultra Violet UV) (Cataract) . .\r\n :\r\n<ul><li>  100% </li><li> - (UV-A) - (UV-B) 400 (UV400)</li><li> .</li><li> .</li></ul… [+56 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/06/01/1089411164_0:101:1080:709_2072x0_60_0_0_90fd07b62342b64f3134fc073f097db6.jpg.webp",
       "publishedAt": "2026-02-24T10:22:34Z",
       "content": "https://sarabic.ae/20260224/----------1110685094.html\r\nhttps://cdn.img.sarabic.ae/img/07e8/06/01/1089411164_0:101:1080:709_1920x0_80_0_0_6aba0977841c32c3870d3d2fc20abff4.jpg.webp\r\nhttps://sarabic.ae/… [+289 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "إيران توضح حقيقة تعليق حركة السفن إلى موانئها",
-      "description": "أكد الأمين العام للجمعية الإيرانية للشحن والخدمات المرتبطة بها، اليوم الأحد، استمرار حركة السفن التجارية من مختلف موانئ الاستيراد إلى طهران، نافيا صحة ما تردد عن توقفها، خاصة من موانئ مثل جبل علي وغيرها من المراكز التجارية في المنطقة.",
-      "url": "https://sarabic.ae/20260222/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B6%D8%AD-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%A7%D9%86%D8%A6%D9%87%D8%A7-1110620425.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/02/16/1110620269_0:144:1378:919_2072x0_60_0_0_70ae7557523c71fc6faa4d42197a77fe.jpg.webp",
-      "publishedAt": "2026-02-22T11:52:17Z",
-      "content": "https://sarabic.ae/20260222/--------1110620425.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/02/16/1110620269_0:144:1378:919_1920x0_80_0_0_cf65735a0ea2064cf57d758b8eb44374.jpg.webp\r\nhttps://sarabic.ae/20… [+291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tech-wd.com"
-      },
-      "author": "فريق التحرير",
-      "title": "دراسة أوروبية: 81 سماعة رأس تحتوي على مواد كيميائية خطرة!",
-      "description": "كشفت دراسة أوروبية أجراها مشروع ToxFree Life for All الممول من الاتحاد الأوروبي، شملت 81 طراز من سماعات الرأس من منتجين حول العالم، عن نتائج مقلقة: جميع الطرازات المُختبرة دون استثناء تحتوي على مواد كيميائية مصنّفة خطرة على صحة الإنسان، من بينها البيسفينولات …",
-      "url": "https://www.tech-wd.com/wd/2026/02/22/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-81-%d8%b3%d9%85%d8%a7%d8%b9%d8%a9-%d8%b1%d8%a3%d8%b3-%d8%aa%d8%ad%d8%aa%d9%88%d9%8a-%d8%b9%d9%84%d9%89-%d9%85%d9%88%d8%a7/",
-      "urlToImage": "https://www.tech-wd.com/wd/wp-content/uploads/2026/02/Headphones.webp",
-      "publishedAt": "2026-02-22T11:35:53Z",
-      "content": "ToxFree Life for All 81 : .\r\n Bose Sennheiser “ ”.\r\n A 177 180 81 .\r\n .\r\n “ ” .\r\n “” .\r\n BPA .\r\n &gt; 4 3 2025"
     }
   ]
 }
