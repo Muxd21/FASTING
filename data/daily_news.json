@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-03-12T06:54:41.271072",
+  "updated_at": "2026-03-13T06:52:39.506527",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "مسؤول إيراني للجزيرة نت: ضرباتنا تصيب أهدافها بدقة فاقت توقعات أمريكا",
+      "description": "أكد مسؤول إيراني للجزيرة نت أن الصور الفضائية التي حصلت عليها بلاده تُظهر صحة الضربات ودقتها، كما أنها تُشكّل أساسا لتصميم العمليات العسكرية اللاحقة ضد إسرائيل.",
+      "url": "https://www.aljazeera.net/news/2026/3/12/%d9%85%d8%b3%d8%a4%d9%88%d9%84-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%84%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%b6%d8%b1%d8%a8%d8%a7%d8%aa%d9%86%d8%a7-%d8%aa%d8%b5%d9%8a%d8%a8",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/03/1-6-1772817490.jpg?resize=1800%2C1200&quality=80",
+      "publishedAt": "2026-03-11T20:07:25Z",
+      "content": ": ()\r\n- - .\r\n / 2025 12 .\r\n .\r\n \" \".\r\n - - \" \" \" \".\r\n \"\" \" \".\r\n \" \".\r\n \" ( ) . \".\r\n .\r\n .\r\n \" \".\r\n \" \" \" \".\r\n 19 .\r\n .\r\n 29 / 15 6 .\r\n 28 / .\r\n ."
+    },
     {
       "source": {
         "id": null,
@@ -117,19 +130,6 @@
       "url": "https://arabic.cnn.com/middle-east/video/2026/03/01/v189752-israel-strike-tehran-armed-forces-headquarters-intldsk",
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/01/images/324775.jpg",
       "publishedAt": "2026-03-01T13:16:21Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "شاهد.. ضربة تهز فندقًا في دبي واندلاع نيران",
-      "description": "تُظهر مقاطع فيديو لحظة سقوط ما يبدو أنها طائرة مسيّرة نحو الأرض في منطقة نخلة جميرا الفاخرة بدبي، قبل أن يهز انفجارٌ فندق فيرمونت ويُشعل النيران فيه. وقد تحققت شبكة CNN من صحة مقاطع الفيديو المنشورة على مواقع التواصل الاجتماعي.",
-      "url": "https://arabic.cnn.com/middle-east/video/2026/02/28/v189688-strike-explodes-dubai-fairmont-hotel",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/28/images/324648.jpg",
-      "publishedAt": "2026-02-28T17:55:34Z",
       "content": ""
     }
   ]
