@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-03-15T06:56:01.586423",
+  "updated_at": "2026-03-16T07:15:52.531516",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "باريس: لا خطة فرنسية لوقف الحرب في لبنان",
+      "description": "نفت وزارة الخارجية الفرنسية، اليوم السبت، \"صحة تقارير إعلامية تحدثت عن تقديم باريس مقترحًا لإنهاء الحرب الإسرائيلية على لبنان\".",
+      "url": "https://sarabic.ae/20260314/%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D9%84%D8%A7-%D8%AE%D8%B7%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-1111501364.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/04/03/1099202965_0:0:1000:563_2072x0_60_0_0_7a320383f5c01f0612d8d380260a08ea.jpg.webp",
+      "publishedAt": "2026-03-14T21:46:11Z",
+      "content": "https://sarabic.ae/20260314/--------1111501364.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/04/03/1099202965_0:0:1000:563_1920x0_80_0_0_bd141975afce3ae286e54ce9a9ba337c.jpg.webp\r\n \" \" \" \" . . . \"\" \" \". … [+606 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/03/images/325113.jpg",
       "publishedAt": "2026-03-03T20:12:44Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "كيف تحافظ على بصرك في زمن الشاشات؟",
-      "description": "لحماية صحة عينيك، ارتدِ نظارات واقية في العمل والرياضة، وقلل التعرض الطويل للشاشات عبر أخذ فترات راحة منتظمة. حافظ على نظافة عينيك وعدساتك اللاصقة، وأجرِ فحوصات دورية للكشف المبكر عن الأمراض.",
-      "url": "https://www.aljazeera.net/health/2026/3/3/%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d8%a7%d9%81%d8%b8-%d8%b9%d9%84%d9%89-%d8%a8%d8%b5%d8%b1%d9%83-%d9%81%d9%8a-%d8%b2%d9%85%d9%86-%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a7%d8%aa",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2020/02/6e493307-e2d3-4a6c-b4a6-75837042ec9d.jpeg?resize=1200%2C630",
-      "publishedAt": "2026-03-03T13:20:00Z",
-      "content": ". .\r\n 3 (C) (E) .\r\n :\r\n ()\r\n- 50 - ( Glaucoma) .\r\n 150 . . 30 .\r\n .\r\n . .\r\n (Ultra Violet UV) (Cataract) . .\r\n :\r\n<ul><li>  100% </li><li> - (UV-A) - (UV-B) 400 (UV400)</li><li> .</li><li> .</li></ul… [+56 chars]"
     }
   ]
 }
