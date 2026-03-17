@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-03-16T07:15:52.531516",
+  "updated_at": "2026-03-17T07:03:33.560489",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "ما صحة فيديو \"إصابة صاروخ إيراني مُجنّح لبارجة حربية\"؟",
+      "description": "تناقلت حسابات اجتماعية مقطع فيديو باعتباره للحظة إصابة صاروخ إيراني لسفن وبوارج حربية، على هامش الحرب الدائرة بين الولايات المتحدة وإسرائيل وإيران.",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/03/15/is-the-video-iranian-cruise-missile-hits-warship-authentic-war-thunder",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/15/images/326321.jpg",
+      "publishedAt": "2026-03-15T14:09:01Z",
+      "content": "(CNN)-- .\r\n .\r\n  \" \". .\r\n War Thunder.\r\n \"Duzyatan 3.0\" 30 / 2025.  \r\n30 / 2025\r\n.\r\n 17 (UKMTO).\r\n \" \" \"\" .\r\n  NBC News.\r\n 20% \" \" ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/03/13799836-1772656371.jpg?resize=1920%2C1440",
       "publishedAt": "2026-03-04T19:27:22Z",
       "content": ": ()\r\n.\r\n \" \".\r\n \" () . \".\r\n .\r\n \" \" \" \".\r\n : ()\r\n  \" \".\r\n \" \".\r\n : \" \".\r\n - - \" \" \"\".\r\n.\r\n : \" : \".\r\n: ()\r\n- - .\r\n : \" \" .\r\n : \" . \".\r\n 27 .\r\n - \" \"- : \" \".\r\n .\r\n : \" . \".\r\n .\r\n : \" \".\r\n \" \".\r\n : \" … [+33 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "نادية مصطفى تنوه إلى أخبار \"مغلوطة\" حول صحة هاني شاكر",
-      "description": "نوهّت الفنانة المصرية ناديه مصطفى، الثلاثاء، إلى انتشار \"أخبار مغلوطة وغير دقيقة\"، حول تطورات الوضع الصحي لزميلها الفنّان هاني شاكر، إلى جانب تداول صورة له على فراش المرض، قالت إنّها \" مفبركة ومصنوعة بتقنيات الذكاء الاصطناعي\".",
-      "url": "https://arabic.cnn.com/entertainment/article/2026/03/04/nadia-mustafa-points-out-false-news-regarding-hani-shakers-health",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/03/images/325113.jpg",
-      "publishedAt": "2026-03-03T20:12:44Z",
-      "content": ""
     }
   ]
 }
