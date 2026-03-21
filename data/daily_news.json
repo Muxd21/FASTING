@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-03-20T06:54:38.240264",
+  "updated_at": "2026-03-21T06:41:28.895993",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "دراسة: المواد الكيميائية \"الأبدية\" قد تضرّ بصحة عظام الأطفال",
+      "description": "كشفت دراسة جديدة عن أنّ المواد الكيميائية \"الأبدية\" تضرّ بالصحة بشكل متزايد، خاصة احتمال تأثيرها على صحة عظام الأطفال.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/03/19/pfas-low-bone-density-kids-wellness",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/18/images/326604.jpg",
+      "publishedAt": "2026-03-19T08:55:19Z",
+      "content": "(CNN) -- \"\" .\r\n (PFAS) 15 : \r\n .\r\n .\r\nPFAS .Credit: BSIP/Collection Mix: Subjects RF/Getty Images/File\r\n(Journal of the Endocrine Society) .: \" \" \" \".\r\n : \" PFAS \" \" PFOA \".\r\n PFOA PFAS .\r\n \" \" .\r\n P… [+350 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/102001/29/1020012956_0:411:3164:2191_2072x0_60_0_0_3055a2dcef61a587d5a40b337ef972a7.jpg.webp",
       "publishedAt": "2026-03-04T23:30:36Z",
       "content": "https://sarabic.ae/20260304/----------1111070883.html\r\nhttps://cdn.img.sarabic.ae/img/102001/29/1020012956_0:411:3164:2191_1920x0_80_0_0_2aab1b41548cde0284616f881cde89f4.jpg.webp\r\n : \" \". . \"\": \" . \"… [+332 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "مدريد تنفي والبيت الأبيض يعلن موافقة إسبانيا على التعاون مع الجيش الأمريكي",
-      "description": "نفى وزير الخارجية الإسباني خوسيه مانويل ألباريس صحة التصريحات الصادرة عن البيت الأبيض بأن بلاده وافقت على التعاون مع الجيش الأمريكي في الحرب على إيران، مؤكدا رفض بلاده لتلك الحرب.",
-      "url": "https://www.aljazeera.net/news/2026/3/5/%d8%a7%d9%84%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d8%a3%d8%a8%d9%8a%d8%b6-%d9%8a%d8%b9%d9%84%d9%86-%d9%88%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d8%aa%d9%86%d9%81%d9%8a-%d9%85%d9%88%d8%a7%d9%81%d9%82%d8%a9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/03/13799836-1772656371.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-03-04T19:27:22Z",
-      "content": ": ()\r\n.\r\n \" \".\r\n \" () . \".\r\n .\r\n \" \" \" \".\r\n : ()\r\n  \" \".\r\n \" \".\r\n : \" \".\r\n - - \" \" \"\".\r\n.\r\n : \" : \".\r\n: ()\r\n- - .\r\n : \" \" .\r\n : \" . \".\r\n 27 .\r\n - \" \"- : \" \".\r\n .\r\n : \" . \".\r\n .\r\n : \" \".\r\n \" \".\r\n : \" … [+33 chars]"
     }
   ]
 }
