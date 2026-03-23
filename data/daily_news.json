@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-03-22T06:51:23.231886",
+  "updated_at": "2026-03-23T07:09:00.809546",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "\"المواد الكيميائية الأبدية\" في منازلنا.. خطر محتمل على صحة العظام",
+      "description": "وفق دراسة نُشرت في مجلة جمعية الغدد الصماء، قد تُضر \"المواد الكيميائية الأبدية\" بصحة عظام المراهقين.",
+      "url": "https://arabic.cnn.com/science-and-health/video/2026/03/21/v190994-forever-chemicals-dangers",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/21/images/326868.jpg",
+      "publishedAt": "2026-03-21T12:47:53Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.emaratalyoum.com/res/img/eay/logo-2023-1200x630.png",
       "publishedAt": "2026-03-07T00:02:20Z",
       "content": "Sign up for web notificationsWebpush Close\r\n«» «» - .\r\n 75 .\r\n .\r\n « MAGEC - » .\r\n «» .\r\nGoogle news"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "مسؤول أمريكي سابق: مزاعم واشنطن حول تدمير منصات الصواريخ الإيرانية تفتقر إلى المصداقية",
-      "description": "شكك المسؤول السابق في وزارة الدفاع الأمريكية، ديفيد تي. باين، في صحة تصريحات الولايات المتحدة الأمريكية حول تدمير منصات صواريخ إيرانية، مؤكدًا أن غالبية هذه المنصات قد تبقى ناجية حتى في حال استمرت الحرب لعدة أشهر.",
-      "url": "https://sarabic.ae/20260306/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%B3%D8%A7%D8%A8%D9%82-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AD%D9%88%D9%84-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D9%82%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%A7%D9%82%D9%8A%D8%A9-1111160923.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/08/0e/1091730728_0:0:3163:1779_2072x0_60_0_0_bbcd4a15292a1c60ea75e0f4faed772c.jpg.webp",
-      "publishedAt": "2026-03-06T16:51:39Z",
-      "content": "https://sarabic.ae/20260306/-------------1111160923.html\r\nhttps://cdn.img.sarabic.ae/img/07e8/08/0e/1091730728_0:0:3163:1779_1920x0_80_0_0_ec32a5da88e029a5fb87024c3b3ad97a.jpg.webp\r\n \": \" \". : \" \". .… [+397 chars]"
     }
   ]
 }
