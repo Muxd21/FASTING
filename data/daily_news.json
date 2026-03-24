@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-03-23T07:09:00.809546",
+  "updated_at": "2026-03-24T07:03:12.784440",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "توصيات طبية جديدة: علاج الكوليسترول ابتداءً من سن الثلاثين",
+      "description": "في الولايات المتحدة، توصي إرشادات مُحدَّثة من جهات رائدة في صحة القلب بإمكانية بدء استخدام أدوية الستاتين ابتداءً من سن الثلاثين إذا كانت لدى الأِشخاص مستويات مرتفعة من LDL، أو تاريخ عائلي قوي للإصابة المبكرة بأمراض القلب، أو خطر مرتفع للإصابة بأمراض القلب وا…",
+      "url": "https://arabic.cnn.com/science-and-health/video/2026/03/23/v190868-cholesterol-treatment-statins-younger-pdg-gupta",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/19/images/326708.jpg",
+      "publishedAt": "2026-03-23T06:39:50Z",
+      "content": ""
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/03/1-6-1772817490.jpg?resize=1800%2C1200&quality=80",
       "publishedAt": "2026-03-11T20:07:25Z",
       "content": ": ()\r\n- - .\r\n / 2025 12 .\r\n .\r\n \" \".\r\n - - \" \" \" \".\r\n \"\" \" \".\r\n \" \".\r\n \" ( ) . \".\r\n .\r\n .\r\n \" \".\r\n \" \" \" \".\r\n 19 .\r\n .\r\n 29 / 15 6 .\r\n 28 / .\r\n ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "محليات"
-      },
-      "author": "العين - وام",
-      "title": "«توام» يصحح اعوجاجاً حاداً بالعمود الفقري لطفل يبلغ 4 سنوات",
-      "description": "أعلنت «صحة»، التابعة لمجموعة «بيورهيلث»، أكبر مجموعة للرعاية الصحية في منطقة الشرق الأوسط، إنجازاً استثنائياً جديداً في مستشفى توام، تمثل في التصحيح الناجح لحالة اعوجاج العمود الفقري الحاد لدى طفل يبلغ من العمر أربع سنوات، مصاب بمتلازمة ستوف - ويدمان.وكان",
-      "url": "https://www.emaratalyoum.com/local-section/health/2026-03-07-1.2022675",
-      "urlToImage": "https://www.emaratalyoum.com/res/img/eay/logo-2023-1200x630.png",
-      "publishedAt": "2026-03-07T00:02:20Z",
-      "content": "Sign up for web notificationsWebpush Close\r\n«» «» - .\r\n 75 .\r\n .\r\n « MAGEC - » .\r\n «» .\r\nGoogle news"
     }
   ]
 }
