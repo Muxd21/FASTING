@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-04-02T07:11:47.291586",
+  "updated_at": "2026-04-03T07:06:46.271206",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت- خاص",
+      "title": "تدهور صحة أسير فلسطيني والاحتلال يدفن جثمان طفل بمقابر الأرقام",
+      "description": "كشفت منظمة مختصة بشؤون الأسرى عن تدهور صحة أسير مقدسي معتقل منذ 30 عاما نتيجة تعرضه للضرب والتعذيب، فيما كشف مركز حقوقي عن دفن جثمان طفل من القدس يحتجزه الاحتلال منذ نحو عامين، في مقابر الأرقام.",
+      "url": "https://www.aljazeera.net/news/2026/4/2/%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86-%d8%ac%d8%ab%d8%a7%d9%85%d9%8a%d9%86-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d8%a3%d8%b1%d9%82%d8%a7%d9%85",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2020/02/e0ca01eb-fadd-4760-adfb-11c2f5495802.jpeg?resize=1200%2C630",
+      "publishedAt": "2026-04-01T18:04:19Z",
+      "content": "()\r\n.\r\n .\r\n \" \" .\r\n .\r\n \" \" () \" \".\r\n 80% 20% .\r\n \" \".\r\n .\r\n () / .\r\n (52 ) .\r\n 27 / 1996 1994 \" \" .\r\n - - .\r\n .\r\n - - (14 ) \" \" 6 .\r\n 29 / / .\r\n 5 /  2024 \" \".\r\n 30 10 18 14 .\r\n    56 \" \" ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/03/GettyImages-2231236268-1773707843.jpg?resize=1920%2C1440",
       "publishedAt": "2026-03-20T13:20:00Z",
       "content": "() (80 ) .\r\n .\r\n ()\r\n.\r\n .\r\n( ) 30 .\r\n ()\r\n. .\r\n 12 24 . 2026 (Critical Reviews in Food Science and Nutrition) .\r\n .\r\n ( ) .\r\n( ) (LDL) .\r\n .\r\n ()\r\n5% 10% ( ) .\r\n 25 (Bifidobacterium) .\r\n.\r\n .\r\n( ) .… [+14 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sookeh.com"
-      },
-      "author": "سوكة نيوز",
-      "title": "وزير الصحة مصعب العلي يتفقد أقسام الإسعاف بمشافي دمشق",
-      "description": "وزير الصحة مصعب العلي يتفقد أقسام الإسعاف بمشافي دمشق، مهنئاً الكوادر الطبية بعيد الفطر. أكد الوزير استمرار تطوير القطاع الصحي وتحسين جودة الخدمات والرعاية الإنسانية للمرضى.",
-      "url": "https://www.sookeh.com/society/health/wazir-seha-mousab-ali-isaaf/14991/#article",
-      "urlToImage": "https://sookeh.imagibyte.sortdcdn.net/wp-content/uploads/2026/03/image-1774002775135.jpeg",
-      "publishedAt": "2026-03-20T10:33:30Z",
-      "content": "6دمشق – سوكة نيوز\r\nوزير الصحة، مصعب العلي، زار اليوم الجمعة، ومعاه مدير صحة دمشق وائل دغمش، أقسام الإسعاف بعدة مشافي موجودة بمدينة دمشق. الزيارة هي شملت مشفى المجتهد العام، ومشفى الهلال الأحمر، ومشفى… [+1364 chars]"
     }
   ]
 }
