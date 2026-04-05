@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-04-04T07:00:10.273721",
+  "updated_at": "2026-04-05T07:05:33.138241",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "مصر..الحكومة توضح حقيقة رفض تصدير شحنات فراولة للخارج بزعم احتوائها على \"مواد مسرطنة\"",
+      "description": "أصدر المركز الإعلامي لمجلس الوزراء المصري، بيانا رسميا نفى فيه صحة أنباء متداولة تزعم برفض شحنات فراولة مصرية مصدرة للخارج بدعوى احتوائها على \"مواد مسرطنة\"، وطرحها بالأسواق المحلية للمواطنين.",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/04/03/egypt-government-denies-refusing-to-export-strawberry-abroad",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/03/images/328182.jpg",
+      "publishedAt": "2026-04-03T17:41:31Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/21/images/326868.jpg",
       "publishedAt": "2026-03-21T12:47:53Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "ليلى الجندي",
-      "title": "حفنة واحدة يوميا.. كيف يحميك التوت الأزرق من أمراض القلب؟",
-      "description": "تشير مراجعة علمية إلى أن تناول التوت الأزرق البري بانتظام قد يسهم في دعم صحة القلب وتحسين الأيض في الجسم، ويرجع ذلك إلى تأثيره الإيجابي في عدد من المؤشرات الحيوية المهمة.",
-      "url": "https://www.aljazeera.net/health/2026/3/20/%d8%ad%d9%81%d9%86%d8%a9-%d9%88%d8%a7%d8%ad%d8%af%d8%a9-%d9%8a%d9%88%d9%85%d9%8a%d8%a7-%d9%83%d9%8a%d9%81-%d9%8a%d8%ad%d9%85%d9%8a%d9%83-%d8%a7%d9%84%d8%aa%d9%88%d8%aa",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/03/GettyImages-2231236268-1773707843.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-03-20T13:20:00Z",
-      "content": "() (80 ) .\r\n .\r\n ()\r\n.\r\n .\r\n( ) 30 .\r\n ()\r\n. .\r\n 12 24 . 2026 (Critical Reviews in Food Science and Nutrition) .\r\n .\r\n ( ) .\r\n( ) (LDL) .\r\n .\r\n ()\r\n5% 10% ( ) .\r\n 25 (Bifidobacterium) .\r\n.\r\n .\r\n( ) .… [+14 chars]"
     }
   ]
 }
