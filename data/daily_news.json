@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-04-07T07:15:29.427719",
+  "updated_at": "2026-04-08T07:18:28.090649",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "World Health Organization"
+      },
+      "author": null,
+      "title": "يوم الصحة العالمي لعام 2026",
+      "description": "توحد منظمة الصحة العالمية (المنظمة) الصفوف وتستنهض الهمم في العالم في يوم الصحة العالمي لعام 2026 تحت شعار \"معاً من أجل الصحة. ادعموا العلم\" للاحتفاء بقدرة التعاون العلمي على حماية صحة الإنسان والحيوان والنبات والكوكب. وتسلط الحملة التي تدوم عاماً كاملاً الضو…",
+      "url": "https://www.who.int/ar/campaigns/world-health-day/2026",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-health-day/2026/whd26-web-banner.tmb-1200v.jpg?sfvrsn=5d1a5206_7",
+      "publishedAt": "2026-04-06T23:00:31Z",
+      "content": "2026 ( 5 7 /) ( 7 9 /) 80 . \r\n ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Unlimit-tech.com"
+      },
+      "author": "Sultan Alqahtani",
+      "title": "تسريب صور حية لهاتف Honor 600 Pro قبل الإطلاق",
+      "description": "هذا الموضوع تسريب صور حية لهاتف Honor 600 Pro قبل الإطلاق ظهر على التقنية بلا حدود.\nتظهر صور حية جديدة لهاتف Honor 600 Pro، مؤكدة صحة التسريبات السابقة التي كشفت تصميمه قبل الإطلاق. وجاءت الصور عبر منشور على منصة Weibo، لتمنح نظرة فعلية على الجهاز. ويقدم الها…",
+      "url": "https://www.unlimit-tech.com/2026/04/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%b5%d9%88%d8%b1-%d8%ad%d9%8a%d8%a9-%d9%84%d9%87%d8%a7%d8%aa%d9%81-honor-600-pro-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82/",
+      "urlToImage": "https://www.unlimit-tech.com/wp-content/uploads/IMG_0508.jpeg",
+      "publishedAt": "2026-04-06T14:13:47Z",
+      "content": "Honor 600 Pro . Weibo .\r\n Honor 500 . iPhone 17 Pro.\r\n Honor 600 Pro . OLED 6.57 1.5K 120 .\r\n Snapdragon 8 200 9000 .\r\n Honor 600 Pro ."
+    },
     {
       "source": {
         "id": "cnn",
@@ -105,32 +131,6 @@
       "urlToImage": "https://i0.wp.com/www.unlimit-tech.com/wp-content/uploads/IMG_0024-1.jpeg?fit=1179%2C838&ssl=1",
       "publishedAt": "2026-03-25T09:00:57Z",
       "content": "Retroid Pocket G2 .\r\n 1.0.0.176 (Charge Separation) .\r\nNetflix .\r\n ."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "توصيات طبية جديدة: علاج الكوليسترول ابتداءً من سن الثلاثين",
-      "description": "في الولايات المتحدة، توصي إرشادات مُحدَّثة من جهات رائدة في صحة القلب بإمكانية بدء استخدام أدوية الستاتين ابتداءً من سن الثلاثين إذا كانت لدى الأِشخاص مستويات مرتفعة من LDL، أو تاريخ عائلي قوي للإصابة المبكرة بأمراض القلب، أو خطر مرتفع للإصابة بأمراض القلب وا…",
-      "url": "https://arabic.cnn.com/science-and-health/video/2026/03/23/v190868-cholesterol-treatment-statins-younger-pdg-gupta",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/19/images/326708.jpg",
-      "publishedAt": "2026-03-23T06:39:50Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "\"المواد الكيميائية الأبدية\" في منازلنا.. خطر محتمل على صحة العظام",
-      "description": "وفق دراسة نُشرت في مجلة جمعية الغدد الصماء، قد تُضر \"المواد الكيميائية الأبدية\" بصحة عظام المراهقين.",
-      "url": "https://arabic.cnn.com/science-and-health/video/2026/03/21/v190994-forever-chemicals-dangers",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/03/21/images/326868.jpg",
-      "publishedAt": "2026-03-21T12:47:53Z",
-      "content": ""
     }
   ]
 }
