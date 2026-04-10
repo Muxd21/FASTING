@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-04-09T07:21:17.514982",
+  "updated_at": "2026-04-10T07:26:35.535632",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "وائل مجدي",
+      "title": "خبير مصري لـ \"سبوتنيك\": أوروبا تسابق الزمن لتطوير الأسلحة النووية وتسعى لإنشاء قيادة نووية مستقلة",
+      "description": "أكد الدكتور مختار غباشي، الخبير السياسي المصري، والأمين العام لمركز الفارابي للدراسات السياسية، صحة التقارير التي تتحدث عن بدء العمل داخل الاتحاد الأوروبي لتطوير الأسلحة النووية، موضحًا أن القارة الأوروبية تسعى جاهدة لإنشاء قيادة نووية مستقلة وجيش موحد وتسليح…",
+      "url": "https://sarabic.ae/20260408/%D8%AE%D8%A8%D9%8A%D8%B1-%D9%85%D8%B5%D8%B1%D9%8A-%D9%84%D9%80-%D8%B3%D8%A8%D9%88%D8%AA%D9%86%D9%8A%D9%83-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D8%B3%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D9%88%D8%AA%D8%B3%D8%B9%D9%89-%D9%84%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D9%85%D8%B3%D8%AA%D9%82%D9%84%D8%A9-1112393161.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/102057/70/1020577061_0:0:1280:720_2072x0_60_0_0_4fb7d3befc641d17483a85d0c7f3663d.jpg.webp",
+      "publishedAt": "2026-04-08T13:39:58Z",
+      "content": "https://sarabic.ae/20260408/---------------1112393161.html\r\nhttps://cdn.img.sarabic.ae/img/102057/70/1020577061_0:0:1280:720_1920x0_80_0_0_7a3bbb19e0cf02dd362517e35b6940bd.jpg.webp\r\n \"\" . . . . : \" \"… [+765 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/02/11/1110452318_0:0:1920:1080_2072x0_60_0_0_b58ec0d72a1d0ea970eba5f83ba62955.jpg.webp",
       "publishedAt": "2026-03-25T11:46:04Z",
       "content": "https://sarabic.ae/20260325/-----------1111909647.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/02/11/1110452318_0:0:1920:1080_1920x0_80_0_0_d485e7b62b7f8c179959658c2698c9df.jpg.webp\r\nhttps://sarabic.ae/… [+286 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Unlimit-tech.com"
-      },
-      "author": "Sultan Alqahtani",
-      "title": "Retroid تعيد إحياء جهازها المتوقف بتحديث OTA جديد",
-      "description": "هذا الموضوع Retroid تعيد إحياء جهازها المتوقف بتحديث OTA جديد ظهر على التقنية بلا حدود.\nأطلقت Retroid تحديثًا جديدًا لهاتف الألعاب Pocket G2 رغم إعلان إيقافه مؤخرًا، في خطوة تؤكد استمرار دعم الجهاز بعد انتهاء إنتاجه. ويحمل التحديث رقم 1.0.0.176، ويقدم ميزة جد…",
-      "url": "https://www.unlimit-tech.com/2026/03/retroid-%d8%aa%d8%b9%d9%8a%d8%af-%d8%a5%d8%ad%d9%8a%d8%a7%d8%a1-%d8%ac%d9%87%d8%a7%d8%b2%d9%87%d8%a7-%d8%a7%d9%84%d9%85%d8%aa%d9%88%d9%82%d9%81-%d8%a8%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-ota-%d8%ac%d8%af/",
-      "urlToImage": "https://i0.wp.com/www.unlimit-tech.com/wp-content/uploads/IMG_0024-1.jpeg?fit=1179%2C838&ssl=1",
-      "publishedAt": "2026-03-25T09:00:57Z",
-      "content": "Retroid Pocket G2 .\r\n 1.0.0.176 (Charge Separation) .\r\nNetflix .\r\n ."
     }
   ]
 }
