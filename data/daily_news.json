@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-04-10T07:26:35.535632",
+  "updated_at": "2026-04-11T07:00:19.160922",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "الهيئة العامة للطيران المدني توضح حقيقة استئناف الرحلات بمطار الكويت",
+      "description": "نفت الهيئة العامة للطيران المدني الكويتي في بيان، الخميس، صحة إعلان متداول عبر وسائل التواصل الاجتماعي عن تشغيل رحلات من مطار الكويت الدولي، مؤكدة أن المطار لا يزال مغلقا.",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/04/09/kuwait-denies-resuming-flights-at-its-international-airport",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/09/images/328829.jpg",
+      "publishedAt": "2026-04-09T13:33:20Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/03/image-1774541826.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2026-03-26T14:31:33Z",
       "content": "\" \" .\r\n \" \" .\r\n / 8 .\r\n \" \" .\r\n \" \" 51 .\r\n (2026/3/26) \"\" \" \" .\r\n :\r\n .. .. .\r\n:\r\n . .\r\n:\r\n .. .\r\n:\r\n .. .. .\r\n\" \" \" \" ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "علماء روس يطورون نظاما لدعم صحة عمال المناوبة في القطب الشمالي",
-      "description": "أعلن علماء في جامعة تيومين الطبية، اليوم الأربعاء، أنهم طوروا برنامج كمبيوتر لتقييم حالة القلب والأوعية الدموية لدى عمال المناوبة الذين يعملون في مناطق القطب الشمالي النائية.",
-      "url": "https://sarabic.ae/20260325/%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D8%B1%D9%88%D8%B3-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D9%86%D8%B8%D8%A7%D9%85%D8%A7-%D9%84%D8%AF%D8%B9%D9%85-%D8%B5%D8%AD%D8%A9-%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%88%D8%A8%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A8-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-1111909647.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/02/11/1110452318_0:0:1920:1080_2072x0_60_0_0_b58ec0d72a1d0ea970eba5f83ba62955.jpg.webp",
-      "publishedAt": "2026-03-25T11:46:04Z",
-      "content": "https://sarabic.ae/20260325/-----------1111909647.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/02/11/1110452318_0:0:1920:1080_1920x0_80_0_0_d485e7b62b7f8c179959658c2698c9df.jpg.webp\r\nhttps://sarabic.ae/… [+286 chars]"
     }
   ]
 }
