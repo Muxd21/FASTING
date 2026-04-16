@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-04-15T07:44:22.779727",
+  "updated_at": "2026-04-16T07:44:46.229483",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "هل جدد غراهام أرنولد عقده مع منتخب العراق؟ المدرب الأسترالي يجيب",
+      "description": "قال غراهام أرنولد، المدير الفني لمنتخب العراق، إنه تركيزه ينصب في الوقت الحالي على تحضير \"أسود الرافدين\" لنهائيات كأس العالم 2026، نافيًا صحة تقارير صحفية قد زعمت بأنه جدد عقده بشكل رسمي.",
+      "url": "https://arabic.cnn.com/sport/article/2026/04/14/graham-arnold-iraq-national-team",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_22,w_5490,h_3088,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/14/images/329344.jpg",
+      "publishedAt": "2026-04-14T16:49:59Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "ما صحة مزاعم ماسك أن منصته الجديدة \"إكس شات\" تحمي خصوصية مستخدميها؟",
+      "description": "يواجه تطبيق \"إكس شات\" التابع لمنصة \"إكس\" المتوقع طرحه بعد أيام انتقادات بسبب سياسة الخصوصية التي تجمع الكثير من بيانات المستخدمين، رغم مزاعم إيلون ماسك أن التشفير فيه على درجة تشفير العملات الرقمية.",
+      "url": "https://www.aljazeera.net/tech/2026/4/14/%d9%85%d8%a7-%d8%b5%d8%ad%d8%a9-%d9%85%d8%b2%d8%a7%d8%b9%d9%85-%d9%85%d8%a7%d8%b3%d9%83-%d8%a3%d9%86-%d9%85%d9%86%d8%b5%d8%aa%d9%87-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a5%d9%83%d8%b3",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/04/shutterstock_2715878633-1776164640.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-04-14T12:43:35Z",
+      "content": "\"\" \" \" \"\" .\r\n \" \" \"\" .\r\n \"\" .\r\n \"\" .\r\n .\r\n \"\" \"\" \"\" \"\".\r\n \" \" \" \"   \"\" \"\" \" \" (Juicebox).\r\n \" \" \"\" .\r\n .\r\n \"\" ()\r\n\"\" .\r\n \" \" \"\" .\r\n \" \" .\r\n 17 / \"\" ."
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/03/images/328182.jpg",
       "publishedAt": "2026-04-03T17:41:31Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت- خاص",
-      "title": "تدهور صحة أسير فلسطيني والاحتلال يدفن جثمان طفل بمقابر الأرقام",
-      "description": "كشفت منظمة مختصة بشؤون الأسرى عن تدهور صحة أسير مقدسي معتقل منذ 30 عاما نتيجة تعرضه للضرب والتعذيب، فيما كشف مركز حقوقي عن دفن جثمان طفل من القدس يحتجزه الاحتلال منذ نحو عامين، في مقابر الأرقام.",
-      "url": "https://www.aljazeera.net/news/2026/4/2/%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86-%d8%ac%d8%ab%d8%a7%d9%85%d9%8a%d9%86-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d8%a3%d8%b1%d9%82%d8%a7%d9%85",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2020/02/e0ca01eb-fadd-4760-adfb-11c2f5495802.jpeg?resize=1200%2C630",
-      "publishedAt": "2026-04-01T18:04:19Z",
-      "content": "()\r\n.\r\n .\r\n \" \" .\r\n .\r\n \" \" () \" \".\r\n 80% 20% .\r\n \" \".\r\n .\r\n () / .\r\n (52 ) .\r\n 27 / 1996 1994 \" \" .\r\n - - .\r\n .\r\n - - (14 ) \" \" 6 .\r\n 29 / / .\r\n 5 /  2024 \" \".\r\n 30 10 18 14 .\r\n    56 \" \" ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "لابورتا يكسر صمته: رحيل ميسي كان \"القرار الصائب\"",
-      "description": "دافع رئيس برشلونة خوان لابورتا عن قراره بالتخلي عن ليونيل ميسي قبل 5 سنوات، مؤكداً أن المسار الذي اتخذه \"البارسا\" أثبت صحة رؤيته الإدارية.",
-      "url": "https://www.aljazeera.net/sport/2026/3/29/%d9%84%d8%a7%d8%a8%d9%88%d8%b1%d8%aa%d8%a7-%d8%b1%d8%ad%d9%8a%d9%84-%d9%85%d9%8a%d8%b3%d9%8a-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/laporta-messi-2-1766162822.jpg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2026-03-29T17:31:20Z",
-      "content": ": ()\r\n.\r\n 2021 / .\r\nlist of 2 itemsend of list\r\n .\r\n (El País) : \" \".\r\n : \" . . . \".\r\n 2021 ()\r\n( ) .\r\n \" : . . \"."
     }
   ]
 }
