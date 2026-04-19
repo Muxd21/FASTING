@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-04-18T07:06:24.029357",
+  "updated_at": "2026-04-19T07:18:20.308505",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "\"أنا صاحب السيادة\".. فيديو جديد يوثق بلطجة جندي إسرائيلي تصدر \"لسبريسو\"",
+      "description": "مقطع جديد يوثق غطرسة جندي إسرائيلي تصدر غلاف مجلة \"لسبريسو\"، حيث ظهر وهو يردد \"أنا صاحب السيادة\". وجاء ذلك إثر نشر المجلة لمقطع يثبت صحة صورتها ويفند ادعاء إسرائيل بأن صورة الغلاف نتاج ذكاء اصطناعي.",
+      "url": "https://www.aljazeera.net/news/2026/4/17/%d8%a3%d9%86%d8%a7-%d8%b5%d8%a7%d8%ad%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d9%88%d8%ab%d9%82",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/04/israaa-1776425448.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2026-04-17T14:30:00Z",
+      "content": "( )\r\n\"\" .\r\n 3 24 .\r\nlist of 2 items<ul><li>list 1 of 2</li><li>list 2 of 2 \"\" </li></ul>end of list\r\n \" \" \"\" :\r\n<ul><li>  : </li><li>  : .</li><li>  : ()</li><li>  (): ! ! ! . .</li><li>  : .. .</li>… [+126 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-health-day/2026/whd26-web-banner.tmb-1200v.jpg?sfvrsn=5d1a5206_7",
       "publishedAt": "2026-04-06T23:00:31Z",
       "content": "2026 ( 5 7 /) ( 7 9 /) 80 . \r\n ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Unlimit-tech.com"
-      },
-      "author": "Sultan Alqahtani",
-      "title": "تسريب صور حية لهاتف Honor 600 Pro قبل الإطلاق",
-      "description": "هذا الموضوع تسريب صور حية لهاتف Honor 600 Pro قبل الإطلاق ظهر على التقنية بلا حدود.\nتظهر صور حية جديدة لهاتف Honor 600 Pro، مؤكدة صحة التسريبات السابقة التي كشفت تصميمه قبل الإطلاق. وجاءت الصور عبر منشور على منصة Weibo، لتمنح نظرة فعلية على الجهاز. ويقدم الها…",
-      "url": "https://www.unlimit-tech.com/2026/04/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%b5%d9%88%d8%b1-%d8%ad%d9%8a%d8%a9-%d9%84%d9%87%d8%a7%d8%aa%d9%81-honor-600-pro-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82/",
-      "urlToImage": "https://www.unlimit-tech.com/wp-content/uploads/IMG_0508.jpeg",
-      "publishedAt": "2026-04-06T14:13:47Z",
-      "content": "Honor 600 Pro . Weibo .\r\n Honor 500 . iPhone 17 Pro.\r\n Honor 600 Pro . OLED 6.57 1.5K 120 .\r\n Snapdragon 8 200 9000 .\r\n Honor 600 Pro ."
     }
   ]
 }
