@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-04-21T07:48:47.501169",
+  "updated_at": "2026-04-22T07:45:55.541141",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "الخبز الأبيض أكثر صحة من الخبز الأسمر لهذه الفئة من الأشخاص",
+      "description": "لطالما سمعنا نصائح متكرّرة صادرة عن العديد من إختصاصيي التغذية، توصي بتناول الخبز الأسمر بدلاً من الخبز الأبيض. لكن هل هناك حالات يصبح فيها الخبز الأبيض أكثر صحة؟",
+      "url": "https://arabic.cnn.com/science-and-health/video/2026/04/20/v191684-nutrition-tips-saraa-white-bread-healthier",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_129,w_6711,h_3775,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/02/images/328054.jpg",
+      "publishedAt": "2026-04-20T10:08:19Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -117,19 +130,6 @@
       "url": "https://arabic.cnn.com/science-and-health/video/2026/04/13/v192372-this-viral-snow-spot-in-india-is-actually-a-waste-site-digvid-hnk",
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/13/images/329194.jpg",
       "publishedAt": "2026-04-13T11:58:20Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "الهيئة العامة للطيران المدني توضح حقيقة استئناف الرحلات بمطار الكويت",
-      "description": "نفت الهيئة العامة للطيران المدني الكويتي في بيان، الخميس، صحة إعلان متداول عبر وسائل التواصل الاجتماعي عن تشغيل رحلات من مطار الكويت الدولي، مؤكدة أن المطار لا يزال مغلقا.",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/04/09/kuwait-denies-resuming-flights-at-its-international-airport",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/09/images/328829.jpg",
-      "publishedAt": "2026-04-09T13:33:20Z",
       "content": ""
     }
   ]
