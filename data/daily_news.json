@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-04-24T08:01:52.995081",
+  "updated_at": "2026-04-25T07:14:58.596479",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "أمريكا تفرج عن أسرة مصرية بعد احتجاز لنحو 10 أشهر",
+      "description": "أمر قاض أمريكي بإطلاق سراح المصرية هيام الجمل وأطفالها الخمسة بعد 10 أشهر من الاحتجاز. القرار أثار غضب \"الأمن الداخلي\" الذي وصف القاضي بالناشط، وسط تقارير عن تدهور صحة الأسرة.",
+      "url": "https://www.aljazeera.net/news/2026/4/24/%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%aa%d9%81%d8%b1%d8%ac-%d8%b9%d9%86-%d8%a3%d8%b3%d8%b1%d8%a9-%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b9%d8%af-%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%b1",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/06/epa_683e7eeedde9-1748926190.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-04-24T03:43:08Z",
+      "content": "/ 2025 (-)\r\n10 .\r\n 5 18 / .\r\n 82 .\r\n \" \".\r\n (18 ) .\r\n \" \" (ICE) \" .. \".\r\n . \" \" .\r\n . .\r\n . \"\" .\r\n / 2025 (-)\r\n.\r\n \" \" \" \". .\r\n .\r\n .\r\n 47 ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/04/%D9%85%D8%B4%D8%B2%D8%B9%D8%B3%D8%B9-1776060146.jpg?resize=1920%2C1280&quality=80",
       "publishedAt": "2026-04-14T05:43:46Z",
       "content": "()\r\n\"\" .\r\n\" \" .\r\n .\r\nlist of 2 items<ul><li>list 1 of 2: </li><li>list 2 of 2 .. </li></ul>end of list\r\n \" \" \" \" .\r\n .\r\n : \" . . . . . . \".\r\n \" \" \" \" .\r\n.\r\n \" \" .\r\n .\r\n \"\": \" . \".\r\n .\r\n .\r\n \" - - \".\r… [+2 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "\"فسروا كلماتي بعناية\".. كونتي يرد على شائعات تربطه بتدريب منتخب إيطاليا",
-      "description": "نفى أنطونيو كونتي صحة تقارير صحفية قد زعمت اقترابه من تدريب منتخب إيطاليا، خلفاً لجنارو غاتوزو.",
-      "url": "https://arabic.cnn.com/sport/article/2026/04/13/antonio-conte-italy-national-team",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_4564,h_2567,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/13/images/329204.jpg",
-      "publishedAt": "2026-04-13T12:49:41Z",
-      "content": ""
     }
   ]
 }
