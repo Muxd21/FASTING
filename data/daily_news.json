@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-04-26T07:27:48.409075",
+  "updated_at": "2026-04-27T08:23:34.691197",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "محمد صلاح",
+      "title": "هل تشعر بأنك تفقد عضلاتك؟ إليك خطوات لاستعادتها وزيادة قوتها",
+      "description": "تزايد فقدان الكتلة العضلية عالميا، خاصة لدى كبار السن ومستخدمي أدوية إنقاص الوزن، يرفع مخاطر السقوط والكسور، ما يبرز الحاجة لتقييم صحة العضلات وتعزيزها عبر نمط حياة ونظام غذائي مناسبين.",
+      "url": "https://www.aljazeera.net/lifestyle/2026/4/25/%d9%87%d9%84-%d8%aa%d8%b4%d8%b9%d8%b1-%d8%a8%d8%a3%d9%86%d9%83-%d8%aa%d9%81%d9%82%d8%af-%d8%b9%d8%b6%d9%84%d8%a7%d8%aa%d9%83-%d8%a5%d9%84%d9%8a%d9%83-%d8%ae%d8%b7%d9%88%d8%a7%d8%aa",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/07/45015-1751401176.jpg?resize=1200%2C675",
+      "publishedAt": "2026-04-25T08:36:35Z",
+      "content": "()\r\n|\r\n:\r\n 3% 5% ()\r\n.\r\nlist of 2 items<ul><li>list 1 of 2</li><li>list 2 of 2 .. </li></ul>end of list\r\n \"\" :\r\n \" \".\r\n ()\r\n3 :\r\n \" \" \" \" .\r\n ()\r\n\" 3% 5% \".\r\n \"\" :\r\n - - \" \".\r\n \" \" . \" \" \" \".\r\n  ()\r\n… [+321 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/04/shutterstock_2715878633-1776164640.jpg?resize=1920%2C1440",
       "publishedAt": "2026-04-14T12:43:35Z",
       "content": "\"\" \" \" \"\" .\r\n \" \" \"\" .\r\n \"\" .\r\n \"\" .\r\n .\r\n \"\" \"\" \"\" \"\".\r\n \" \" \" \"   \"\" \"\" \" \" (Juicebox).\r\n \" \" \"\" .\r\n .\r\n \"\" ()\r\n\"\" .\r\n \" \" \"\" .\r\n \" \" .\r\n 17 / \"\" ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "بشار أبو زكري",
-      "title": "مجلة \"لسبريسو\" تنشر فيديو الجندي الإسرائيلي لتأكيد صحة صورة غلافها",
-      "description": "نشرت مجلة \"لسبريسو\" الإيطالية فيديو قالت إنه يوثق المشهد الذي استند إليه غلافها المثير للجدل، في محاولة لتأكيد صحته بعد اتهامات إسرائيلية بتزييفه باستخدام الذكاء الاصطناعي.",
-      "url": "https://www.aljazeera.net/news/2026/4/14/%d9%85%d8%ac%d9%84%d8%a9-%d9%84%d8%b3%d8%a8%d8%b1%d9%8a%d8%b3%d9%88-%d8%aa%d9%86%d8%b4%d8%b1-%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d9%84%d8%ac%d9%86%d9%88%d8%af",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/04/%D9%85%D8%B4%D8%B2%D8%B9%D8%B3%D8%B9-1776060146.jpg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2026-04-14T05:43:46Z",
-      "content": "()\r\n\"\" .\r\n\" \" .\r\n .\r\nlist of 2 items<ul><li>list 1 of 2: </li><li>list 2 of 2 .. </li></ul>end of list\r\n \" \" \" \" .\r\n .\r\n : \" . . . . . . \".\r\n \" \" \" \" .\r\n.\r\n \" \" .\r\n .\r\n \"\": \" . \".\r\n .\r\n .\r\n \" - - \".\r… [+2 chars]"
     }
   ]
 }
