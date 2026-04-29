@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-04-28T08:23:44.984530",
+  "updated_at": "2026-04-29T08:16:11.103478",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Masrawy.com"
+      },
+      "author": "مصراوي",
+      "title": "أطعمة تتفوق على التونة في فيتامين د.. أبرزها السلمون",
+      "description": "رغم فوائد التونة، تكشف تقارير أن أطعمة مثل السلمون وزيت كبد الحوت والفطر توفر كميات أعلى من فيتامين D، ما يعزز صحة العظام والمناعة ويقلل خطر نقص الفيتامين",
+      "url": "https://www.masrawy.com/howa_w_hya/health/details/2026/4/28/2978912/أطعمة-تتفوق-على-التونة-في-فيتامين-د-تناولها-فورا-",
+      "urlToImage": "https://media.gemini.media/img/large/2024/8/7/2024_8_7_18_9_38_275.webp",
+      "publishedAt": "2026-04-28T05:05:51Z",
+      "content": "D .\r\n D\r\n 4.8 D 85 \"Verywell Health\". \r\n14.2 16.2 .\r\n34 .\r\n23 .\r\nD .\r\n15 20 .\r\nD ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_22,w_5490,h_3088,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/14/images/329344.jpg",
       "publishedAt": "2026-04-14T16:49:59Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "ما صحة مزاعم ماسك أن منصته الجديدة \"إكس شات\" تحمي خصوصية مستخدميها؟",
-      "description": "يواجه تطبيق \"إكس شات\" التابع لمنصة \"إكس\" المتوقع طرحه بعد أيام انتقادات بسبب سياسة الخصوصية التي تجمع الكثير من بيانات المستخدمين، رغم مزاعم إيلون ماسك أن التشفير فيه على درجة تشفير العملات الرقمية.",
-      "url": "https://www.aljazeera.net/tech/2026/4/14/%d9%85%d8%a7-%d8%b5%d8%ad%d8%a9-%d9%85%d8%b2%d8%a7%d8%b9%d9%85-%d9%85%d8%a7%d8%b3%d9%83-%d8%a3%d9%86-%d9%85%d9%86%d8%b5%d8%aa%d9%87-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a5%d9%83%d8%b3",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/04/shutterstock_2715878633-1776164640.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-04-14T12:43:35Z",
-      "content": "\"\" \" \" \"\" .\r\n \" \" \"\" .\r\n \"\" .\r\n \"\" .\r\n .\r\n \"\" \"\" \"\" \"\".\r\n \" \" \" \"   \"\" \"\" \" \" (Juicebox).\r\n \" \" \"\" .\r\n .\r\n \"\" ()\r\n\"\" .\r\n \" \" \"\" .\r\n \" \" .\r\n 17 / \"\" ."
     }
   ]
 }
