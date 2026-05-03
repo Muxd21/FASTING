@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-05-02T07:42:41.505296",
+  "updated_at": "2026-05-03T08:00:31.730395",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "صحة غزة: المنظومة الصحية تواجه انهيارا غير مسبوق",
+      "description": "أكدت وزارة الصحة في غزة أن المنظومة الصحية في القطاع تواجه انهيارا غير مسبوق، إذ تعمل المستشفيات المتبقية بشكل محدود، في ظل منع الاحتلال إدخال المستلزمات الطبية الضرورية.",
+      "url": "https://www.aljazeera.net/politics/2026/5/1/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a7%d9%86%d9%87%d9%8a%d8%a7%d8%b1%d8%a7",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/09/rdty5yuyh-1759235642.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2026-05-01T15:25:55Z",
+      "content": "200 .\r\n 2600 824 .\r\n .\r\n 16 38 . 50% 57% .\r\n 47 .\r\n .\r\n 2.4 ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_129,w_6711,h_3775,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/02/images/328054.jpg",
       "publishedAt": "2026-04-20T10:08:19Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "إعلام إيراني: الأنباء المنشورة بخصوص انعقاد جولة مفاوضات ثانية في باكستان غير صحيحة",
-      "description": "نفت وسائل إعلام إيرانية، اليوم الأحد، صحة الأنباء المتداولة بشأن انعقاد جولة ثانية من المفاوضات في العاصمة الباكستانية إسلام آباد، مؤكدة أن ما تم تداوله في هذا السياق لا أساس له من الصحة.",
-      "url": "https://sarabic.ae/20260419/%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D9%86%D8%B4%D9%88%D8%B1%D8%A9-%D8%A8%D8%AE%D8%B5%D9%88%D8%B5-%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D8%AC%D9%88%D9%84%D8%A9-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D9%8A%D8%B1-%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9-1112694081.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/04/0c/1112493473_0:0:1280:721_2072x0_60_0_0_75bce2dc542d82792c23741af618f2d3.jpg.webp",
-      "publishedAt": "2026-04-19T17:42:13Z",
-      "content": "https://sarabic.ae/20260419/-------------1112694081.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/04/0c/1112493473_0:0:1280:721_1920x0_80_0_0_a2f01c417428d5771011731ee538301f.jpg.webp\r\n \"\" \" \" \" . \" \" . … [+498 chars]"
     }
   ]
 }
