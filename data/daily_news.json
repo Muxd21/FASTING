@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-05-03T08:00:31.730395",
+  "updated_at": "2026-05-04T08:27:42.682050",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "دراسة: زيادة بسيطة في استهلاك الأطعمة فائقة المعالجة قد ترفع خطر الخرف",
+      "description": "تشير أبحاث جديدة إلى أن استهلاك حتى الكميات الصغيرة من الأطعمة فائقة المعالجة قد تؤثر في صحة الدماغ.",
+      "url": "https://arabic.cnn.com/science-and-health/video/2026/05/02/v193474-ultraprocessed-food-dementia",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/05/02/images/331087.jpg",
+      "publishedAt": "2026-05-02T13:03:01Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "الرباط ترد على حقيقة \"ملتمس تجنيس اليهود ذوي الأصول المغربية\"",
+      "description": "نفى المتحدث الرسمي باسم الحكومة المغربية، مصطفى بايتاس، صحة الأنباء المتداولة بشأن تجنيس أبناء وأحفاد اليهود المغاربة، مؤكدًا أنها تستند إلى معطيات غير دقيقة أثارت جدلا واسعا.",
+      "url": "https://sarabic.ae/20260502/%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B7-%D8%AA%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%85%D9%84%D8%AA%D9%85%D8%B3-%D8%AA%D8%AC%D9%86%D9%8A%D8%B3-%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-1113057543.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/101350/88/1013508876_0:140:3145:1909_2072x0_60_0_0_afe4b58a13ec2a48d052532ebc47f97e.jpg.webp",
+      "publishedAt": "2026-05-02T11:18:35Z",
+      "content": "https://sarabic.ae/20260502/----------1113057543.html\r\nhttps://cdn.img.sarabic.ae/img/101350/88/1013508876_0:140:3145:1909_1920x0_80_0_0_9a24c4faa58287b92f8e7f621d681280.jpg.webp\r\n 2024 . 20 20 . / 2… [+393 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/06/epa_683e7eeedde9-1748926190.jpg?resize=1920%2C1440",
       "publishedAt": "2026-04-24T03:43:08Z",
       "content": "/ 2025 (-)\r\n10 .\r\n 5 18 / .\r\n 82 .\r\n \" \".\r\n (18 ) .\r\n \" \" (ICE) \" .. \".\r\n . \" \" .\r\n . .\r\n . \"\" .\r\n / 2025 (-)\r\n.\r\n \" \" \" \". .\r\n .\r\n .\r\n 47 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "رايتس ووتش تتهم واشنطن بالتخلي عن حماية صحة الإنسان والبيئة",
-      "description": "في يوم الأرض، تتهم هيومن رايتس ووتش إدارة ترامب بتفريغ وكالة حماية البيئة من مضمونها، عبر قرارات أضعفت حماية صحة الإنسان والبيئة وتركت المجتمعات المهمشة وجها لوجه مع التلوث.",
-      "url": "https://www.aljazeera.net/news/2026/4/22/%d8%b1%d8%a7%d9%8a%d8%aa%d8%b3-%d9%88%d9%88%d8%aa%d8%b4-%d8%aa%d8%aa%d9%87%d9%85-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%a8%d8%a7%d9%84%d8%aa%d8%ae%d9%84%d9%8a-%d8%b9%d9%86",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2015/08/b1a6c21c-2a6a-4ddd-b308-5fae7192e15c.jpeg?resize=1200%2C675",
-      "publishedAt": "2026-04-22T08:30:57Z",
-      "content": "( )\r\n.\r\n 1970 . .\r\nlist of 2 items<ul><li>list 1 of 2</li><li>list 2 of 2 .. \"\" </li></ul>end of list\r\n \" \" / 2025 . \" \" .\r\n \" \" .\r\n . .\r\n 12 / \" \" .\r\n .\r\n \" \" .\r\n / \" \" 2009 . \" \" .\r\n \" \" 22 / 1970 … [+4 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "الخبز الأبيض أكثر صحة من الخبز الأسمر لهذه الفئة من الأشخاص",
-      "description": "لطالما سمعنا نصائح متكرّرة صادرة عن العديد من إختصاصيي التغذية، توصي بتناول الخبز الأسمر بدلاً من الخبز الأبيض. لكن هل هناك حالات يصبح فيها الخبز الأبيض أكثر صحة؟",
-      "url": "https://arabic.cnn.com/science-and-health/video/2026/04/20/v191684-nutrition-tips-saraa-white-bread-healthier",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_129,w_6711,h_3775,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/02/images/328054.jpg",
-      "publishedAt": "2026-04-20T10:08:19Z",
-      "content": ""
     }
   ]
 }
