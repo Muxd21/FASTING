@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-05-10T08:06:41.122554",
+  "updated_at": "2026-05-11T09:37:07.224159",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "10 عادات للحفاظ على صحة دماغك.. ما هي؟",
+      "description": "يعاني أكثر من 7 ملايين شخص في الولايات المتحدة من مرض الزهايمر. ويُشير تقرير وطني جديد صدر هذا الأسبوع، إلى أنه رغم اقتناع معظم الأمريكيين بأهمية الحفاظ على صحة الدماغ مع التقدم في السن، إلا أنّ الكثيرين يجهلون كيفية ذلك. إليكم 10 عادات صحية قد تساعد على حماي…",
+      "url": "https://arabic.cnn.com/science-and-health/video/2026/05/10/v193934-top-10-brain-health-tips",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/05/10/images/331803.jpg",
+      "publishedAt": "2026-05-10T06:11:27Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "\"صحة غزة\": وفاة 50 مريضا بالثلاسيميا جراء تدهور الأوضاع الصحية خلال \"العدوان\"",
+      "description": "أعلنت وزارة الصحة الفلسطينية في غزة وفاة 50 مريضًا بالثلاسيميا من أصل 334 حالة مسجلة في القطاع، منذ بداية العدوان الإسرائيلي، في ظل التدهور الحاد الذي تشهده المنظومة الصحية ونقص الإمكانات الطبية.",
+      "url": "https://sarabic.ae/20260509/%D8%B5%D8%AD%D8%A9-%D8%BA%D8%B2%D8%A9-%D9%88%D9%81%D8%A7%D8%A9-50-%D9%85%D8%B1%D9%8A%D8%B6%D8%A7-%D8%A8%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%B3%D9%8A%D9%85%D9%8A%D8%A7-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%AA%D8%AF%D9%87%D9%88%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86--1113260949.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/04/1c/1112942381_0:0:1920:1080_2072x0_60_0_0_07fd94e2b1a3f4bfabf4af8460d56397.jpg.webp",
+      "publishedAt": "2026-05-09T13:15:21Z",
+      "content": "https://sarabic.ae/20260509/---50----------1113260949.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/04/1c/1112942381_0:0:1920:1080_1920x0_80_0_0_f3c486ced71e8a1e1e8da742973cd479.jpg.webp\r\n . 47 237 52 12… [+411 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/27/images/330565.jpg",
       "publishedAt": "2026-04-28T09:04:02Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Masrawy.com"
-      },
-      "author": "مصراوي",
-      "title": "أطعمة تتفوق على التونة في فيتامين د.. أبرزها السلمون",
-      "description": "رغم فوائد التونة، تكشف تقارير أن أطعمة مثل السلمون وزيت كبد الحوت والفطر توفر كميات أعلى من فيتامين D، ما يعزز صحة العظام والمناعة ويقلل خطر نقص الفيتامين",
-      "url": "https://www.masrawy.com/howa_w_hya/health/details/2026/4/28/2978912/أطعمة-تتفوق-على-التونة-في-فيتامين-د-تناولها-فورا-",
-      "urlToImage": "https://media.gemini.media/img/large/2024/8/7/2024_8_7_18_9_38_275.webp",
-      "publishedAt": "2026-04-28T05:05:51Z",
-      "content": "D .\r\n D\r\n 4.8 D 85 \"Verywell Health\". \r\n14.2 16.2 .\r\n34 .\r\n23 .\r\nD .\r\n15 20 .\r\nD ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "محمد صلاح",
-      "title": "هل تشعر بأنك تفقد عضلاتك؟ إليك خطوات لاستعادتها وزيادة قوتها",
-      "description": "تزايد فقدان الكتلة العضلية عالميا، خاصة لدى كبار السن ومستخدمي أدوية إنقاص الوزن، يرفع مخاطر السقوط والكسور، ما يبرز الحاجة لتقييم صحة العضلات وتعزيزها عبر نمط حياة ونظام غذائي مناسبين.",
-      "url": "https://www.aljazeera.net/lifestyle/2026/4/25/%d9%87%d9%84-%d8%aa%d8%b4%d8%b9%d8%b1-%d8%a8%d8%a3%d9%86%d9%83-%d8%aa%d9%81%d9%82%d8%af-%d8%b9%d8%b6%d9%84%d8%a7%d8%aa%d9%83-%d8%a5%d9%84%d9%8a%d9%83-%d8%ae%d8%b7%d9%88%d8%a7%d8%aa",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/07/45015-1751401176.jpg?resize=1200%2C675",
-      "publishedAt": "2026-04-25T08:36:35Z",
-      "content": "()\r\n|\r\n:\r\n 3% 5% ()\r\n.\r\nlist of 2 items<ul><li>list 1 of 2</li><li>list 2 of 2 .. </li></ul>end of list\r\n \"\" :\r\n \" \".\r\n ()\r\n3 :\r\n \" \" \" \" .\r\n ()\r\n\" 3% 5% \".\r\n \"\" :\r\n - - \" \".\r\n \" \" . \" \" \" \".\r\n  ()\r\n… [+321 chars]"
     }
   ]
 }
