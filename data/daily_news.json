@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-05-11T09:37:07.224159",
+  "updated_at": "2026-05-12T08:38:17.006112",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "طهران تنفي تسريبات أمريكية بشأن مقترح إنهاء الحرب وتكشف تفاصيل الرد الإيراني",
+      "description": "نفى مصدر إيراني، اليوم الأحد، صحة ما تم تداوله في الإعلام الأمريكي، بشأن رد طهران على مقترحات متعلقة بالمفاوضات، معتبرًا أن أجزاء مهمة من تلك التسريبات غير صحيحة وغير واقعية.",
+      "url": "https://sarabic.ae/20260510/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-1113314539.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/03/14/1111686960_20:0:1464:812_2072x0_60_0_0_b642ecb82149ca37b5a506e2aea68e9b.jpg.webp",
+      "publishedAt": "2026-05-10T20:12:32Z",
+      "content": "https://sarabic.ae/20260510/------------1113314539.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/03/14/1111686960_20:0:1464:812_1920x0_80_0_0_eb6fef1ad72b1e630fa6ef31f88348de.jpg.webp\r\n \"\" \" \". \" 30 \". .… [+478 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/04/10/1112610616_0:0:1920:1080_2072x0_60_0_0_53cf6260b2028628592e4caad8d54939.jpg.webp",
       "publishedAt": "2026-04-28T09:40:35Z",
       "content": "https://sarabic.ae/20260428/---------------1112937893.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/04/10/1112610616_0:0:1920:1080_1920x0_80_0_0_2adcd381624bec744587d64386b76be7.jpg.webp\r\n \" \". \" \". . 14… [+336 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "تأثير التوتر على الحيوانات المنوية..هذا ما يجب على الرجال معرفته",
-      "description": "يُدرك غالبية الرجال أن التوتر قد يؤثر على المزاج، والرغبة الجنسية، والانتصاب. لكن ما لا يدركونه هو أن الشعور المستمر بالضغط قد يؤثر أيضًا على صحة الحيوانات المنوية.",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/04/28/fertility-stress-sperm-health-wellness",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/04/27/images/330565.jpg",
-      "publishedAt": "2026-04-28T09:04:02Z",
-      "content": ""
     }
   ]
 }
