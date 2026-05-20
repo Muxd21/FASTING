@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-05-19T09:40:19.204791",
+  "updated_at": "2026-05-20T09:31:18.347616",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sookeh.com"
+      },
+      "author": "سوكة نيوز",
+      "title": "حملة رش كبيرة بإدلب الجنوبي لمكافحة ذبابة الرمل واللاشمانيا",
+      "description": "انطلقت حملة رش مبيدات مكثفة بريف إدلب الجنوبي، بمنطقتي معرة النعمان وخان شيخون، لمكافحة ذبابة الرمل والحد من انتشار مرض اللاشمانيا. الحملة بتنسيق بين مديرية صحة إدلب وجهات محلية، لحماية الأهالي وتقليل الإصابات بعد تفشي المرض بالمنطقة.",
+      "url": "https://www.sookeh.com/society/health/%d8%ad%d9%85%d9%84%d8%a9-%d8%b1%d8%b4-%d9%83%d8%a8%d9%8a%d8%b1%d8%a9-%d8%a8%d8%a5%d8%af%d9%84%d8%a8-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a/33710/#article",
+      "urlToImage": "https://sookeh.imagibyte.sortdcdn.net/wp-content/uploads/2026/05/image-1779125493331-scaled.jpeg",
+      "publishedAt": "2026-05-18T17:32:23Z",
+      "content": ""
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/09/rdty5yuyh-1759235642.jpg?resize=1920%2C1280&quality=80",
       "publishedAt": "2026-05-01T15:25:55Z",
       "content": "200 .\r\n 2600 824 .\r\n .\r\n 16 38 . 50% 57% .\r\n 47 .\r\n .\r\n 2.4 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "حركة النهضة تعلن تدهور صحة الغنوشي في محبسه",
-      "description": "قالت حركة النهضة التونسية إن صحة رئيسها راشد الغنوشي تدهورت تدهورا حادا في محبسه ونقل إلى المستشفى، وطالبت بإطلاق سراحه باعتباره محتجزا تعسفيا.",
-      "url": "https://www.aljazeera.net/news/2026/4/30/%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%86%d9%87%d8%b6%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%af%d9%87%d9%88%d8%b1-%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d8%ba%d9%86%d9%88%d8%b4%d9%8a-%d9%81%d9%8a",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/04/ap_69f32f067ac0e-1777544966.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-04-30T08:06:41Z",
-      "content": "/ 2023 ( )\r\n.\r\n - - \" \".\r\n \" \".\r\n 63/2025 \" \" .\r\n \" \".\r\n ()\r\n17 / 2023 (84 ) \" \".\r\n 15 / 20 3 \" \".\r\n / 14 20 \" 2.\r\n 26 / 3 \" \".\r\n / 2025 \" \" 2016 .\r\n \" \" .\r\n \" \" \" \"."
     }
   ]
 }
