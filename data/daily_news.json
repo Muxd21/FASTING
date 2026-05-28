@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-05-27T09:42:34.065096",
+  "updated_at": "2026-05-28T10:02:18.891976",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "دراسة تكشف مخاطر التصفح السلبي ليلًا لمنصات التواصل على صحة المراهقين",
+      "description": "يبدو أن العادة المتمثلة في التصاق المراهقين بهواتفهم تحوّل العديد منهم إلى أشخاص يسهرون لوقت متأخر خلال ليالي الدراسة في وقت هم بأمس الحاجة فيه إلى كل ساعة نوم يمكنهم الحصول عليها.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/05/27/teen-nighttime-phone-use-study-wellness",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/05/27/images/333443.jpg",
+      "publishedAt": "2026-05-27T09:37:41Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_246,w_5389,h_3032,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/05/12/images/332105.jpg",
       "publishedAt": "2026-05-12T18:28:49Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "العراق ينفي مجددا وجود قاعدة عسكرية أجنبية أو عمليات إنزال جوي في صحراء النخيب",
-      "description": "نفى رئيس خلية الإعلام الأمني في العراق، الفريق سعد معن، اليوم الثلاثاء، صحة الأنباء المتداولة بشأن تنفيذ عمليات إنزال جوي أو وجود قاعدة عسكرية أجنبية في منطقة صحراء النخيب غربي البلاد.",
-      "url": "https://sarabic.ae/20260512/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%81%D9%8A-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D8%A3%D9%88-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%81%D9%8A-%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%86%D8%AE%D9%8A%D8%A8-1113348504.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/104327/75/1043277525_0:54:1025:630_2072x0_60_0_0_27172e746dda3f92882097a8006bf213.jpg.webp",
-      "publishedAt": "2026-05-12T11:55:03Z",
-      "content": "https://sarabic.ae/20260512/--------------1113348504.html\r\nhttps://cdn.img.sarabic.ae/img/104327/75/1043277525_0:54:1025:630_1920x0_80_0_0_f960ccbc1ae3f6338e3980a64338d5aa.jpg.webp\r\n \" / 2026 \" - . \"… [+481 chars]"
     }
   ]
 }
