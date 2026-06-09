@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-06-08T10:51:39.066959",
+  "updated_at": "2026-06-09T09:40:42.238007",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Elmogaz.com"
+      },
+      "author": "الموجز",
+      "title": "مصر تستضيف أكبر تجمع صحي إفريقي.. انطلاق Africa Health ExCon 2026 منتصف يونيو | الموجز",
+      "description": "تحت رعاية الرئيس عبد الفتاح السيسي، رئيس الجمهورية، أعلنت الهيئة المصرية للشراء الموحد والإمداد والتموين الطبي وإدارة التكنولوجيا الطبية، عن استضافة القاهرة للنسخة الخامسة من المعرض والمؤتمر الطبي الإفريقي «صحة إفريقيا Africa Health ExCon»، الحدث الصحي الأكبر…",
+      "url": "https://www.elmogaz.com/837784",
+      "urlToImage": "https://www.elmogaz.com/UploadCache/libfiles/83/2/600x338o/757.jpeg",
+      "publishedAt": "2026-06-07T11:42:13Z",
+      "content": "« Africa Health ExCon» 15 18 2026 . \r\n .\r\n 2063 2030 . \r\n 400 45,000 21 .\r\n Africa Health ExCon . \" : \" .\r\n (APPM) .\"\r\n Africa Health ExCon .\r\n .\r\n (APPM) .\r\n .\r\n Africa Health ExCon .\r\n 2025 100 375… [+26 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/05/ap_69fc81d74f80c-1778155991.jpg?resize=1920%2C1440",
       "publishedAt": "2026-05-27T12:57:17Z",
       "content": "6 / 2026 ( )\r\n.\r\n \" \" .\r\n 16 / 2025 ( )\r\n\"\" .\r\nlist of 2 items<ul><li>list 1 of 2</li><li>list 2 of 2 .. </li></ul>end of list\r\n .\r\n .\r\n .\r\n .\r\n \"\" \"\" 70% .\r\n. 59% 55% .\r\n .\r\n .\r\n \" \" \" \" \" \" .\r\n .\r\n… [+16 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "دراسة تكشف مخاطر التصفح السلبي ليلًا لمنصات التواصل على صحة المراهقين",
-      "description": "يبدو أن العادة المتمثلة في التصاق المراهقين بهواتفهم تحوّل العديد منهم إلى أشخاص يسهرون لوقت متأخر خلال ليالي الدراسة في وقت هم بأمس الحاجة فيه إلى كل ساعة نوم يمكنهم الحصول عليها.",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/05/27/teen-nighttime-phone-use-study-wellness",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/05/27/images/333443.jpg",
-      "publishedAt": "2026-05-27T09:37:41Z",
-      "content": ""
     }
   ]
 }
