@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-06-19T10:24:14.572122",
+  "updated_at": "2026-06-20T08:54:04.599684",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "الأهل يتفوّقون على أطفالهم في استخدام الهواتف أثناء الوجبات العائلية",
+      "description": "ينعكس تناول العائلات الطعام معًا بانتظام على فوائد عديدة، مثل تحسين الرضا العاطفي واتباع أنظمة غذائية أكثر صحة. لكن إيجاد الوقت للجلوس معًا كل ليلة بات يبدو مهمة صعبة.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/06/19/parents-children-devices-meals-wellness",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/17/images/335752.jpg",
+      "publishedAt": "2026-06-19T08:18:36Z",
+      "content": "(CNN) --   . .\r\n .\r\n \"JAMA Pediatrics\" 350 75%   . \r\n 4 10 70% . \r\n . .\r\n: \" \".\r\n : \r\n .\r\n . \r\n \" \".\r\n .\r\n \"Family Dinner Project\" 2010 .\r\n \" \" .\r\n CNN: \" . \".\r\n .\r\n   .\r\n: \" . \".\r\n .\r\n 2025 2003 202… [+88 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/getty_6a283310e4-1781019408.jpg?resize=1920%2C1440",
       "publishedAt": "2026-06-16T00:53:33Z",
       "content": "|\r\n300 .\r\n \" \" \" \" .\r\n - - : \" 300 \".\r\n 300 .\r\n 300 .\r\n .\r\n 300 .\r\n .\r\n - - .\r\n .\r\n 60 12 .\r\n - - .\r\n ."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "\"زواحف لأعمال السحر مع منتخب السنغال\".. ما صحة الصورة المتداولة؟",
-      "description": "تداولت حسابات في وسائل التواصل الاجتماعي، صورة بزعم أنها ترتبط بالعثور على شحنة غامضة من الزواحف الميتة بحوزة بعثة منتخب السنغال لدى وصولها إلى الولايات المتحدة للمشاركة في منافسات كأس العالم.",
-      "url": "https://arabic.cnn.com/sport/article/2026/06/15/ai-image-reptiles-used-for-witchcraft-confiscated-senegalese-team",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_5083,h_2859,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/15/images/335358.jpg",
-      "publishedAt": "2026-06-14T20:39:30Z",
-      "content": "(CNN)-- .  \r\n : \" \".\r\n\" - \" .\r\n .\r\n  Verify AI SynthID (Gemini) \" \".\r\n Verify AI\r\nCredit: Gemini\r\n Hive Moderation  Gemini 99.6%.\r\n Hive Moderation\r\nCredit: Hive Moderation\r\n  . \r\n ."
     }
   ]
 }
