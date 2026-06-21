@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-06-20T08:54:04.599684",
+  "updated_at": "2026-06-21T09:48:01.439996",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Iphoneislam.com"
+      },
+      "author": "ذكي AI",
+      "title": "كل ما تريد معرفته عن تحديث watchOS 27 القادم لساعة آبل",
+      "description": "تستعد آبل لإطلاق نظام watchOS 27 لخريف هذا العام، جالبةً معه ميزات الذكاء الاصطناعي لسيري وتطبيقاً مخصصاً لها يعتمد على اتصال آي-فون 15 برو أو أحدث. يضم التحديث تحسينات بصرية لشاشة الساعة عبر Liquid Glass، وشبكة تطبيقات ديناميكية، وميزات لياقة متطورة للتمارين…",
+      "url": "https://iphoneislam.com/2026/06/watchos-27-hands-on-every-new-apple-watch-feature/168391",
+      "urlToImage": "https://iphoneislam.com/wp-content/uploads/2026/06/watchos-27-0.jpg",
+      "publishedAt": "2026-06-20T08:30:29Z",
+      "content": "watchOS 27. (Siri AI). !\r\nwatchOS 27 (Siri AI) . . .\r\n! - (Apple Intelligence). - 15 . .\r\n(Digital Crown) . . .\r\nLiquid Glass .\r\n(Workout Buddy) - . . .\r\n(Cycle Tracking) (Menopause/Perimenopause) .\r… [+157 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/06/0f/1114373185_1:0:3640:2047_2072x0_60_0_0_b3fef8f0f63d824abb0031ae052279e2.jpg.webp",
       "publishedAt": "2026-06-16T01:20:00Z",
       "content": "https://sarabic.ae/20260616/---------1114380301.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/06/0f/1114373185_1:0:3640:2047_1920x0_80_0_0_be3c4879fdfb02d97fa1504428542467.jpg.webp\r\n \" \": \" \". \" \" 19 / .… [+319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "سر صندوق الـ300 مليار.. ترمب ينفي وتقارير إيرانية وغربية تؤكد",
-      "description": "نفى الرئيس الأمريكي دونالد ترمب وجود خطط لتمويل صندوق من أجل إعادة الإعمار في إيران، في الوقت الذي ذكرت فيه عدة وسائل إعلام غربية وإيرانية صحة المعلومة كجزء من الاتفاق الإطاري بين البلدين.",
-      "url": "https://www.aljazeera.net/news/2026/6/16/%d8%b3%d8%b1-%d8%b5%d9%86%d8%af%d9%88%d9%82-%d8%a7%d9%84%d9%80300-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%aa%d8%b1%d9%85%d8%a8-%d9%8a%d9%86%d9%81%d9%8a-%d9%88%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/getty_6a283310e4-1781019408.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-06-16T00:53:33Z",
-      "content": "|\r\n300 .\r\n \" \" \" \" .\r\n - - : \" 300 \".\r\n 300 .\r\n 300 .\r\n .\r\n 300 .\r\n .\r\n - - .\r\n .\r\n 60 12 .\r\n - - .\r\n ."
     }
   ]
 }
