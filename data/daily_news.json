@@ -1,7 +1,46 @@
 {
-  "updated_at": "2026-06-21T09:48:01.439996",
+  "updated_at": "2026-06-22T11:51:24.155764",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "المونديال.. ما حقيقة \"سوء علاقة\" حسام حسن مع محمد صلاح بعد استبدال اللاعب؟",
+      "description": "نفى حسام حسن، المدير الفني لمنتخب مصر، صحة شائعات غضب اللاعب محمد صلاح بعد استبداله في مباراة \"الفراعنة\" مع منتخب بلجيكا، الاثنين الماضي.",
+      "url": "https://arabic.cnn.com/sport/article/2026/06/21/mohamed-salah-hossam-hassan-egypt",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_208,w_4543,h_2556,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/21/images/336105.jpg",
+      "publishedAt": "2026-06-21T04:34:01Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Albaladnews.net"
+      },
+      "author": "أخبار البلد",
+      "title": "تحديات الأمراض العابرة للحدود والتغير المناخي والأمن الغذائي: متلازمة الصحة الواحدة (One Health Syndrome)",
+      "description": "أخبار البلد  -    \r\nالاستاذ الدكتور نبيل هيلات\r\nاستاذ علم الامراض البيطرية-جامعة العلوم والتكنولوجيا\r\nالاردنية\r\nيشهد العالم اليوم تحديات متزايدة\r\nنتيجة الترابط الديناميكي المعقد بين صحة الكونية(Global Health) للانسان والحيوان والبيئة،\r\nخاصة مع تصاعد تأثيرات ا…",
+      "url": "https://albaladnews.net/article/465453",
+      "urlToImage": "https://cdn.albaladnews.net/2026-06-20/images/72_news_1781980704.jpg",
+      "publishedAt": "2026-06-20T18:41:58Z",
+      "content": "-   \r\n - \r\n(Global Health) \r\n . \r\n \" (One Health).\r\n60% \r\n 75% ( emerging and re-emerging diseases).\r\n 80% (pathogens) \r\n3 5 \r\n . \r\n.2.5% \r\n 39 2025 \r\n (Global defense)2.9 .\r\n. .\r\n. (FMD) (PPR)(CCHF)… [+187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Alramtha.net"
+      },
+      "author": "Bassam Salman",
+      "title": "تحديات الأمراض العابرة للحدود والتغير المناخي والأمن الغذائي: متلازمة الصحة الواحدة (One Health Syndrome)",
+      "description": "اعداد: الاستاذ الدكتور نبيل هيلات-استاذ علم الامراض البيطرية-جامعة العلوم والتكنولوجيا الاردنية يشهد العالم اليوم تحديات متزايدة نتيجة الترابط الديناميكي المعقد بين صحة الكونية(Global Health)  للانسان والحيوان والبيئة، خاصة مع…",
+      "url": "https://alramtha.net/6178/",
+      "urlToImage": "https://alramtha.net/wp-content/uploads/2026/06/20260620_1781949998-1.jpg",
+      "publishedAt": "2026-06-20T16:10:28Z",
+      "content": "74: - - \r\n (Global Health)   .  (One Health) .\r\n 60% 75% ( emerging and re-emerging diseases). 80% (pathogens) 3 5 . . 2.5%   39 2025 (Global defense) 2.9 .\r\n . .\r\n   . (FMD) (PPR) (CCHF) . .\r\n . . .… [+167 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -92,45 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_77,w_3472,h_1953,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/16/images/335640.jpg",
       "publishedAt": "2026-06-16T17:34:07Z",
       "content": "(CNN) \"\" (1-1). \r\n .\r\n : \" ..  !\"\r\n:San Ffnnrcso Bay Aura FIFI VOILD QALUPPFES \" \" \" \".\r\n.\r\n .\r\n Verify AI  SynthID (Gemini) \" ()  Google  SynthID 0:00 0:05\".\r\n Verify AI Gemini\r\nCredit: Gemini\r\n Syn… [+5 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "فيتامين يمكن أن يساعد في الحفاظ على صحة دماغك في الشيخوخة.. تعرف عليه",
-      "description": "دراسة يابانية جديدة تكشف عن فائدة جديدة لفيتامين \"سي\" تتعلق بصحة الدماغ عند التقدم في العمر.",
-      "url": "https://www.aljazeera.net/lifestyle/2026/6/16/%d9%81%d9%8a%d8%aa%d8%a7%d9%85%d9%8a%d9%86-%d9%8a%d9%85%d9%83%d9%86-%d8%a3%d9%86-%d9%8a%d8%b3%d8%a7%d8%b9%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d8%b5%d8%ad%d8%a9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/fytamyn-sy-1781626431.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-06-16T13:32:03Z",
-      "content": "\"\" .\r\n 64 \"\" .\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2 .. </li></ul>end of list\r\n \"\" .\r\n \"\" .\r\n \"\" .\r\n \"\" ()\r\n\"\" .\r\n \"\" .\r\n \" \" ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "كيف تساعد تمارين رفع الأثقال في الحفاظ على صحة جيدة مع التقدم في العمر؟",
-      "description": "يساعد رفع الأثقال على بناء جسم أقوى وأكثر صحة، ويعزز القدرة على أداء الأنشطة اليومية، مما يسهم في تحسين جودة الحياة على المدى الطويل.",
-      "url": "https://www.bbc.com/arabic/articles/c70yejl21jlo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/1ad8/live/a8934280-68d2-11f1-a53d-a3fd187200ab.jpg",
-      "publishedAt": "2026-06-16T10:43:03Z",
-      "content": "Getty Images\r\nArticle Information<ul><li></li><li></li><li></li></ul>\r\n .\r\n .\r\n .\r\n ( ).\r\n .\r\n: \" \".\r\n .\r\nGetty Images\r\n.\r\n: \" \".\r\n 20 30 :\r\n : .\r\n : .\r\n : .\r\n / : ( ) ( ).\r\n . .\r\nGetty Images\r\n.\r\n .… [+447 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "ترامب: إيران وافقت على عدم امتلاك سلاح نووي نهائيا",
-      "description": "أعلن الرئيس الأميركي دونالد ترامب، أن إيران وافقت على عدم امتلاك سلاح نووي، نافيًا في الوقت ذاته صحة التقارير التي تحدثت عن تقديم الولايات المتحدة أموالًا لطهران ضمن التفاهمات الجارية بين الجانبين.",
-      "url": "https://sarabic.ae/20260616/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%81%D9%82%D8%AA-%D8%B9%D9%84%D9%89-%D8%B9%D8%AF%D9%85-%D8%A7%D9%85%D8%AA%D9%84%D8%A7%D9%83-%D8%B3%D9%84%D8%A7%D8%AD-%D9%86%D9%88%D9%88%D9%8A-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7-1114380301.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/06/0f/1114373185_1:0:3640:2047_2072x0_60_0_0_b3fef8f0f63d824abb0031ae052279e2.jpg.webp",
-      "publishedAt": "2026-06-16T01:20:00Z",
-      "content": "https://sarabic.ae/20260616/---------1114380301.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/06/0f/1114373185_1:0:3640:2047_1920x0_80_0_0_be3c4879fdfb02d97fa1504428542467.jpg.webp\r\n \" \": \" \". \" \" 19 / .… [+319 chars]"
     }
   ]
 }
