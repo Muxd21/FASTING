@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-06-22T11:51:24.155764",
+  "updated_at": "2026-06-23T09:36:12.211953",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "\"آن أوان الإنصاف\".. محمد فضل شاكر يؤكد تراجع حالة والده الصحية",
+      "description": "أكدّ محمد نجل الفنان فضل شاكر، في مقطع فيديو، نشره عبر حسابه الرسمي في إنستغرام، الأحد، ما يتردد عن تراجع حالة والده الصحية في السجن، قائلاً: \"لا أخفيكم صحة الوالد مش تمام\"، بعد مرور 9 أشهر على توقيفه، منذ سلّم نفسه لمخابرات الجيش اللبناني.",
+      "url": "https://arabic.cnn.com/entertainment/article/2026/06/22/mohamed-fadl-shaker-confirms-his-fathers-deteriorating-health-condition",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_3004,h_1690,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/22/images/336177.jpg",
+      "publishedAt": "2026-06-21T22:30:14Z",
+      "content": ""
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/11/images/335022.jpg",
       "publishedAt": "2026-06-17T07:45:13Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "\"امرأة عارية تقتحم ملعب مباراة قطر وسويسرا\".. ما صحة الفيديو المتداول؟",
-      "description": "تداولت حسابات في وسائل التواصل الاجتماعي، مقطع فيديو بزعم عرضه مشاهد لامرأة عارية اقتحمت ملعب مباراة قطر وسويسرا في كأس العالم، التي اقتنص فيها منتخب \"العنابي\" التعادل في الوقت الضائع، لتصبح النتيجة (1-1).",
-      "url": "https://arabic.cnn.com/sport/article/2026/06/16/ai-naked-girl-invades-the-pitch-during-the-qatar-switzerland-match",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_77,w_3472,h_1953,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/16/images/335640.jpg",
-      "publishedAt": "2026-06-16T17:34:07Z",
-      "content": "(CNN) \"\" (1-1). \r\n .\r\n : \" ..  !\"\r\n:San Ffnnrcso Bay Aura FIFI VOILD QALUPPFES \" \" \" \".\r\n.\r\n .\r\n Verify AI  SynthID (Gemini) \" ()  Google  SynthID 0:00 0:05\".\r\n Verify AI Gemini\r\nCredit: Gemini\r\n Syn… [+5 chars]"
     }
   ]
 }
