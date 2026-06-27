@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-06-26T09:23:51.555571",
+  "updated_at": "2026-06-27T08:34:18.490765",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "نوادي القراءة الصامتة.. كيف تدعم صحة الدماغ وتحفّز التركيز؟",
+      "description": "يقيم الأشخاص حفلات بهدف تشجيع الآخرين على القراءة من أجل المتعة. هذه اللقاءات ليست مجرد نشاط اجتماعي أو وسيلة للاسترخاء، بل يمكن أن تساعد في تحسين صحة الدماغ.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/06/25/brain-health-reading-book-club-wellness",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_126,w_2497,h_1404,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/07/images/334551.jpg",
+      "publishedAt": "2026-06-25T11:44:08Z",
+      "content": "(CNN) -- \" \" . .\r\n . \r\n . .\r\n \"BookTok\" . 2025 236 \" \".\r\n \" \".\r\n 2025 \" \".\r\n. . .\r\n . : \" \".\r\n . 2020 .\r\n . 2017   .\r\n .\r\n\"Reading Rhythms\" .\r\n \" \" .\r\n : \" \".\r\n .\r\n \"Reading Rhythms\" \" \" .\r\n. : \" \".\r… [+28 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/03/GettyImages-971934542-1741026138.jpg?resize=1920%2C1280&quality=80",
       "publishedAt": "2026-06-18T04:26:00Z",
       "content": ". .\r\n . .\r\n .\r\n \" \" .\r\n .\r\n .\r\n \" 9 .\r\n 3 .\r\n \" \" .\r\n ()\r\n\" \". .\r\n 300 .\r\n 6 16 .\r\n .\r\n . .\r\n 3 .\r\n .\r\n . .\r\n .\r\n .\r\n .\r\n 8 10 .\r\n . .\r\n .\r\n 3 . \"\" .\r\n . .\r\n ()\r\n. .\r\n . ."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "الكلور في المسابح..تأثير صامت يتسلّل إلى صحة البشرة والشعر",
-      "description": "مع بداية موسم الصيف وارتفاع درجات الحرارة، تُصبح المسابح ملاذًا يوميًا للهروب من الحرّ والاستمتاع بالماء. لكن خلف هذا المشهد المنعش، يبرز عنصر أساسي لا نراه بالعين المجردة رغم حضوره الدائم في كل مسبح، أي الكلور.",
-      "url": "https://arabic.cnn.com/style/article/2026/06/18/the-effect-of-pool-chlorine-on-skin-and-hair",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/04/images/334243.jpg",
-      "publishedAt": "2026-06-18T03:53:35Z",
-      "content": ""
     }
   ]
 }
