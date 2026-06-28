@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-06-27T08:34:18.490765",
+  "updated_at": "2026-06-28T08:49:40.344490",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "العقم عند الرجال: لماذا يتأخر التشخيص ويغيب الدعم؟",
+      "description": "رغم أن مشكلات الخصوبة لدى الرجال تسهم في نحو نصف حالات العقم، لا يزال كثير منهم يشعرون بأنهم خارج دائرة التشخيص والعلاج. فما أسباب هذا التهميش، وكيف يمكن تغيير النظرة إلى العقم باعتباره قضية تخص صحة الرجال أيضاً؟",
+      "url": "https://www.bbc.com/arabic/articles/crelxyp190no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1200/branded_arabic/a894/live/2b6a9b10-7182-11f1-8546-8f19e4fe30f4.jpg",
+      "publishedAt": "2026-06-26T19:01:19Z",
+      "content": "Getty Images\r\nArticle Information<ul><li></li><li></li><li></li></ul>\r\n 2020 .\r\n: \" : . . \".\r\n 18 .\r\n .\r\n: \" . \".\r\n.\r\n: \" : \".\r\n .\r\n() 12 .\r\n .\r\n : \" \".\r\n 2019 .\r\n .\r\n: \" \".\r\n \" \".\r\n .\r\n 1978 .\r\n \" \"… [+674 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/17/images/335752.jpg",
       "publishedAt": "2026-06-19T08:18:36Z",
       "content": "(CNN) --   . .\r\n .\r\n \"JAMA Pediatrics\" 350 75%   . \r\n 4 10 70% . \r\n . .\r\n: \" \".\r\n : \r\n .\r\n . \r\n \" \".\r\n .\r\n \"Family Dinner Project\" 2010 .\r\n \" \" .\r\n CNN: \" . \".\r\n .\r\n   .\r\n: \" . \".\r\n .\r\n 2025 2003 202… [+88 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "محمد زايد",
-      "title": "تبدأ من رحم الأم.. كيف تحدد التغذية صحة الجنين؟",
-      "description": "رحلة صحة الطفل تبدأ قبل الولادة؛ من غذاء الأم ومكملاتها إلى التطعيمات ونمط الحياة. تقرير يوضح كيف يؤثر حمض الفوليك والأوميغا 3 و300 سعر حراري في نمو الجنين ومناعته ومستقبله الصحي.",
-      "url": "https://www.aljazeera.net/health/2026/6/18/%d8%aa%d8%a8%d8%af%d8%a3-%d9%85%d9%86-%d8%b1%d8%ad%d9%85-%d8%a7%d9%84%d8%a3%d9%85-%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d8%af%d8%af-%d8%a7%d9%84%d8%aa%d8%ba%d8%b0%d9%8a%d8%a9-%d8%b5%d8%ad%d8%a9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/03/GettyImages-971934542-1741026138.jpg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2026-06-18T04:26:00Z",
-      "content": ". .\r\n . .\r\n .\r\n \" \" .\r\n .\r\n .\r\n \" 9 .\r\n 3 .\r\n \" \" .\r\n ()\r\n\" \". .\r\n 300 .\r\n 6 16 .\r\n .\r\n . .\r\n 3 .\r\n .\r\n . .\r\n .\r\n .\r\n .\r\n 8 10 .\r\n . .\r\n .\r\n 3 . \"\" .\r\n . .\r\n ()\r\n. .\r\n . ."
     }
   ]
 }
