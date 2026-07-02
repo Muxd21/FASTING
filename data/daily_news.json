@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-01T09:42:44.030410",
+  "updated_at": "2026-07-02T08:53:44.625844",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Akhbarona.com"
+      },
+      "author": "أخبارنا المغربية - وكالات",
+      "title": "تحذير طبي: التدخين الإلكتروني يهدد صحة القلب والأوعية الدموية",
+      "description": "تتزايد الأدلة العلمية التي تدحض الاعتقاد بأن السجائر الإلكترونية تمثل بديلاً آمناً للتدخين التقليدي، بعدما كشفت دراسات حديثة عن ارتباط استخدامها بارتفاع خطر الإصابة بأمراض",
+      "url": "https://www.akhbarona.com/health/428472.html",
+      "urlToImage": "https://www.akhbarona.com/thumbs/article_large/7/0/7972681d-60b9-44ff-89c2-8d263a63cbf2_1782864404.webp",
+      "publishedAt": "2026-07-01T01:32:56Z",
+      "content": ".\r\n .\r\n \" \" (FDA) .\r\n .\r\n Circulation: Arrhythmia and Electrophysiology .\r\n . .\r\n .\r\n ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/1e-1782114884.avif?resize=1200%2C675",
       "publishedAt": "2026-06-22T15:11:09Z",
       "content": "30% .\r\n .\r\nlist of 2 itemsend of list\r\n . \"\" .\r\n . .\r\n .\r\n . .\r\n . 1% .\r\n . .\r\n . 2020 12 .\r\n. .\r\n . .\r\n .\r\n .\r\n . .\r\n \"\" .\r\n 5 15 \"\" .\r\n .\r\n . .\r\n . ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "‏فانس: توصلنا لآلية حول الأصول الإيرانية المجمدة",
-      "description": "أعلن نائب الرئيس الأمريكي، جي دي فانس، اليوم الاثنين، عن توصل واشنطن مع قطر إلى آلية خاصة بالتعامل مع الأصول الإيرانية المجمدة، نافيا صحة بعض التقارير المتداولة بشأن الإفراج عنها، وأكد أن الهدف هو ضمان توجيه هذه الأموال لخدمة الشعب الإيراني وعدم استخدامها في …",
-      "url": "https://sarabic.ae/20260622/%D9%81%D8%A7%D9%86%D8%B3-%D8%AA%D9%88%D8%B5%D9%84%D9%86%D8%A7-%D9%84%D8%A2%D9%84%D9%8A%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%AF%D8%A9-1114590371.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/06/16/1114590137_0:0:1000:563_2072x0_60_0_0_67b43f80573ff4f5cd6ec1fa48682a5b.jpg.webp",
-      "publishedAt": "2026-06-22T12:04:10Z",
-      "content": "https://sarabic.ae/20260622/-------1114590371.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/06/16/1114590137_0:0:1000:563_1920x0_80_0_0_c0d61a5ff99553c316ac49a9122a269c.jpg.webp\r\n . 18 . . . / 28 / 60 . … [+384 chars]"
     }
   ]
 }
