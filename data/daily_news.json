@@ -1,7 +1,46 @@
 {
-  "updated_at": "2026-07-02T08:53:44.625844",
+  "updated_at": "2026-07-03T09:15:43.266688",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "أبرز 10 وصفات طبيعية لتحسين نكهة الماء عند شربه",
+      "description": "رغم أهمية ترطيب الجسم بانتظام، يواجه كثيرون صعوبة في تقبّل طعم الماء، ما قد يدفعهم أحيانًا إلى اختيار بدائل أقل صحة، مثل المشروبات الغازيّة أو السكريّة.. فما الحل؟",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/07/02/flavored-water-health-infographic",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/01/images/337248.jpg",
+      "publishedAt": "2026-07-02T04:42:50Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "عون.. لم أطلب تدخلا سوريا ولم نشرعن الاحتلال",
+      "description": "نفى الرئيس اللبناني صحة الأنباء عن موافقته على استدعاء تدخل سوري عند الحاجة، ورفض اتهامات شرعنة الاحتلال الإسرائيلي، مؤكدا أن صيغة الإطار ليست اتفاقا نهائيا.",
+      "url": "https://www.aljazeera.net/news/2026/7/1/%d8%b9%d9%88%d9%86-%d9%84%d9%85-%d8%a3%d8%b7%d9%84%d8%a8-%d8%aa%d8%af%d8%ae%d9%84%d8%a7-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%88%d9%84%d9%85-%d9%86%d8%b4%d8%b1%d8%b9%d9%86",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/07/image-1782919493.jpg?resize=1920%2C1078&quality=80",
+      "publishedAt": "2026-07-01T13:21:48Z",
+      "content": "\"\" .\r\n .\r\n .\r\n \" \" .\r\n 13 .\r\n \" \" \" \" .\r\n \" \" .\r\n .\r\n .\r\n : \" \".\r\n .\r\n ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "ست طرق لتشجيع الأطفال على تناول الخضروات",
+      "description": "تغييرات طفيفة في طريقة تقديم الطعام قد تشكل فارقاً مهماً في صحة الاطفال",
+      "url": "https://www.bbc.com/arabic/articles/cz0jgedmg1do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1200/branded_arabic/3482/live/7d948e70-754f-11f1-a0e5-ab9c63e24c99.jpg",
+      "publishedAt": "2026-07-01T13:13:56Z",
+      "content": "Getty Images\r\nArticle Information<ul><li></li><li></li><li></li></ul>\r\n . : \" \" .\r\n . . .\r\n . . .\r\n . :\r\nGetty Images\r\n. .\r\n: \" \". .\r\n 15 . .\r\n .\r\n. .\r\nGetty Images\r\n\"\" \"\". .\r\n . : \" \". : \" \". .\r\n .\r… [+416 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -92,45 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/shhytk-fy-alsyf-1782561396.png?resize=1200%2C675",
       "publishedAt": "2026-06-27T09:38:37Z",
       "content": ". .\r\n \"\" .\r\nlist of 4 items<ul><li>list 1 of 4 .. </li><li>list 2 of 4 .. </li><li>list 3 of 4 .. 10 </li><li>list 4 of 4 .. </li></ul>end of list\r\n . \r\n ()\r\n. :\r\n . .\r\n .\r\n . \" \" .\r\n . .\r\n . . .\r\n (… [+103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "العقم عند الرجال: لماذا يتأخر التشخيص ويغيب الدعم؟",
-      "description": "رغم أن مشكلات الخصوبة لدى الرجال تسهم في نحو نصف حالات العقم، لا يزال كثير منهم يشعرون بأنهم خارج دائرة التشخيص والعلاج. فما أسباب هذا التهميش، وكيف يمكن تغيير النظرة إلى العقم باعتباره قضية تخص صحة الرجال أيضاً؟",
-      "url": "https://www.bbc.com/arabic/articles/crelxyp190no",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1200/branded_arabic/a894/live/2b6a9b10-7182-11f1-8546-8f19e4fe30f4.jpg",
-      "publishedAt": "2026-06-26T19:01:19Z",
-      "content": "Getty Images\r\nArticle Information<ul><li></li><li></li><li></li></ul>\r\n 2020 .\r\n: \" : . . \".\r\n 18 .\r\n .\r\n: \" . \".\r\n.\r\n: \" : \".\r\n .\r\n() 12 .\r\n .\r\n : \" \".\r\n 2019 .\r\n .\r\n: \" \".\r\n \" \".\r\n .\r\n 1978 .\r\n \" \"… [+674 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "نوادي القراءة الصامتة.. كيف تدعم صحة الدماغ وتحفّز التركيز؟",
-      "description": "يقيم الأشخاص حفلات بهدف تشجيع الآخرين على القراءة من أجل المتعة. هذه اللقاءات ليست مجرد نشاط اجتماعي أو وسيلة للاسترخاء، بل يمكن أن تساعد في تحسين صحة الدماغ.",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/06/25/brain-health-reading-book-club-wellness",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_126,w_2497,h_1404,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/07/images/334551.jpg",
-      "publishedAt": "2026-06-25T11:44:08Z",
-      "content": "(CNN) -- \" \" . .\r\n . \r\n . .\r\n \"BookTok\" . 2025 236 \" \".\r\n \" \".\r\n 2025 \" \".\r\n. . .\r\n . : \" \".\r\n . 2020 .\r\n . 2017   .\r\n .\r\n\"Reading Rhythms\" .\r\n \" \" .\r\n : \" \".\r\n .\r\n \"Reading Rhythms\" \" \" .\r\n. : \" \".\r… [+28 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "محمد عبد العظيم",
-      "title": "الكولاجين البحري.. هل هو الحل الطبيعي لمقاومة التجاعيد؟",
-      "description": "مع تزايد الاهتمام بمكملات مقاومة الشيخوخة، يبرز الكولاجين البحري بوصفه أحد أكثر الخيارات رواجا لدعم صحة البشرة، مدفوعا بدراسات تشير إلى سهولة امتصاصه وفعاليته المحتملة في الحفاظ على مرونة الجلد.",
-      "url": "https://www.aljazeera.net/lifestyle/2026/6/22/%d8%a7%d9%84%d9%83%d9%88%d9%84%d8%a7%d8%ac%d9%8a%d9%86-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a-%d9%87%d9%84-%d9%87%d9%88-%d8%a7%d9%84%d8%ad%d9%84-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/1e-1782114884.avif?resize=1200%2C675",
-      "publishedAt": "2026-06-22T15:11:09Z",
-      "content": "30% .\r\n .\r\nlist of 2 itemsend of list\r\n . \"\" .\r\n . .\r\n .\r\n . .\r\n . 1% .\r\n . .\r\n . 2020 12 .\r\n. .\r\n . .\r\n .\r\n .\r\n . .\r\n \"\" .\r\n 5 15 \"\" .\r\n .\r\n . .\r\n . ."
     }
   ]
 }
