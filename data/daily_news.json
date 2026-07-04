@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-03T09:15:43.266688",
+  "updated_at": "2026-07-04T08:34:39.113327",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "جيش الاحتلال يقرّ بتعذيب قواته أسيرا فلسطينيا في غزة",
+      "description": "أكد متحدث باسم جيش الاحتلال الإسرائيلي صحة صورة نشرها جندي إسرائيلي على منصة إنستغرام تكشف تعذيب أسير فلسطيني في قطاع غزة.",
+      "url": "https://www.aljazeera.net/news/2026/7/3/%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d9%8a%d9%82%d8%b1-%d8%a8%d8%aa%d8%b9%d8%b0%d9%8a%d8%a8-%d9%82%d9%88%d8%a7%d8%aa%d9%87-%d8%a3%d8%b3%d9%8a%d8%b1%d8%a7",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/07/78978-1782891741.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2026-07-02T21:12:38Z",
+      "content": "|\r\n- - .\r\n () .\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2 \" \"</li></ul>end of list\r\n : \" 24 - - \".\r\n .\r\n .\r\n.\r\n (Josef Benamou) - \r\n \" \" - \" \" \" \" \" \".\r\n \" \" \" \".\r\n \" \" \" / 2023 100… [+16 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/1221-1782556090.jpg?resize=1920%2C1280&quality=80",
       "publishedAt": "2026-06-27T10:11:15Z",
       "content": "|\r\n93 (VAR) 2026.\r\n .\r\n.\r\nlist of 2 itemsend of list\r\n (VAR) .\r\n (11) .\r\n .\r\n .\r\n .\r\n .\r\n .\r\n . .\r\n .\r\n .\r\n (1-1) 32 .\r\n (VAR) .\r\n .\r\n \"\" \" 100%\" \" \" .\r\n .\r\n .\r\n .\r\n \" \" .\r\n ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "محمد صلاح",
-      "title": "شهيتك تقل مع اشتداد الحر؟.. 5 نصائح غذائية لصيف أكثر صحة",
-      "description": "قد يبدو انخفاض الشهية في الصيف أمرا عابرا، لكن ما يحدث داخل جسمك قد يكون فرصة لتحسين عاداتك الغذائية، أو الوقوع في أخطاء لا تنتبه إليها.",
-      "url": "https://www.aljazeera.net/lifestyle/2026/6/27/5-%d9%86%d8%b5%d8%a7%d8%a6%d8%ad-%d8%ba%d8%b0%d8%a7%d8%a6%d9%8a%d8%a9-%d9%84%d8%b5%d9%8a%d9%81-%d8%a3%d9%83%d8%ab%d8%b1-%d8%b5%d8%ad%d8%a9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/shhytk-fy-alsyf-1782561396.png?resize=1200%2C675",
-      "publishedAt": "2026-06-27T09:38:37Z",
-      "content": ". .\r\n \"\" .\r\nlist of 4 items<ul><li>list 1 of 4 .. </li><li>list 2 of 4 .. </li><li>list 3 of 4 .. 10 </li><li>list 4 of 4 .. </li></ul>end of list\r\n . \r\n ()\r\n. :\r\n . .\r\n .\r\n . \" \" .\r\n . .\r\n . . .\r\n (… [+103 chars]"
     }
   ]
 }
