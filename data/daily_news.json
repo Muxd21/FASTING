@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-04T08:34:39.113327",
+  "updated_at": "2026-07-05T08:50:37.076981",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "الخطوط السعودية تنفي علاقتها بطائرات سلمت لـ\"كيان معاقب\"",
+      "description": "نفت الخطوط الجوية العربية السعودية، اليوم السبت، صحة ما جرى تداوله بشأن تسليم طائرات من طراز \"بوينغ 777-200\" كانت مملوكة لها إلى إحدى الكيانات الخاضعة للعقوبات.",
+      "url": "https://sarabic.ae/20260704/%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%87%D8%A7-%D8%A8%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%B3%D9%84%D9%85%D8%AA-%D9%84%D9%80%D9%83%D9%8A%D8%A7%D9%86-%D9%85%D8%B9%D8%A7%D9%82%D8%A8-1114936202.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e4/0a/0e/1046833057_0:211:2893:1838_2072x0_60_0_0_3fd5701294d9399b7aa374017d43c9b3.jpg.webp",
+      "publishedAt": "2026-07-04T07:20:13Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_59,w_5875,h_3305,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/06/28/images/336805.jpg",
       "publishedAt": "2026-06-27T23:21:32Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "الدقيقة 93.. هل ظلم حكم الفيديو المساعد منتخب إيران أمام مصر؟",
-      "description": "فجر إلغاء هدف إيران في الدقيقة 93 بحجة التسلل بعد العودة إلى تقنية الفار جدلًا واسعًا، قبل أن تنتهي المباراة بالتعادل 1-1 وتأهل مصر، وسط نقاشات حول صحة القرار التحكيمي وتطبيق قانون التسلل.",
-      "url": "https://www.aljazeera.net/sport/2026/6/27/%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d8%a9-93-%d9%87%d9%84-%d8%b8%d9%84%d9%85-%d8%ad%d9%83%d9%85-%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/1221-1782556090.jpg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2026-06-27T10:11:15Z",
-      "content": "|\r\n93 (VAR) 2026.\r\n .\r\n.\r\nlist of 2 itemsend of list\r\n (VAR) .\r\n (11) .\r\n .\r\n .\r\n .\r\n .\r\n .\r\n . .\r\n .\r\n .\r\n (1-1) 32 .\r\n (VAR) .\r\n .\r\n \"\" \" 100%\" \" \" .\r\n .\r\n .\r\n .\r\n \" \" .\r\n ."
     }
   ]
 }
