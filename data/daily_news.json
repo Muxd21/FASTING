@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-10T09:32:27.268985",
+  "updated_at": "2026-07-11T07:53:20.714968",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "سي إن إن: إسرائيل حذّرت واشنطن من خطة إيرانية لاغتيال ترمب",
+      "description": "قالت شبكة \"سي إن إن\" إن إسرائيل حذرت الولايات المتحدة من مخطط إيراني جديد لاغتيال الرئيس الأمريكي دونالد ترمب، وسط شكوك أمريكية في صحة هذه المعلومات.",
+      "url": "https://www.aljazeera.net/news/2026/7/10/%d8%b3%d9%8a-%d8%a5%d9%86-%d8%a5%d9%86-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%ad%d8%b0%d8%b1%d8%aa-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d9%85%d9%86-%d8%ae%d8%b7%d8%a9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/afp_6a3b2cd9588d-1782263001.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-09T23:57:53Z",
+      "content": "\" \" - - .\r\n - - .\r\n - - .\r\n.\r\n - - 2020 \"\"  .\r\n \" \" .\r\n - - \"\" . .\r\n - - .\r\n . .\r\n .\r\n () ()\r\n.\r\n .\r\n - - \"\". / .\r\n .\r\n 18 / - - - \"\"."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/06/zywt-alkywtykl-1782637333.png?resize=1920%2C1440",
       "publishedAt": "2026-06-28T06:15:31Z",
       "content": "|\r\n. ( ) .\r\n .\r\nlist of 4 items<ul><li>list 1 of 4 .. </li><li>list 2 of 4 .. </li><li>list 3 of 4 .. </li><li>list 4 of 4 .. </li></ul>end of list\r\n \" \" . .\r\n \"\" . .\r\n . .\r\n ()\r\n.\r\n \"\" . .\r\n . .\r\n .… [+58 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "محليات"
-      },
-      "author": "العين - وام",
-      "title": "70 جلسة وعرضاً علمياً في مؤتمر علم الأورام بأبوظبي",
-      "description": "أعلنت «صحة» في أبوظبي عن انطلاق مؤتمر «Best of ASCO 2026 UAE» التعليمي المتخصص في علم الأورام، وتنظمه إدارة الأورام في مستشفى توام يومي 27 و28 يونيو الجاري بمدينة العين.يشارك في المؤتمر نخبة من المتخصصين في مجال الأورام من مختلف أنحاء الدولة، لمراجعة أبرز",
-      "url": "https://www.emaratalyoum.com/local-section/health/2026-06-28-1.2059888",
-      "urlToImage": "https://www.emaratalyoum.com/polopoly_fs/1.2059884.1782588092!/image/image.jpeg",
-      "publishedAt": "2026-06-28T00:08:04Z",
-      "content": "«» «Best of ASCO 2026 UAE» 27 28 .\r\n .\r\n 47 «ASCO» 15 .\r\n .\r\n «Best of ASCO 2026 UAE» «» .\r\n «Best of ASCO 2026 UAE» ."
     }
   ]
 }
