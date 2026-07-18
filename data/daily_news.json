@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-07-17T08:07:31.529242",
+  "updated_at": "2026-07-18T07:46:58.643344",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "الشاي الأخضر..مكوّن طبيعي بقدرات استثنائية في عالم العناية بالجمال",
+      "description": "لم يعد الشاي الأخضر مجرد خيار صحي يُستهلك يوميًا، بل أصبح عنصرًا بارزًا في خريطة مكوّنات الجمال الحديثة، بفضل تركيبته الغنية بالمركّبات النباتية الفعالة التي منحته دورًا مهمًا في دعم صحة البشرة والشعر ومواجهة العوامل البيئية المؤثرة عليهما.",
+      "url": "https://arabic.cnn.com/style/article/2026/07/17/green-tea-beauty-benefits",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/10/images/338251.jpg",
+      "publishedAt": "2026-07-17T04:59:25Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "نصائح تساعدك على حماية سمعك لسنوات طويلة",
+      "description": "الحماية المبكرة من الضوضاء والعادات الضارة للأذن قد تُحدث فرقاً كبيراً في صحة سمعك لعقود مقبلة، فما القصة؟",
+      "url": "https://www.bbc.com/arabic/articles/cn9nldg51lxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1200/branded_arabic/1222/live/1d431a40-8072-11f1-bd39-2d12784318ea.jpg",
+      "publishedAt": "2026-07-17T02:31:43Z",
+      "content": "Getty Images\r\nArticle Information<ul><li></li><li></li><li></li></ul>\r\n \" \" .\r\n .\r\n : \" \".\r\n .\r\n : \" \".\r\n.\r\nGetty Images\r\n\"\" .\r\n .\r\n.\r\n : \" \".\r\n : \" ( )\".\r\nGetty Images\r\n: \" \" 10 15 .\r\n: \" \".\r\n \" \" :… [+482 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "قطر تعلق على تقارير إسرائيلية أفادت باعتزامها المشاركة بعمل عسكري ضد إيران",
+      "description": "نفى مكتب الإعلام الدولي القطري، اليوم الخميس، صحة التقارير التي تداولتها وسائل إعلام إسرائيلية، وزعمت موافقة الدوحة على المشاركة في عمل عسكري ضد إيران، مؤكدا رفض قطر القاطع لهذه الادعاءات ووصفها بأنها \"باطلة ومضللة\".",
+      "url": "https://sarabic.ae/20260716/%D9%82%D8%B7%D8%B1-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A3%D9%81%D8%A7%D8%AF%D8%AA-%D8%A8%D8%A7%D8%B9%D8%AA%D8%B2%D8%A7%D9%85%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A8%D8%B9%D9%85%D9%84-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%B6%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-1115254707.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/i/logo/logo-social.png",
+      "publishedAt": "2026-07-16T17:44:51Z",
+      "content": "https://sarabic.ae/20260716/------------1115254707.html\r\nhttps://cdn.img.sarabic.ae/i/logo/logo-social.png\r\nhttps://sarabic.ae/20260708/-------------1115035738.html\r\nfeedback.arabic@sputniknews.com\r\n… [+96 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "المكتب الإعلامي لحكومة دبي ينفي صحة تقرير عن \"سماع دوي انفجارات\" في المدينة",
+      "description": "نفى المكتب الإعلامي لحكومة دبي تقريرًا حول \"سماع دوي انفجارات\" في المدينة مؤكدا أن المعلومات الواردة فيه \"غير صحيحة\" وأهاب بوسائل الإعلام استقاء المعلومات من مصادرها الرسمية والموثوقة",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/16/dubai-media-office-denies-reports-explosions-heard",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_204,w_5992,h_3370,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/16/images/338932.jpg",
+      "publishedAt": "2026-07-16T17:20:24Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -79,58 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07e4/0a/0e/1046833057_0:211:2893:1838_2072x0_60_0_0_3fd5701294d9399b7aa374017d43c9b3.jpg.webp",
       "publishedAt": "2026-07-04T07:20:13Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "جيش الاحتلال يقرّ بتعذيب قواته أسيرا فلسطينيا في غزة",
-      "description": "أكد متحدث باسم جيش الاحتلال الإسرائيلي صحة صورة نشرها جندي إسرائيلي على منصة إنستغرام تكشف تعذيب أسير فلسطيني في قطاع غزة.",
-      "url": "https://www.aljazeera.net/news/2026/7/3/%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d9%8a%d9%82%d8%b1-%d8%a8%d8%aa%d8%b9%d8%b0%d9%8a%d8%a8-%d9%82%d9%88%d8%a7%d8%aa%d9%87-%d8%a3%d8%b3%d9%8a%d8%b1%d8%a7",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/07/78978-1782891741.jpg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2026-07-02T21:12:38Z",
-      "content": "|\r\n- - .\r\n () .\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2 \" \"</li></ul>end of list\r\n : \" 24 - - \".\r\n .\r\n .\r\n.\r\n (Josef Benamou) - \r\n \" \" - \" \" \" \" \" \".\r\n \" \" \" \".\r\n \" \" \" / 2023 100… [+16 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "أبرز 10 وصفات طبيعية لتحسين نكهة الماء عند شربه",
-      "description": "رغم أهمية ترطيب الجسم بانتظام، يواجه كثيرون صعوبة في تقبّل طعم الماء، ما قد يدفعهم أحيانًا إلى اختيار بدائل أقل صحة، مثل المشروبات الغازيّة أو السكريّة.. فما الحل؟",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/07/02/flavored-water-health-infographic",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/01/images/337248.jpg",
-      "publishedAt": "2026-07-02T04:42:50Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "عون.. لم أطلب تدخلا سوريا ولم نشرعن الاحتلال",
-      "description": "نفى الرئيس اللبناني صحة الأنباء عن موافقته على استدعاء تدخل سوري عند الحاجة، ورفض اتهامات شرعنة الاحتلال الإسرائيلي، مؤكدا أن صيغة الإطار ليست اتفاقا نهائيا.",
-      "url": "https://www.aljazeera.net/news/2026/7/1/%d8%b9%d9%88%d9%86-%d9%84%d9%85-%d8%a3%d8%b7%d9%84%d8%a8-%d8%aa%d8%af%d8%ae%d9%84%d8%a7-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%88%d9%84%d9%85-%d9%86%d8%b4%d8%b1%d8%b9%d9%86",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/07/image-1782919493.jpg?resize=1920%2C1078&quality=80",
-      "publishedAt": "2026-07-01T13:21:48Z",
-      "content": "\"\" .\r\n .\r\n .\r\n \" \" .\r\n 13 .\r\n \" \" \" \" .\r\n \" \" .\r\n .\r\n .\r\n : \" \".\r\n .\r\n ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "ست طرق لتشجيع الأطفال على تناول الخضروات",
-      "description": "تغييرات طفيفة في طريقة تقديم الطعام قد تشكل فارقاً مهماً في صحة الاطفال",
-      "url": "https://www.bbc.com/arabic/articles/cz0jgedmg1do",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1200/branded_arabic/3482/live/7d948e70-754f-11f1-a0e5-ab9c63e24c99.jpg",
-      "publishedAt": "2026-07-01T13:13:56Z",
-      "content": "Getty Images\r\nArticle Information<ul><li></li><li></li><li></li></ul>\r\n . : \" \" .\r\n . . .\r\n . . .\r\n . :\r\nGetty Images\r\n. .\r\n: \" \". .\r\n 15 . .\r\n .\r\n. .\r\nGetty Images\r\n\"\" \"\". .\r\n . : \" \". : \" \". .\r\n .\r… [+416 chars]"
     }
   ]
 }
