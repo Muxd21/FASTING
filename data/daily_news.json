@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-24T08:25:07.739581",
+  "updated_at": "2026-07-25T08:03:51.288901",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "قلق بشأن صحة راشد الغنوشي بعد تعرضه لإغماء بالسجن",
+      "description": "حذرت هيئة الدفاع عن زعيم حركة النهضة راشد الغنوشي من تدهور وضعه الصحي بعد تعرضه لإغماء وإعياء شديد، واتهمت السلطات التونسية بمنع زيارته والتعتيم على حالته.",
+      "url": "https://www.aljazeera.net/news/2026/7/23/%d9%82%d9%84%d9%82-%d8%a8%d8%b4%d8%a3%d9%86-%d8%b5%d8%ad%d8%a9-%d8%b1%d8%a7%d8%b4%d8%af-%d8%a7%d9%84%d8%ba%d9%86%d9%88%d8%b4%d9%8a-%d8%a8%d8%b9%d8%af-%d8%aa%d8%b9%d8%b1%d8%b6%d9%87",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2021/02/2C9A0353.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2026-07-23T17:37:20Z",
+      "content": "|\r\n  \" \" .\r\n .\r\n \" \" \" \".\r\n \" \" .\r\n \" \" .\r\n \" \".\r\n 17 / 2023 \" \".\r\n \" \"."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/07/GettyImages-2190261102-1784065723.jpg?resize=1920%2C1440",
       "publishedAt": "2026-07-15T07:54:05Z",
       "content": ". \" \" .\r\n ( Pelargonium graveolens ) \" \" .\r\n .\r\n .\r\n \" \" (Flavour and Fragrance Journal) 2025 12 .\r\n \" \" ( )\r\n2017 .\r\n .\r\n .\r\n 2022 10 (EEG). .\r\n (Caring Sciences) 2015 .\r\n ( )\r\n2020 .\r\n .\r\n .\r\n .\r\n … [+18 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "حازم بدر",
-      "title": "خفاش \"دخيل\" وطفيلي \"غريب\".. هل يجب أن يقلق الجزائريون؟",
-      "description": "أظهرت دراسة جزائرية تسجيل خفاش للمرة الأولى داخل حديقة الشريعة الوطنية، إلى جانب توثيق طفيلي يرصد للمرة الأولى في البلاد. ورغم أن هذه النتائج لا تشير إلى خطر مباشر على صحة الإنسان، فإنها تؤكد أهمية مواصلة البحث.",
-      "url": "https://www.aljazeera.net/science/2026/7/15/%d8%ae%d9%81%d8%a7%d8%b4-%d8%af%d8%ae%d9%8a%d9%84-%d9%88%d8%b7%d9%81%d9%8a%d9%84%d9%8a-%d8%ba%d8%b1%d9%8a%d8%a8-%d9%87%d9%84-%d9%8a%d8%ac%d8%a8-%d8%a3%d9%86-%d9%8a%d9%82%d9%84%d9%82",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/07/atata-1784069347.png?resize=1200%2C630",
-      "publishedAt": "2026-07-15T07:42:42Z",
-      "content": ".\r\n .\r\n \"\" (Parasitology) 20 \"\" \" \" \" \" (18 ) \" \" \" \" \"\" .\r\n .\r\n \" \" \" \" \" \" .\r\n .\r\n .\r\n ( )\r\n.\r\n ( ) \" \".\r\n \".\r\n .\r\n ( )\r\n\" \" .\r\n: \" \".\r\n \" \" \" \" .\r\n: \" \".\r\n \" \".\r\n ."
     }
   ]
 }
