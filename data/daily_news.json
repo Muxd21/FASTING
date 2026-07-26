@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-07-25T08:03:51.288901",
+  "updated_at": "2026-07-26T08:24:06.242240",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "العراق ينفي تقريرا عن وساطة لوقف إطلاق النار بين واشنطن وطهران",
+      "description": "نفى المكتب الإعلامي لرئيس الوزراء العراقي، علي فالح الزيدي، اليوم الجمعة، صحة تقرير نشرته وسائل إعلام أمريكية بشأن وجود وساطة عراقية للتوصل إلى وقف لإطلاق النار بين الولايات المتحدة وإيران.",
+      "url": "https://sarabic.ae/20260724/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%81%D9%8A-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%D8%A7-%D8%B9%D9%86-%D9%88%D8%B3%D8%A7%D8%B7%D8%A9-%D9%84%D9%88%D9%82%D9%81-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A8%D9%8A%D9%86-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%B7%D9%87%D8%B1%D8%A7%D9%86-1115470799.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/101539/67/1015396772_0:0:2973:1673_2072x0_60_0_0_f63bebda8ed8dcb9545d71dd104df17d.jpg.webp",
+      "publishedAt": "2026-07-24T13:52:19Z",
+      "content": "https://sarabic.ae/20260724/-----------1115470799.html\r\nhttps://cdn.img.sarabic.ae/img/101539/67/1015396772_0:0:2973:1673_1920x0_80_0_0_8e94914e3b3a7708d006852e59590cc4.jpg.webp\r\n () 23 / 2026 \" \" . … [+454 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "مسؤول أمريكي لـCNN: ما تردد عن رفض إيران مقترح ترامب لوقف إطلاق النار \"غير دقيق\"",
+      "description": "نفى مسؤول أمريكي صحة تقرير أفاد بأن إيران رفضت مقترحًا جديدًا لوقف إطلاق النار، وقال لشبكة CNN إن ما ورد في التقرير \"غير دقيق\".",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/24/us-disputes-report-that-iran-rejected-ceasefire-proposal",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/24/images/339687.jpg",
+      "publishedAt": "2026-07-24T13:31:56Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/i/logo/logo-social.png",
       "publishedAt": "2026-07-16T17:44:51Z",
       "content": "https://sarabic.ae/20260716/------------1115254707.html\r\nhttps://cdn.img.sarabic.ae/i/logo/logo-social.png\r\nhttps://sarabic.ae/20260708/-------------1115035738.html\r\nfeedback.arabic@sputniknews.com\r\n… [+96 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "المكتب الإعلامي لحكومة دبي ينفي صحة تقرير عن \"سماع دوي انفجارات\" في المدينة",
-      "description": "نفى المكتب الإعلامي لحكومة دبي تقريرًا حول \"سماع دوي انفجارات\" في المدينة مؤكدا أن المعلومات الواردة فيه \"غير صحيحة\" وأهاب بوسائل الإعلام استقاء المعلومات من مصادرها الرسمية والموثوقة",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/07/16/dubai-media-office-denies-reports-explosions-heard",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_204,w_5992,h_3370,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/16/images/338932.jpg",
-      "publishedAt": "2026-07-16T17:20:24Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "رشا عبيد",
-      "title": "تُسكّن الألم وتخفف التوتر أثناء المخاض.. فوائد مذهلة لـ\"وردة الفقراء\"",
-      "description": "اسْتُخدم زيت إبرة الراعي منذ قرون لصناعة العطور والعناية بالبشرة، ويحظى اليوم باهتمام علمي متزايد لفوائده المحتملة في تحسين صحة الجلد، وتقليل التوتر والألم وأعراض ما قبل الحيض",
-      "url": "https://www.aljazeera.net/lifestyle/2026/7/15/%d8%aa%d8%b3%d9%83%d9%86-%d8%a7%d9%84%d8%a3%d9%84%d9%85-%d9%88%d8%aa%d8%ae%d9%81%d9%81-%d8%a7%d9%84%d8%aa%d9%88%d8%aa%d8%b1-%d8%a3%d8%ab%d9%86%d8%a7%d8%a1",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/07/GettyImages-2190261102-1784065723.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-07-15T07:54:05Z",
-      "content": ". \" \" .\r\n ( Pelargonium graveolens ) \" \" .\r\n .\r\n .\r\n \" \" (Flavour and Fragrance Journal) 2025 12 .\r\n \" \" ( )\r\n2017 .\r\n .\r\n .\r\n 2022 10 (EEG). .\r\n (Caring Sciences) 2015 .\r\n ( )\r\n2020 .\r\n .\r\n .\r\n .\r\n … [+18 chars]"
     }
   ]
 }
