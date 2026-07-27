@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-26T08:24:06.242240",
+  "updated_at": "2026-07-27T09:49:13.959388",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "الكويت.. الداخلية توضح حقيقة أنباء عن \"َضبط خلية إرهابية\"",
+      "description": "نفت وزارة الداخلية الكويتية في بيان، الأحد، صحة ما يتم تداوله عبر بعض مواقع التواصل الاجتماعي بشأن \"ضبط خلية إرهابية داخل البلاد\"، وحذرت من نشر أو إعادة تداول الأخبار الكاذبة أو الشائعات التي من شأنها الإضرار بالمصلحة العام.",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/26/kuwait-moi-denies-terrorist-cell-apprehended",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_318,w_3495,h_1966,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/26/images/339783.jpg",
+      "publishedAt": "2026-07-26T08:20:25Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1200/branded_arabic/1222/live/1d431a40-8072-11f1-bd39-2d12784318ea.jpg",
       "publishedAt": "2026-07-17T02:31:43Z",
       "content": "Getty Images\r\nArticle Information<ul><li></li><li></li><li></li></ul>\r\n \" \" .\r\n .\r\n : \" \".\r\n .\r\n : \" \".\r\n.\r\nGetty Images\r\n\"\" .\r\n .\r\n.\r\n : \" \".\r\n : \" ( )\".\r\nGetty Images\r\n: \" \" 10 15 .\r\n: \" \".\r\n \" \" :… [+482 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "قطر تعلق على تقارير إسرائيلية أفادت باعتزامها المشاركة بعمل عسكري ضد إيران",
-      "description": "نفى مكتب الإعلام الدولي القطري، اليوم الخميس، صحة التقارير التي تداولتها وسائل إعلام إسرائيلية، وزعمت موافقة الدوحة على المشاركة في عمل عسكري ضد إيران، مؤكدا رفض قطر القاطع لهذه الادعاءات ووصفها بأنها \"باطلة ومضللة\".",
-      "url": "https://sarabic.ae/20260716/%D9%82%D8%B7%D8%B1-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A3%D9%81%D8%A7%D8%AF%D8%AA-%D8%A8%D8%A7%D8%B9%D8%AA%D8%B2%D8%A7%D9%85%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A8%D8%B9%D9%85%D9%84-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%B6%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-1115254707.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/i/logo/logo-social.png",
-      "publishedAt": "2026-07-16T17:44:51Z",
-      "content": "https://sarabic.ae/20260716/------------1115254707.html\r\nhttps://cdn.img.sarabic.ae/i/logo/logo-social.png\r\nhttps://sarabic.ae/20260708/-------------1115035738.html\r\nfeedback.arabic@sputniknews.com\r\n… [+96 chars]"
     }
   ]
 }
