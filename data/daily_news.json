@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-31T08:47:13.826000",
+  "updated_at": "2026-08-01T08:18:01.534644",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "كبسولات الشباب الأبدي.. ماذا يقول العلم عن مكملات مكافحة الشيخوخة؟",
+      "description": "لا يمكن لمكملات مكافحة الشيخوخة أن توقف الزمن  لكنها قد تدعم صحة البشرة والخلايا عند استخدامها بذكاء، خصوصا الكولاجين وفيتامينات سي وإي وأوميغا-3 وفيتامين د.",
+      "url": "https://www.aljazeera.net/family/2026/7/30/%d9%85%d9%83%d9%85%d9%84%d8%a7%d8%aa-%d9%85%d9%83%d8%a7%d9%81%d8%ad%d8%a9-%d8%a7%d9%84%d8%b4%d9%8a%d8%ae%d9%88%d8%ae%d8%a9-%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d8%a3%d9%85",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/10/GettyImages-1159443550-1760443549.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-30T16:41:15Z",
+      "content": "|\r\n. . \" \" \r\n . .\r\n \" \" .\r\n . :\r\n \" \" . :\r\n .\r\n ()\r\n.\r\n . :\r\n\" . : \"\r\n .\r\n . .\r\n . .\r\n . :\r\n\" \" .\r\n . .\r\n ()\r\n.\r\n .\r\n. .\r\n .\r\n 3\r\n 3 .\r\n .\r\n.\r\n .\r\n . :"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/102448/81/1024488127_0:190:2020:1326_2072x0_60_0_0_fe78ad1fc5dacacf68a0d742b77e9918.jpg.webp",
       "publishedAt": "2026-07-17T14:30:15Z",
       "content": "https://sarabic.ae/20260717/---------1115284776.html\r\nhttps://cdn.img.sarabic.ae/img/102448/81/1024488127_0:190:2020:1326_1920x0_80_0_0_faf4812eb97f3cd78e3927a3517417a2.jpg.webp\r\n \"\" . . : \" \" 2\" \"\" … [+330 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "الشاي الأخضر..مكوّن طبيعي بقدرات استثنائية في عالم العناية بالجمال",
-      "description": "لم يعد الشاي الأخضر مجرد خيار صحي يُستهلك يوميًا، بل أصبح عنصرًا بارزًا في خريطة مكوّنات الجمال الحديثة، بفضل تركيبته الغنية بالمركّبات النباتية الفعالة التي منحته دورًا مهمًا في دعم صحة البشرة والشعر ومواجهة العوامل البيئية المؤثرة عليهما.",
-      "url": "https://arabic.cnn.com/style/article/2026/07/17/green-tea-beauty-benefits",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/10/images/338251.jpg",
-      "publishedAt": "2026-07-17T04:59:25Z",
-      "content": ""
     }
   ]
 }
