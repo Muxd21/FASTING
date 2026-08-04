@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-03T09:41:03.055729",
+  "updated_at": "2026-08-04T08:33:31.486540",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "ما حقيقة اقتراب طرابزون سبور التركي من ضم محمد صلاح؟",
+      "description": "نفى رئيس مجلس إدارة نادي طرابزون سبور التركي، أرطغرل دوغان، صحة تقارير صحفية تزعم أن النادي توصل لاتفاق مع محمد صلاح.",
+      "url": "https://arabic.cnn.com/sport/article/2026/08/02/trabzonspor-mohamed-salah",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_2496,h_1404,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/02/images/340479.jpg",
+      "publishedAt": "2026-08-02T17:55:29Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2021/02/2C9A0353.jpg?resize=1920%2C1280&quality=80",
       "publishedAt": "2026-07-23T17:37:20Z",
       "content": "|\r\n  \" \" .\r\n .\r\n \" \" \" \".\r\n \" \" .\r\n \" \" .\r\n \" \".\r\n 17 / 2023 \" \".\r\n \" \"."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tamol.om"
-      },
-      "author": "إسراء الجلاد",
-      "title": "المشي صباحا.. عادة بسيطة قد تساعد على إطالة العمر - التأمل",
-      "description": "المشي كل صباح عادة بسيطة قد تمنحك صحة أفضل وتساعد على إطالة العمر وتقليل خطر الأمراض المزمنة.",
-      "url": "https://tamol.om/health/%d8%a7%d9%84%d9%85%d8%b4%d9%8a-%d8%b5%d8%a8%d8%a7%d8%ad%d8%a7-%d8%b9%d8%a7%d8%af%d8%a9-%d8%a8%d8%b3%d9%8a%d8%b7%d8%a9-%d9%82%d8%af-%d8%aa%d8%b3%d8%a7%d8%b9%d8%af-%d8%b9%d9%84%d9%89-%d8%a5%d8%b7/",
-      "urlToImage": "https://tamol.om/wp-content/uploads/2022/12/777.jpeg",
-      "publishedAt": "2026-07-20T11:13:03Z",
-      "content": ""
     }
   ]
 }
