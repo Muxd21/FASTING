@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-08-05T08:33:05.461998",
+  "updated_at": "2026-08-06T08:33:09.985056",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "تقارير أمريكية تتحدث عن تراجع مخزون الصواريخ بعد الحرب مع إيران... والبنتاغون ينفي",
+      "description": "أفادت تقارير إعلامية أمريكية، نقلًا عن مصادر مطلعة، بأن الجيش الأمريكي استهلك جزءًا كبيرًا من مخزوناته من الذخائر والصواريخ خلال الحرب مع إيران، في وقت نفى فيه وزير الحرب الأمريكي بيت هيغسيث صحة هذه التقارير.",
+      "url": "https://sarabic.ae/20260805/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D8%AE%D8%B2%D9%88%D9%86-%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D9%86%D9%81%D9%8A-1115774443.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/03/0c/1111409677_0:142:2729:1677_2072x0_60_0_0_c075f4ab057c495cd9dc8fe96394dc50.jpg.webp",
+      "publishedAt": "2026-08-05T00:33:03Z",
+      "content": "https://sarabic.ae/20260805/-------------1115774443.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/03/0c/1111409677_0:142:2729:1677_1920x0_80_0_0_58063bc590e1d027a5748f6d72af5595.jpg.webp\r\n \"\" 80% \"\" \"\" .… [+331 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "فيفا يكشف حقيقة تواصل إنفانتينو مع ترامب لمساندته في \"أزمته\"",
+      "description": "نفى الاتحاد الدولي لكرة القدم، الثلاثاء، صحة تقارير صحفية قد زعمت تواصل جياني إنفانتينو، رئيس \"فيفا\"، مع الرئيس الأمريكي دونالد ترامب مؤخراً.",
+      "url": "https://arabic.cnn.com/sport/article/2026/08/04/fifa-gianni-infantino-trump",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_26,w_4399,h_2475,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/04/images/340657.jpg",
+      "publishedAt": "2026-08-04T13:48:28Z",
+      "content": ""
+    },
     {
       "source": {
         "id": "cnn",
@@ -105,32 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/101539/67/1015396772_0:0:2973:1673_2072x0_60_0_0_f63bebda8ed8dcb9545d71dd104df17d.jpg.webp",
       "publishedAt": "2026-07-24T13:52:19Z",
       "content": "https://sarabic.ae/20260724/-----------1115470799.html\r\nhttps://cdn.img.sarabic.ae/img/101539/67/1015396772_0:0:2973:1673_1920x0_80_0_0_8e94914e3b3a7708d006852e59590cc4.jpg.webp\r\n () 23 / 2026 \" \" . … [+454 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "مسؤول أمريكي لـCNN: ما تردد عن رفض إيران مقترح ترامب لوقف إطلاق النار \"غير دقيق\"",
-      "description": "نفى مسؤول أمريكي صحة تقرير أفاد بأن إيران رفضت مقترحًا جديدًا لوقف إطلاق النار، وقال لشبكة CNN إن ما ورد في التقرير \"غير دقيق\".",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/07/24/us-disputes-report-that-iran-rejected-ceasefire-proposal",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/24/images/339687.jpg",
-      "publishedAt": "2026-07-24T13:31:56Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "قلق بشأن صحة راشد الغنوشي بعد تعرضه لإغماء بالسجن",
-      "description": "حذرت هيئة الدفاع عن زعيم حركة النهضة راشد الغنوشي من تدهور وضعه الصحي بعد تعرضه لإغماء وإعياء شديد، واتهمت السلطات التونسية بمنع زيارته والتعتيم على حالته.",
-      "url": "https://www.aljazeera.net/news/2026/7/23/%d9%82%d9%84%d9%82-%d8%a8%d8%b4%d8%a3%d9%86-%d8%b5%d8%ad%d8%a9-%d8%b1%d8%a7%d8%b4%d8%af-%d8%a7%d9%84%d8%ba%d9%86%d9%88%d8%b4%d9%8a-%d8%a8%d8%b9%d8%af-%d8%aa%d8%b9%d8%b1%d8%b6%d9%87",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2021/02/2C9A0353.jpg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2026-07-23T17:37:20Z",
-      "content": "|\r\n  \" \" .\r\n .\r\n \" \" \" \".\r\n \" \" .\r\n \" \" .\r\n \" \".\r\n 17 / 2023 \" \".\r\n \" \"."
     }
   ]
 }
