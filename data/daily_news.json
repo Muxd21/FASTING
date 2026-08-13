@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-12T07:21:54.179573",
+  "updated_at": "2026-08-13T07:23:53.659023",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "لماذا يثير تغيير ترامب طائرته سراً التساؤلات عن صحة مزاعمه حول \"تدمير قدرات إيران العسكرية\"؟",
+      "description": "للوهلة الأولى، قد يبدو خبر تغيير الرئيس الأمريكي دونالد ترامب طائرته سراً قبل مغادرة تركيا الشهر الماضي -بسبب تهديد أمني من إيران- أمراً لا يثير الجدل، بل ربما يبدو مثيراً للاهتمام بطريقة تذكرنا بأجواء أفلام التجسس والعمليات السرية.",
+      "url": "https://arabic.cnn.com/world/article/2026/08/12/why-trumps-secret-air-force-one-switcheroo-is-problematic",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_565,w_8185,h_4604,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/12/images/341313.jpg",
+      "publishedAt": "2026-08-12T01:05:14Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/09/1b/1105351653_0:0:3640:2048_2072x0_60_0_0_2bf2aa0d6637e24ba658df107185a987.jpg.webp",
       "publishedAt": "2026-07-31T19:46:23Z",
       "content": "https://sarabic.ae/20260731/------------1115669307.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/09/1b/1105351653_0:0:3640:2048_1920x0_80_0_0_da8d561a0773e8af42d078043009afa2.jpg.webp\r\n \"\" . . - . . . . … [+415 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "\"أنصار الله\" تعلق على إعلان السعودية تشكيل تحالف بحري لحماية الملاحة وتنفي فرض رسوم عبور على السفن",
-      "description": "أكدت جماعة \"أنصار الله\" اليمنية، اليوم الجمعة، أن حركة الملاحة في باب المندب والبحر الأحمر آمنة بالكامل، نافيةً صحة الشائعات المتداولة بشأن فرض أي رسوم عبور على السفن المبحرة في المنطقة.",
-      "url": "https://sarabic.ae/20260731/%D8%A3%D9%86%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A8%D8%AD%D8%B1%D9%8A-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%AA%D9%86%D9%81%D9%8A-%D9%81%D8%B1%D8%B6-%D8%B1%D8%B3%D9%88%D9%85-%D8%B9%D8%A8%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%81%D9%86-1115664486.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/04/1b/1099926412_0:161:3071:1888_2072x0_60_0_0_f87e8a24a5eae880fd1f3e78ac2f1366.jpg.webp",
-      "publishedAt": "2026-07-31T15:34:30Z",
-      "content": "https://sarabic.ae/20260731/-----------------1115664486.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/04/1b/1099926412_0:161:3071:1888_1920x0_80_0_0_7051867270e72d2f69d4458166c52f86.jpg.webp\r\n \"\" \" \". \" … [+471 chars]"
     }
   ]
 }
