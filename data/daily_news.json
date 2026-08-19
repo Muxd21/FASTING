@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-18T06:39:33.220836",
+  "updated_at": "2026-08-19T06:40:04.667729",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "ارتفاع الدهون الثلاثية.. أعراض قد لا تظهر باكرًا وتُهدّد قلبك بصمت",
+      "description": "يحتاج الجسم إلى بعض الدهون الثلاثية للحفاظ على صحة جيدة، إلا أنّ ارتفاع مستويات هذه الدهون في الدم قد يزيد من خطر الإصابة بأمراض القلب والسكتة الدماغية.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/08/18/symptoms-of-high-triglycerides-do-not-appear-early-yet-they-threaten-your-heart",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1600,h_840,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/13/images/341493.jpg",
+      "publishedAt": "2026-08-18T06:29:22Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -117,19 +130,6 @@
       "url": "https://arabic.cnn.com/sport/article/2026/08/04/fifa-gianni-infantino-trump",
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_26,w_4399,h_2475,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/04/images/340657.jpg",
       "publishedAt": "2026-08-04T13:48:28Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "ما حقيقة اقتراب طرابزون سبور التركي من ضم محمد صلاح؟",
-      "description": "نفى رئيس مجلس إدارة نادي طرابزون سبور التركي، أرطغرل دوغان، صحة تقارير صحفية تزعم أن النادي توصل لاتفاق مع محمد صلاح.",
-      "url": "https://arabic.cnn.com/sport/article/2026/08/02/trabzonspor-mohamed-salah",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_2496,h_1404,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/02/images/340479.jpg",
-      "publishedAt": "2026-08-02T17:55:29Z",
       "content": ""
     }
   ]
