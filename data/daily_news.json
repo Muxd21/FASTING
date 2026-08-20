@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-19T06:40:04.667729",
+  "updated_at": "2026-08-20T06:41:43.132071",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "مكمّلات الجمال بين الوعود التسويقية والواقع.. طبيبة جلد تكشف حدود فعاليتها",
+      "description": "تتزايد شعبية مكمّلات الجمال التي تَعد ببشرة أكثر نضارة، وشعر أقوى، وأظافر أكثر صحة، لكن خلف هذه الوعود يبرز سؤال أساسي: إلى أي مدى تستند فوائدها إلى أدلة علمية، وهل يحتاج إليها الجميع فعلاً؟",
+      "url": "https://arabic.cnn.com/style/article/2026/08/18/beauty-supplements-do-they-really-work",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/10/images/341128.jpg",
+      "publishedAt": "2026-08-18T06:46:13Z",
+      "content": ""
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/03/0c/1111409677_0:142:2729:1677_2072x0_60_0_0_c075f4ab057c495cd9dc8fe96394dc50.jpg.webp",
       "publishedAt": "2026-08-05T00:33:03Z",
       "content": "https://sarabic.ae/20260805/-------------1115774443.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/03/0c/1111409677_0:142:2729:1677_1920x0_80_0_0_58063bc590e1d027a5748f6d72af5595.jpg.webp\r\n \"\" 80% \"\" \"\" .… [+331 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "فيفا يكشف حقيقة تواصل إنفانتينو مع ترامب لمساندته في \"أزمته\"",
-      "description": "نفى الاتحاد الدولي لكرة القدم، الثلاثاء، صحة تقارير صحفية قد زعمت تواصل جياني إنفانتينو، رئيس \"فيفا\"، مع الرئيس الأمريكي دونالد ترامب مؤخراً.",
-      "url": "https://arabic.cnn.com/sport/article/2026/08/04/fifa-gianni-infantino-trump",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_26,w_4399,h_2475,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/04/images/340657.jpg",
-      "publishedAt": "2026-08-04T13:48:28Z",
-      "content": ""
     }
   ]
 }
