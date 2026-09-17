@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-16T10:52:54.501273",
+  "updated_at": "2026-09-17T11:00:12.886826",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "الإضاءة الخافتة أثناء النوم قد تشكّل خطرًا خفيًا على صحة القلب",
+      "description": "كشفت دراسة جديدة عن أن التعرّض لكمية صغيرة من الضوء أثناء النوم قد يُغيّر شكل عضلات القلب ووظيفتها، ما يزيد من خطر الإصابة بأمراض القلب مستقبلًا.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/09/16/sleep-light-exposure-heart-study-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/343909.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-16T09:53:58Z",
+      "content": "(CNN) -- .\r\nHCA Regents \" \".\r\n: \" \".\r\n1 . \r\n 3 .\r\n 3 .\r\n . .\r\n \"European Heart Journal\" 11 \"UK Biobank\" 500 .\r\n 7 . 3 .\r\n 3 . . .\r\n \"National Jewish Health\" \" \".\r\n \" . . . \".\r\n 24% 49% 5 6 \" \". 51% .… [+47 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_2072x0_60_0_0_43fa8d792dbac99e0e8f04e069aa8c3f.jpg.webp",
       "publishedAt": "2026-09-06T14:12:16Z",
       "content": "https://sarabic.ae/20260906/------------1116682433.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_1920x0_80_0_0_09e03db52245666ebcd3893229e200ab.jpg.webp\r\n \"\" \" \" . \" \" . … [+324 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "إيران تنفي استهداف منشآت نووية في أصفهان",
-      "description": "نفت العلاقات العامة والإعلام في حرس صاحب الزمان بمحافظة أصفهان، اليوم السبت، صحة الأنباء المتداولة بشأن تعرض المراكز والمنشآت النووية في المحافظة لهجوم أمريكي - إسرائيلي.",
-      "url": "https://sarabic.ae/20260905/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%86%D8%B4%D8%A2%D8%AA-%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A3%D8%B5%D9%81%D9%87%D8%A7%D9%86-1116655733.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/06/15/1101912797_0:0:1000:563_2072x0_60_0_0_fb8cefdcbeee9ca8fc85148bd311eb28.jpg.webp",
-      "publishedAt": "2026-09-05T11:12:36Z",
-      "content": "https://sarabic.ae/20260905/-------1116655733.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/06/15/1101912797_0:0:1000:563_1920x0_80_0_0_1212c2ce9778e90e98a05a5fc00ce27b.jpg.webp\r\n \" \" \"\" . . 31 / / . / .… [+381 chars]"
     }
   ]
 }
