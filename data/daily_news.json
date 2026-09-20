@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-19T10:21:08.914872",
+  "updated_at": "2026-09-20T10:40:35.390046",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "هل يتمكن الذكاء الاصطناعي من القضاء على البشر؟",
+      "description": "ما هي المخاوف التي يثيرها الباحثون من الذكاء الاصطناعي وما مدى صحة توقعاتهم بشأن إنهاء وجود البشر؟",
+      "url": "https://www.bbc.com/arabic/articles/ck8d353647ndo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1200/branded_arabic/2b29/live/aaf14390-b2bc-11f1-bc1f-3f186ca4140c.png",
+      "publishedAt": "2026-09-18T15:22:34Z",
+      "content": "Getty Images\r\n.\r\n 10 .\r\n \" \". : \r\n .\r\nGetty Images\r\n\" \" \"\" \" \".\r\n \" \" \" \".\r\n \" \" : \" \".\r\n .\r\n .\r\n .\r\n \" AI 2027\" / 2025.\r\n .\r\n: \" . . \".\r\nGetty Images\r\n. \" \" 20 .\r\n \" \" .\r\n: \" . \".\r\n: \" \".\r\n \"\" .\r\n \"… [+473 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/343456.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-09-07T09:08:58Z",
       "content": "(CNN) -- .\r\n\" \" . .\r\n\" \".\r\n95% . \r\n.\r\n. .\r\n\" \" .\r\n. \r\n. . \r\n\"Human Flatus Atlas\" ( ) .\r\n.\r\n\" : \".\r\n.\r\n.\r\n. . .\r\n: \" . \".\r\n. \" . \".\r\n\" \" . 12 . \r\n\"Biosensors and Bioelectronics\" 32 .\r\n500 22 30 . .\r\n.… [+133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "\"سنتكوم\" تنفي استهداف إيران سفينة عسكرية أمريكية غير مأهولة في مضيق هرمز",
-      "description": "نفت القيادة المركزية الأمريكية \"سنتكوم\" صحة التقارير التي تحدثت عن استهداف إيران سفينة عسكرية أمريكية غير مأهولة في مضيق هرمز.",
-      "url": "https://sarabic.ae/20260906/%D8%B3%D9%86%D8%AA%D9%83%D9%88%D9%85-%D8%AA%D9%86%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%A3%D9%87%D9%88%D9%84%D8%A9-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-1116682433.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_2072x0_60_0_0_43fa8d792dbac99e0e8f04e069aa8c3f.jpg.webp",
-      "publishedAt": "2026-09-06T14:12:16Z",
-      "content": "https://sarabic.ae/20260906/------------1116682433.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_1920x0_80_0_0_09e03db52245666ebcd3893229e200ab.jpg.webp\r\n \"\" \" \" . \" \" . … [+324 chars]"
     }
   ]
 }
