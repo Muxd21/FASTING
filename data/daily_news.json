@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-20T10:40:35.390046",
+  "updated_at": "2026-09-21T12:03:45.790193",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "إيران: ادعاء قائد \"سنتكوم\" بشأن إخراج مليار برميل نفط من مضيق هرمز كاذب",
+      "description": "نفى المتحدث باسم القوات المسلحة الإيرانية، أبو الفضل شكارجي، صحة تصريح قائد القيادة المركزية الأمريكية (سنتكوم)، براد كوبر، بشأن مرافقة سفن البحرية الأمريكية ناقلات نفط، وإخراج مليار برميل نفط عبر مضيق هرمز خلال الشهرين الماضيين، واصفا ادعاء كوبر بأنع \"عملية …",
+      "url": "https://sarabic.ae/20260919/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D8%AF%D8%B9%D8%A7%D8%A1-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B3%D9%86%D8%AA%D9%83%D9%88%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D8%AE%D8%B1%D8%A7%D8%AC-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%85%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D9%83%D8%A7%D8%B0%D8%A8-1117101111.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_2072x0_60_0_0_43fa8d792dbac99e0e8f04e069aa8c3f.jpg.webp",
+      "publishedAt": "2026-09-19T17:45:23Z",
+      "content": "https://sarabic.ae/20260919/-------------1117101111.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_1920x0_80_0_0_09e03db52245666ebcd3893229e200ab.jpg.webp\r\n \" \". () . \"\" \"… [+390 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_364,w_3838,h_2158,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/09/08/images/343689.jpg",
       "publishedAt": "2026-09-08T20:24:31Z",
       "content": "(CNN)--  \" \" .\r\n \" \".\r\n . \r\n. 16 .\r\n  Hive Moderation 99.9%.\r\nHive ModerationCredit: Hive Moderation\r\n(noticiasymasconhernan) .\r\n  \" \" ."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": null,
-      "title": "ملابس داخلية ذكية تتيح تتبع الغازات..ماذا تكشف عن صحة أمعائك؟",
-      "description": "يقول الباحثون إن الملابس الداخلية الذكية التي تتيح تتبع الغازات تمنح العلماء وسيلة جديدة لدراسة الغازات المعوية، وقد تساعدهم في اكتساب فهم أعمق لصحة الأمعاء والأمراض المرتبطة بها.",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/09/07/smart-underwear-fart-tracking-flatulence-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/343456.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-07T09:08:58Z",
-      "content": "(CNN) -- .\r\n\" \" . .\r\n\" \".\r\n95% . \r\n.\r\n. .\r\n\" \" .\r\n. \r\n. . \r\n\"Human Flatus Atlas\" ( ) .\r\n.\r\n\" : \".\r\n.\r\n.\r\n. . .\r\n: \" . \".\r\n. \" . \".\r\n\" \" . 12 . \r\n\"Biosensors and Bioelectronics\" 32 .\r\n500 22 30 . .\r\n.… [+133 chars]"
     }
   ]
 }
