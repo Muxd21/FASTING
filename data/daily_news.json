@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-23T10:48:36.266991",
+  "updated_at": "2026-09-24T11:09:04.001924",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "السعودية تنفي تصريح وزير النفط العراقي عن شرائها 25 ناقلة وربطها بارتفاع تكلفة النقل",
+      "description": "نفت وزارة الطاقة السعودية، الثلاثاء، صحة تصريح وزير النفط العراقي باسم محمد خضير العبادي عن \"شراء المملكة 25 ناقلة نفط\" وربط ذلك بارتفاع تكلفة نقل النفط العراقي، وذلك خلال مشاركته بجلسة لمجلس النواب العراقي حول أزمة الوقود المحلي في محافظات العراق.",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/09/22/saudi-iraq-oil-tankers",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_592,w_5920,h_3330,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/09/22/images/344898.jpg",
+      "publishedAt": "2026-09-22T19:48:50Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://tamol.om/wp-content/uploads/2026/04/23598.png",
       "publishedAt": "2026-09-08T20:29:29Z",
       "content": ".\r\n85 31 .\r\n6 .\r\n10 .\r\n85 19 3 .\r\n4 8 .\r\n.\r\n.\r\n.\r\n.\r\n."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "\"لحظات مروعة لثوران بركان في إندونيسيا\".. ما صحة الفيديو المتداول؟",
-      "description": "تداولت حسابات في وسائل التواصل الاجتماعي مقطع فيديو بدعوى عرضه مشاهد للحظة ثوران بركان \"أناك كراكاتاو\" في أندونيسيا.",
-      "url": "https://arabic.cnn.com/world/article/2026/09/09/ai-generated-video-anak-krakatau-eruption",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_364,w_3838,h_2158,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/09/08/images/343689.jpg",
-      "publishedAt": "2026-09-08T20:24:31Z",
-      "content": "(CNN)--  \" \" .\r\n \" \".\r\n . \r\n. 16 .\r\n  Hive Moderation 99.9%.\r\nHive ModerationCredit: Hive Moderation\r\n(noticiasymasconhernan) .\r\n  \" \" ."
     }
   ]
 }
