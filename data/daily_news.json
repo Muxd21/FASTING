@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-10-01T12:29:11.647576",
+  "updated_at": "2026-10-02T11:55:18.393947",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "أصيل سارية",
+      "title": "من تهاني إلى جياد.. قصص أطفال اليمن مع الجوع والمساعدات المتأخرة",
+      "description": "تحقيق ميداني بالصور والوثائق والبيانات، يرصد انتشار سوء التغذية بين أطفال اليمن، ويكشف من قلب الميدان ومخيمات النزوح، حجم المعاناة وتداعيات الأزمة على صحة الأطفال وحياتهم.",
+      "url": "https://www.aljazeera.net/news/2026/9/30/%d9%85%d9%86-%d8%aa%d9%87%d8%a7%d9%86%d9%8a-%d8%a5%d9%84%d9%89-%d8%ac%d9%8a%d8%a7%d8%af-%d9%82%d8%b5%d8%b5-%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%85%d8%b9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/09/jyad1-1790773004.jpeg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2026-09-30T15:27:01Z",
+      "content": "\" \" . .\r\n .\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2.. </li></ul>end of list\r\n : \r\n ()\r\n.\r\n .\r\n .\r\n ()\r\n.\r\n 200 .\r\n : .\r\n   269 2026 / .\r\n .\r\n .\r\n : .\r\n .\r\n 33 85 84 .\r\n 118 202 .\r… [+481 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_2072x0_60_0_0_43fa8d792dbac99e0e8f04e069aa8c3f.jpg.webp",
       "publishedAt": "2026-09-19T17:45:23Z",
       "content": "https://sarabic.ae/20260919/-------------1117101111.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_1920x0_80_0_0_09e03db52245666ebcd3893229e200ab.jpg.webp\r\n \" \". () . \"\" \"… [+390 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "هل يتمكن الذكاء الاصطناعي من القضاء على البشر؟",
-      "description": "ما هي المخاوف التي يثيرها الباحثون من الذكاء الاصطناعي وما مدى صحة توقعاتهم بشأن إنهاء وجود البشر؟",
-      "url": "https://www.bbc.com/arabic/articles/ck8d353647ndo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1200/branded_arabic/2b29/live/aaf14390-b2bc-11f1-bc1f-3f186ca4140c.png",
-      "publishedAt": "2026-09-18T15:22:34Z",
-      "content": "Getty Images\r\n.\r\n 10 .\r\n \" \". : \r\n .\r\nGetty Images\r\n\" \" \"\" \" \".\r\n \" \" \" \".\r\n \" \" : \" \".\r\n .\r\n .\r\n .\r\n \" AI 2027\" / 2025.\r\n .\r\n: \" . . \".\r\nGetty Images\r\n. \" \" 20 .\r\n \" \" .\r\n: \" . \".\r\n: \" \".\r\n \"\" .\r\n \"… [+473 chars]"
     }
   ]
 }
