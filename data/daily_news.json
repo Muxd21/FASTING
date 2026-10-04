@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-10-03T11:08:21.677486",
+  "updated_at": "2026-10-04T11:48:44.393069",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "حفصة الصافي",
+      "title": "بصر الطفل.. الكشف المبكر من أجل رؤية أفضل في المستقبل",
+      "description": "لأن الأطفال لا يدركون أن بصرهم ضعيف، فإن الفحص المبكر والدوري ضروري لتجنب تفاقم المشكلات ككسل العين، وهذا المقال يستعرض طرق علاج عيوب البصر لحماية صحة العين على المدى الطويل.",
+      "url": "https://www.aljazeera.net/opinions/2026/10/2/%d8%a8%d8%b5%d8%b1-%d8%a7%d9%84%d8%b7%d9%81%d9%84-%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%b1%d8%a4%d9%8a%d8%a9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/10/ophtalmolog-1790951982.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-02T12:50:36Z",
+      "content": ": .\r\n : .\r\nlist of 2 items<ul><li>list 1 of 2 40.. </li><li>list 2 of 2 : </li></ul>end of list\r\n .\r\n .\r\n : .\r\n: 10/10. .\r\n .\r\n .\r\n .\r\n ( ) () .\r\n .\r\n \" \".\r\n : .\r\n . .\r\n . .\r\n 3 5 .\r\n : .\r\n .\r\n . .\r\n… [+525 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/09/reuters_6ab3e0ed-1790173421.jpg?resize=1920%2C1440",
       "publishedAt": "2026-09-23T13:46:36Z",
       "content": "- .\r\n 2-1 \" \" .\r\nlist of 2 itemsend of list\r\n .\r\n .\r\n .\r\n \" \" \" \" .\r\n \" \" \" \" .\r\n .\r\n \" \" \" \" .\r\n 6 7 ."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "السعودية تنفي تصريح وزير النفط العراقي عن شرائها 25 ناقلة وربطها بارتفاع تكلفة النقل",
-      "description": "نفت وزارة الطاقة السعودية، الثلاثاء، صحة تصريح وزير النفط العراقي باسم محمد خضير العبادي عن \"شراء المملكة 25 ناقلة نفط\" وربط ذلك بارتفاع تكلفة نقل النفط العراقي، وذلك خلال مشاركته بجلسة لمجلس النواب العراقي حول أزمة الوقود المحلي في محافظات العراق.",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/09/22/saudi-iraq-oil-tankers",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_592,w_5920,h_3330,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/09/22/images/344898.jpg",
-      "publishedAt": "2026-09-22T19:48:50Z",
-      "content": ""
     }
   ]
 }
