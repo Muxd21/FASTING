@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-10-08T12:51:04.626306",
+  "updated_at": "2026-10-09T12:36:41.439211",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": null,
+      "title": "صحة غزة: 4 سنوات لإجلاء المرضى والجرحى بوتيرة السفر الحالية",
+      "description": "قالت صحة غزة إن إجلاء نحو 21 ألف مريض وجريح خارج القطاع سيستغرق 4 سنوات وفق آلية السفر الحالية، فيما قال المتحدث باسم الصحة العالمية إن الحصول على موافقة إسرائيل لإدخال معدات طبية يستغرق نحو 74 يوما.",
+      "url": "https://www.aljazeera.net/news/2026/10/8/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-4-%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d9%84%d8%a5%d8%ac%d9%84%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%b1%d8%b6%d9%89-%d9%88%d8%a7%d9%84%d8%ac%d8%b1%d8%ad%d9%89",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/10/getty_6ac758430f-1791449155.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-08T06:53:07Z",
+      "content": "21 4 .\r\n .\r\nlist of 2 items<ul><li>list 1 of 2</li><li>list 2 of 2: .. </li></ul>end of list\r\n .\r\n .\r\n ()\r\n.\r\n .\r\n \"\" ( )\r\n\" \" / 2025.\r\n - - \" \" .\r\n 14 36 / 2025 20 .\r\n .\r\n ()\r\n.\r\n 74 .\r\n .\r\n ( )\r\n\" … [+56 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/01/GettyImages-1483000268-1706011917.jpg?resize=1920%2C1280&quality=80",
       "publishedAt": "2026-09-25T11:34:36Z",
       "content": ".\r\n .\r\nlist of 2 items<ul><li>list 1 of 2 7 </li><li>list 2 of 2</li></ul>end of list\r\n .\r\n . -.  (Gut-Liver Axis).\r\n \" \" (Hepatic Sanation) \r\n\" \" (Hepatic Sanation) .\r\n \" \" .\r\n .\r\n 100 .\r\n .\r\n .\r\n .… [+175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "هل تؤثر جراحة استبدال المفاصل على صحة الدماغ؟ دراسة تكشف نتائج جديدة",
-      "description": "تُعد جراحات استبدال مفصل الركبة أو الورك من الإجراءات الطبية الشائعة لعلاج الآلام المزمنة الناتجة عن التهاب المفاصل وتحسين قدرة المرضى على الحركة، إلا أن دراسة جديدة تشير إلى احتمال وجود تأثير غير متوقع لهذه العمليات على الدماغ.",
-      "url": "https://sarabic.ae/20260924/%D9%87%D9%84-%D8%AA%D8%A4%D8%AB%D8%B1-%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9-%D8%A7%D8%B3%D8%AA%D8%A8%D8%AF%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%BA%D8%9F-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9--1117237452.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/02/04/1085736820_0:0:3639:2048_2072x0_60_0_0_d7045ea12860bd30694de7694b7beb5a.jpg.webp",
-      "publishedAt": "2026-09-24T15:50:15Z",
-      "content": ""
     }
   ]
 }
