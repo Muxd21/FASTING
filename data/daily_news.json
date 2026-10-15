@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-10-14T11:13:53.986295",
+  "updated_at": "2026-10-15T10:53:25.043842",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "\"أمطار سوداء\" على إيران... عراقجي يحذر من كارثة بيئية بعد قصف مصفاة طهران",
+      "description": "أكد وزير الخارجية الإيراني عباس عراقجي، أن الحرب الأخيرة على إيران تسببت في أضرار بيئية واسعة، طالت صحة السكان والأماكن التي يعيشون فيها، داعيا إلى معالجة هذه التداعيات على المستوى الدولي والنظر في هذه الممارسات ضمن إطار جرائم الحرب.",
+      "url": "https://sarabic.ae/20261014/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B3%D9%88%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B5%D9%81-%D9%85%D8%B5%D9%81%D8%A7%D8%A9-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-1117792718.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/08/09/1115892868_0:165:1699:1120_2072x0_60_0_0_e2845d341cf2891fc78e8a3ee440e286.jpg.webp",
+      "publishedAt": "2026-10-14T06:09:23Z",
+      "content": "https://sarabic.ae/20261014/-------------1117792718.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/08/09/1115892868_0:165:1699:1120_1920x0_80_0_0_b1216637910aea04958a195a6df6a60d.jpg.webp\r\n \" \" . \" \" . . … [+394 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/09/uk-1790532760.jpg?resize=1920%2C1440",
       "publishedAt": "2026-09-28T06:30:00Z",
       "content": "10 13% 2024.\r\n 40% 50% \" \" \" \".\r\nlist of 4 items<ul><li>list 1 of 4</li><li>list 2 of 4 .. </li><li>list 3 of 4</li><li>list 4 of 4</li></ul>end of list\r\n .\r\n . \" \" .\r\n . 1922 70 .\r\n 13% 2025 ( )\r\n\" … [+109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": null,
-      "title": "بزشكيان لـ \"سي بي إس\": سنلتزم باتفاق هرمز إذا قبلته واشنطن والمرشد بصحة جيدة",
-      "description": "أكد الرئيس الإيراني مسعود بزشكيان لشبكة \"سي بي إس\" التزام بلاده بالمقترح الأخير بشأن مضيق هرمز إذا قبلته واشنطن، موضحا الموافقة على دخول المفتشين الدوليين، ومؤكدا سلامة صحة المرشد الأعلى.",
-      "url": "https://www.aljazeera.net/news/2026/9/26/%d8%ad%d9%88%d8%a7%d8%b1-%d8%a8%d8%b2%d8%b4%d9%83%d9%8a%d8%a7%d9%86-%d9%84%d8%b3%d9%8a-%d8%a8%d9%8a-%d8%a5%d8%b3",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/09/afp_6ab74f2ac0aa-1790398250.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-26T02:43:51Z",
-      "content": "\" \" .\r\n \" \" \" \" : \" \".\r\nlist of 2 items<ul><li>list 1 of 2 \" \" </li><li>list 2 of 2.. </li></ul>end of list\r\n .\r\n: \" . \".\r\n \" \" \"\" .\r\n : \" \".\r\n: \" \".\r\n : \" \" .\r\n 81 ()\r\n: \" \" .\r\n: \" 7 \" \" \" .\r\n 6 .\r\n… [+9 chars]"
     }
   ]
 }
