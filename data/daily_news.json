@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-10-16T10:44:53.374238",
+  "updated_at": "2026-10-17T10:10:53.615625",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": null,
+      "title": "حرائق جاوة تقتل منقذين وتخنق جيرانها بالدخان",
+      "description": "في إندونيسيا وعلى سفوح برومو في جاوة الشرقية، تحوّل حريق غابات إلى مأساة حصدت 4 من رجال الإطفاء، بينما يتصاعد ضباب دخاني عابر للحدود يغذيه جفاف \"النينيو\" ويهدد صحة الملايين ويحرج حكومات المنطقة.",
+      "url": "https://www.aljazeera.net/news/2026/10/16/%d8%ad%d8%b1%d8%a7%d8%a6%d9%82-6",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/10/ap_6ad1d3a1b5a10-1792136097.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-16T07:20:53Z",
+      "content": "4 .\r\n \" \" \" \" \" \" .\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2</li></ul>end of list\r\n 12 .\r\n .\r\n . \" \" 6 .\r\n \" \".\r\n .\r\n / 9 \"\" . .\r\n ()\r\n. \" \" .\r\n : .\r\n \" \" .\r\n 372 799 \" \" .\r\n . .\r\n… [+71 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/345172.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-09-28T10:31:08Z",
       "content": "(CNN)-- \"F\" .\r\n \"Cleveland Clinic\" \"F\" \"-\" (ALA) \"\" (LA). \r\n \"-\" -3 \"\" -6 .\r\n\"F\".\r\n.\r\n \"Cleveland Clinic\" \"F\" :\r\n \"F\" . .\r\n .\r\n \"F\" .\r\n .\r\n \"F\" . .\r\n \"F\" .\r\n \"F\" . .\r\n \"F\" :\r\n (LA) \"-\" (ALA) .\r\n<ul><… [+178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": null,
-      "title": "لماذا تتزايد النزاعات المالية بين الأشقاء في بريطانيا؟",
-      "description": "ارتفع عدد دعاوى إثبات صحة الوصايا وتوزيع التركات العائلية أمام المحكمة العليا في بريطانيا بشكل لافت، فما هي الأسباب التي أدت إلى تصاعد النزاعات المالية بين الأشقاء.",
-      "url": "https://www.aljazeera.net/ebusiness/2026/9/28/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%aa%d8%b2%d8%a7%d9%8a%d8%af-%d8%a7%d9%84%d9%86%d8%b2%d8%a7%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8%d9%8a%d9%86",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/09/uk-1790532760.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-28T06:30:00Z",
-      "content": "10 13% 2024.\r\n 40% 50% \" \" \" \".\r\nlist of 4 items<ul><li>list 1 of 4</li><li>list 2 of 4 .. </li><li>list 3 of 4</li><li>list 4 of 4</li></ul>end of list\r\n .\r\n . \" \" .\r\n . 1922 70 .\r\n 13% 2025 ( )\r\n\" … [+109 chars]"
     }
   ]
 }
