@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-10-19T12:11:56.746226",
+  "updated_at": "2026-10-20T10:57:08.200724",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "الأردن ينفي مشاركة إسرائيل في معرض لمعدات العمليات الخاصة والأمن القومي",
+      "description": "نفت القوات المسلحة الأردنية، اليوم الأحد، صحة ما تداولته وسائل إعلام أجنبية، بشأن مشاركة إسرائيل في معرض معدات العمليات الخاصة \"سوفكس الأردن\"، المقرر إقامته في مدينة العقبة، خلال الفترة من 27 إلى 29 أكتوبر/ تشرين الأول الجاري.",
+      "url": "https://sarabic.ae/20261018/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D9%86%D9%81%D9%8A-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%B6-%D9%84%D9%85%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-1117908430.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/103224/70/1032247024_0:28:3150:1800_2072x0_60_0_0_9168b15d3b199e51d375317ade65be3e.jpg.webp",
+      "publishedAt": "2026-10-18T13:43:21Z",
+      "content": "https://sarabic.ae/20261018/-----------1117908430.html\r\nhttps://cdn.img.sarabic.ae/img/103224/70/1032247024_0:28:3150:1800_1920x0_80_0_0_b42673a34886386c12fd0fa84fa84ebe.jpg.webp\r\n . 36 : \"\" . \"\" 199… [+329 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/09/jyad1-1790773004.jpeg?resize=1920%2C1280&quality=80",
       "publishedAt": "2026-09-30T15:27:01Z",
       "content": "\" \" . .\r\n .\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2.. </li></ul>end of list\r\n : \r\n ()\r\n.\r\n .\r\n .\r\n ()\r\n.\r\n 200 .\r\n : .\r\n   269 2026 / .\r\n .\r\n .\r\n : .\r\n .\r\n 33 85 84 .\r\n 118 202 .\r… [+481 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": null,
-      "title": "يدعم صحة قلبك ودماغك..أبرز مصادر فيتامين \"F\" الطبيعية",
-      "description": "هل سبق أن سمعت عن فيتامين \"F\"؟ قد تظنّه للوهلة الأولى فيتامينًا حقيقيًا، لكن الواقع مختلف تمامًا.",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/09/28/vitamin-f-health-benefits-food-sources-infographic",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/345172.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-28T10:31:08Z",
-      "content": "(CNN)-- \"F\" .\r\n \"Cleveland Clinic\" \"F\" \"-\" (ALA) \"\" (LA). \r\n \"-\" -3 \"\" -6 .\r\n\"F\".\r\n.\r\n \"Cleveland Clinic\" \"F\" :\r\n \"F\" . .\r\n .\r\n \"F\" .\r\n .\r\n \"F\" . .\r\n \"F\" .\r\n \"F\" . .\r\n \"F\" :\r\n (LA) \"-\" (ALA) .\r\n<ul><… [+178 chars]"
     }
   ]
 }
