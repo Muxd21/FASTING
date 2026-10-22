@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-10-21T11:12:08.466801",
+  "updated_at": "2026-10-22T11:11:30.882196",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "ما صحة اتهام المهاجرين والأجانب بالوقوف وراء أعمال الشغب في فرنسا؟",
+      "description": "بينما هدأت حدة الاحتجاجات التي شهدتها فرنسا اليمين الفرنسي والأمريكي يتهمون المهاجرين وفشل سياسات دمجهم في المجتمع الفرنسي بالمسؤولية عن عمليات العنف والنهب الواسعة التي شهدتها الاحتجاجات فهل لهذا الاتهام أساس من الصحة؟",
+      "url": "https://www.bbc.com/arabic/articles/c6zjxv1j20l8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1200/branded_arabic/28f9/live/3a999590-cca5-11f1-a5d0-db40ec16d9a9.jpg",
+      "publishedAt": "2026-10-20T16:50:11Z",
+      "content": "Getty Images\r\n. . .\r\n . .\r\n . . .\r\n . .\r\n .\r\n\"\" \" \".\r\n . \" \". : \" \".\r\n \" \" \"\" .\r\n. . \" \" .\r\n 2026 .\r\n . .\r\n .\r\n . .\r\n \"\" . .\r\n 21 / .\r\n 00442038752989.\r\n : 00447590001533\r\n Message\r\n : https://www.fa… [+44 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/345171.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-10-02T07:08:37Z",
       "content": "(CNN)-- \"-3\" .. \"-6\" \r\n .\r\n \"Harvard Health Publishing\" \"-6\" :\r\n \"Cleveland Clinic\" :\r\n 17 \"-6\" 12 .\r\n \"-3.\r\n \"-6\" \"\" \"\".\r\n \"Harvard Health Publishing\" \"\" . \r\n.\r\n \"\" .\r\n \"-6\" .\r\n \" \"   .\r\n \"-6\" .\r\n \"… [+3 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "أصيل سارية",
-      "title": "من تهاني إلى جياد.. قصص أطفال اليمن مع الجوع والمساعدات المتأخرة",
-      "description": "تحقيق ميداني بالصور والوثائق والبيانات، يرصد انتشار سوء التغذية بين أطفال اليمن، ويكشف من قلب الميدان ومخيمات النزوح، حجم المعاناة وتداعيات الأزمة على صحة الأطفال وحياتهم.",
-      "url": "https://www.aljazeera.net/news/2026/9/30/%d9%85%d9%86-%d8%aa%d9%87%d8%a7%d9%86%d9%8a-%d8%a5%d9%84%d9%89-%d8%ac%d9%8a%d8%a7%d8%af-%d9%82%d8%b5%d8%b5-%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%85%d8%b9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/09/jyad1-1790773004.jpeg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2026-09-30T15:27:01Z",
-      "content": "\" \" . .\r\n .\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2.. </li></ul>end of list\r\n : \r\n ()\r\n.\r\n .\r\n .\r\n ()\r\n.\r\n 200 .\r\n : .\r\n   269 2026 / .\r\n .\r\n .\r\n : .\r\n .\r\n 33 85 84 .\r\n 118 202 .\r… [+481 chars]"
     }
   ]
 }
