@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-11-01T12:42:16.560860",
+  "updated_at": "2026-11-02T14:49:17.572780",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "د. عبد الإله الرضواني",
+      "title": "\"الرجل لا يشتكي\".. عندما تتحول ثقافة التحمل إلى خطر على صحة الرجال",
+      "description": "تتمثل القوة الحقيقية في اهتمام الرجل بصحته وطلب المساعدة عند الحاجة، لا في الصمت وتحمل الألم. وتؤكد رسالة \"موفمبر\" أهمية الفحوص الوقائية والكشف المبكر لتجنب تفاقم الأمراض.",
+      "url": "https://www.aljazeera.net/health-topic/2026/11/1/%d8%a7%d9%84%d8%b1%d8%ac%d9%84-%d9%84%d8%a7-%d9%8a%d8%b4%d8%aa%d9%83%d9%8a-%d8%b9%d9%86%d8%af%d9%85%d8%a7-%d8%aa%d8%aa%d8%ad%d9%88%d9%84-%d8%ab%d9%82%d8%a7%d9%81%d8%a9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/10/8900026-1792327109.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-01T03:00:00Z",
+      "content": ". / \"\" (Movember) : \r\n . .\r\n .\r\n 2024 87.1% 93.3% . .\r\n / \"\" .\r\n()\r\n: \r\n(Movember) 2003 / . (Moustache) / (November).\r\n .\r\n 3 : . : .\r\n.\r\n 2018 \"American Journal of Mens Health\" .\r\n .\r\n . 2020 \" \" 11… [+540 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://sookeh.imagibyte.sortdcdn.net/wp-content/uploads/2026/10/image-1791702642410.jpeg",
       "publishedAt": "2026-10-11T07:11:26Z",
       "content": "– .\r\n – 117--2026 11-10-2026.\r\n625,000 . 10% 15 . 0.001 20% .\r\n6 . .\r\n50 USD . 29-10-2026 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": null,
-      "title": "صحة غزة: 4 سنوات لإجلاء المرضى والجرحى بوتيرة السفر الحالية",
-      "description": "قالت صحة غزة إن إجلاء نحو 21 ألف مريض وجريح خارج القطاع سيستغرق 4 سنوات وفق آلية السفر الحالية، فيما قال المتحدث باسم الصحة العالمية إن الحصول على موافقة إسرائيل لإدخال معدات طبية يستغرق نحو 74 يوما.",
-      "url": "https://www.aljazeera.net/news/2026/10/8/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-4-%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d9%84%d8%a5%d8%ac%d9%84%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%b1%d8%b6%d9%89-%d9%88%d8%a7%d9%84%d8%ac%d8%b1%d8%ad%d9%89",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/10/getty_6ac758430f-1791449155.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-10-08T06:53:07Z",
-      "content": "21 4 .\r\n .\r\nlist of 2 items<ul><li>list 1 of 2</li><li>list 2 of 2: .. </li></ul>end of list\r\n .\r\n .\r\n ()\r\n.\r\n .\r\n \"\" ( )\r\n\" \" / 2025.\r\n - - \" \" .\r\n 14 36 / 2025 20 .\r\n .\r\n ()\r\n.\r\n 74 .\r\n .\r\n ( )\r\n\" … [+56 chars]"
     }
   ]
 }
